@@ -15,6 +15,7 @@
 - [ ] Toki no Kakeru Shoujo
 - [ ] Harmony
 - [ ] Glass no Hana to Kowasu Sekai
+- [ ] Summer Wars
 
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
