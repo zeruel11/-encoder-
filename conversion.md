@@ -9,7 +9,9 @@
 
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
-(+)Symphogear G GX
+(+) Symphogear G GX
+(+) Shangri-La
+(+) Tokyo Mew Mew
 - [ ] Toki no Kakeru Shoujo
 - [ ] Movies
 
