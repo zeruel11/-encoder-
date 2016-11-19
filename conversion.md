@@ -10,7 +10,7 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (+)Symphogear G GX
-- [ ] Girl Movies
+- [ ] Toki no Kakeru Shoujo Movies
 - [ ] GX
 
 ### BY SERVER
