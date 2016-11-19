@@ -33,7 +33,7 @@
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
-(.) Sacred Seven
+(/) Sacred Seven
 
 > Note:
 > (+) Not yet converted
