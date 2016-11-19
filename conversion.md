@@ -10,8 +10,8 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (+)Symphogear G GX
-- [ ] Toki no Kakeru Shoujo Movies
-- [ ] GX
+- [ ] Toki no Kakeru Shoujo
+- [ ] Movies
 
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
