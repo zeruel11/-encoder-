@@ -10,12 +10,12 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (+) Symphogear G GX
-(+) Shangri-La
 (+) Tokyo Mew Mew
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Glass no Hana to Kowasu Sekai
 - [ ] Summer Wars
+
 
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
@@ -26,8 +26,8 @@
 (.) Chrome Shelled Regios
 (.) SankaRea
 (.) Noir
-(/) The Third
-
+(.) The Third
+(/) Shangri-La
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
@@ -51,3 +51,4 @@
 #### OpenLoad
 16/11/16 : __482__
 17/11/16 : __495__
+19/11/16 : __537__
