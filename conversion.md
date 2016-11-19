@@ -10,7 +10,7 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (+)Symphogear G GX
-- [ ] Movies
+- [ ] Girl Movies
 - [ ] GX
 
 ### BY SERVER
