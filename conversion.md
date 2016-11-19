@@ -27,7 +27,7 @@
 (.) SankaRea
 (.) Noir
 (.) The Third
-(/) Shangri-La
+(=) Shangri-La
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
@@ -45,7 +45,7 @@
 > (-) Waiting for source
 > (/) Converting
 > (.) Done
-> (=) Project
+> (=) Project/Need manual tampering
 
 <!-- untoc -->
 #### OpenLoad
