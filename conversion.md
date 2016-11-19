@@ -26,7 +26,7 @@
 (.) Chrome Shelled Regios
 (.) SankaRea
 (.) Noir
-(.) The Third
+(/) The Third
 
 
 ### BY PC
