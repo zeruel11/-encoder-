@@ -12,7 +12,7 @@
 (+) Symphogear G GX
 (+) Shangri-La
 (+) Tokyo Mew Mew
-- [ ] Toki no Kakeru Shoujo
+- [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Glass no Hana to Kowasu Sekai
 - [ ] Summer Wars
@@ -37,7 +37,8 @@
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
-(/) Sacred Seven
+(.) Sacred Seven
+(/) Symphogear
 
 > Note:
 > (+) Not yet converted
