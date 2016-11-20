@@ -11,7 +11,6 @@
 (+) Symphogear G GX
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
-- [ ] Glass no Hana to Kowasu Sekai
 - [ ] Summer Wars
 
 
@@ -27,6 +26,7 @@
 (.) The Third
 (.) Shangri-La
 (=) Tokyo Mew Mew
+- [ ] Glass no Hana to Kowasu Sekai
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
