@@ -1,4 +1,3 @@
-
 <!-- toc orderedList:0 depthFrom:1 depthTo:3 -->
 
 - [TBD](#tbd)
@@ -10,7 +9,6 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (+) Symphogear G GX
-(+) Tokyo Mew Mew
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Glass no Hana to Kowasu Sekai
@@ -27,7 +25,8 @@
 (.) SankaRea
 (.) Noir
 (.) The Third
-(=) Shangri-La
+(.) Shangri-La
+(/) Tokyo Mew Mew
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
@@ -38,7 +37,8 @@
 (.) Serial Experiments Lain
 (.) Nanaka
 (.) Sacred Seven
-(/) Symphogear
+(.) Symphogear
+(/) Symphogear G
 
 > Note:
 > (+) Not yet converted
