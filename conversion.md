@@ -26,7 +26,7 @@
 (.) Noir
 (.) The Third
 (.) Shangri-La
-(/) Tokyo Mew Mew
+(=) Tokyo Mew Mew
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
@@ -38,7 +38,7 @@
 (.) Nanaka
 (.) Sacred Seven
 (.) Symphogear
-(/) Symphogear G
+(/) Symphogear G [sering error](https://x265.github.io/)
 
 > Note:
 > (+) Not yet converted
@@ -52,3 +52,4 @@
 16/11/16 : __482__
 17/11/16 : __495__
 19/11/16 : __537__
+20/11/16 : __576__
