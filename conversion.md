@@ -8,7 +8,9 @@
 
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
-(+) Symphogear G GX
+(+) Another
+(+) Maou Yuusha
+(?) Narue no Sekai
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Summer Wars
@@ -17,7 +19,7 @@
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(-) ViVid Strike! [VividTrans]
+(.) ViVid Strike! [VividTrans]
 (.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
@@ -25,8 +27,9 @@
 (.) Noir
 (.) The Third
 (.) Shangri-La
-(=) Tokyo Mew Mew
-- [ ] Glass no Hana to Kowasu Sekai
+(.) Tokyo Mew Mew
+(/) Zankyou no Terror
+- [x] Glass no Hana to Kowasu Sekai
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
@@ -38,14 +41,16 @@
 (.) Nanaka
 (.) Sacred Seven
 (.) Symphogear
-(/) Symphogear G [sering error](https://x265.github.io/)
+(.) Symphogear G [sering error](https://x265.github.io/)
+(/) Symphogear GX
 
 > Note:
-> (+) Not yet converted
+> (+) Not yet converted/Pending
 > (-) Waiting for source
 > (/) Converting
 > (.) Done
 > (=) Project/Need manual tampering
+> (?) Yet to be decided to convert
 
 <!-- untoc -->
 #### OpenLoad
@@ -53,3 +58,4 @@
 17/11/16 : __495__
 19/11/16 : __537__
 20/11/16 : __576__
+21/11/16 : __588__
