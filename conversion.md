@@ -9,11 +9,12 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (+) Another
-(+) Maou Yuusha
 (?) Narue no Sekai
+(+) Blassreiter
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Summer Wars
+- [ ] Rakuen Tsuihou
 
 
 ### BY SERVER
@@ -28,7 +29,8 @@
 (.) The Third
 (.) Shangri-La
 (.) Tokyo Mew Mew
-(/) Zankyou no Terror
+(.) Zankyou no Terror
+(/) Maou Yuusha
 - [x] Glass no Hana to Kowasu Sekai
 
 ### BY PC

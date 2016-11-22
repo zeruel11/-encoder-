@@ -1,22 +1,22 @@
-﻿#|TV
+﻿TV
 
-1|Chrome Shelled Regios
-2|Gate Keepers
-3|Mahou Shoujo Rising Project
-4|Nanaka 6-17
-5|Noir
-6|Occultic Nine
-7|Regalia
-8|Sabagebu!
-9|Sacred Seven
-10|SankaRea
-11|Shangri-La
-12|Show by Rock
-13|Shuumatsu no Izetta
-14|Soushin Shoujo Matoi
-15|Symphogear
-16|Symphogear G
-17|Tenshi ni Shippo
-18|The Third
-19|Tokyo Mew Mew
-20|ViVid Strike!
+Chrome Shelled Regios
+Gate Keepers
+Mahou Shoujo Rising Project
+Nanaka 6-17
+Noir
+Occultic Nine
+Regalia
+Sabagebu!
+Sacred Seven
+SankaRea
+Shangri-La
+Show by Rock
+Shuumatsu no Izetta
+Soushin Shoujo Matoi
+Symphogear
+Symphogear G
+Tenshi ni Shippo
+The Third
+Tokyo Mew Mew
+ViVid Strike!

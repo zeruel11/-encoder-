@@ -1,0 +1,1483 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>AniSize</title>
+
+<style type="text/css"> 
+html { overflow-y: scroll; }
+html, body, #dropitList { padding: 0; margin: 0; }
+
+#di-container, #di-main-wrap, #di-header, #di-footer-wrap, #dropitList ul#infoline, #di-mainTable { padding: 0; margin: 0; position: relative; }
+
+#dropitList { font: 12px/1.3 Arial, sans-serif; *float: left; }
+
+#di-container { margin: 0 auto; padding: 15px 30px 40px; display: table; }
+#di-header { padding-top: 1px; }
+
+#dropitList textarea, #dropitList input { outline: none; }
+
+#dropitList a { outline: none; color: #333; text-decoration: underline; }
+a#di-top { display: block; margin-top: 30px; display: inline; position: relative; margin-bottom: 30px; text-decoration: none; }
+
+#dropitList h1 { font-size: 220%; margin: 15px 0; }
+
+.di-center { text-align: center; }
+.di-right { text-align: right; }
+
+#di-infoline { padding: 0; margin: 0; margin-bottom: 15px; }
+
+#di-infoline li {
+	border-right: 1px solid #333;
+	display: inline;
+	padding-right: 10px;
+	margin-right: 10px;
+}
+
+#di-infoline li:last-child, #di-infoline .di-last { border: none; }
+
+#di-mainTable { border-bottom: 1px solid #333; margin: 10px 0 25px 0; cursor: default; }
+/* #di-mainTable { table-layout: fixed; overflow: hidden; word-wrap: break-word; } */
+
+#dropitList th, #dropitList td { padding: 6px 8px; vertical-align: top; }
+
+#dropitList th {
+	text-align: left;
+	white-space: nowrap;
+	border-bottom: 1px solid #333;
+	font-weight: normal;
+}
+
+#dropitList th div { *width: 100%; *padding-right: 8px; }
+
+#dropitList thead th div { position: relative; }
+.di-sortable thead th, .di-sortable thead th:hover { cursor: pointer; }
+
+.di-tableSortArrow {
+	position: absolute;
+	right: 0px;
+	*right: 5px;
+	top: 2px;
+	font-size: 9px;
+}
+
+#di-footer span { font-style: italic; }
+
+form.di-filter { position: absolute; top: 15px; right: 0; }
+form.di-filter#di-fixed { position: fixed; top: 30px; right: 30px; _position: absolute; _top: 15px; _right: 0; }
+
+form.di-filter input.di-searchField {
+    width: 120px;
+	height: 16px;
+	border: 1px solid #333;
+    padding: 6px 28px 6px 10px;
+    position: relative;
+}
+
+form.di-filter input.di-clearFilterButton {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 28px;
+	height: 28px;
+	margin-right: 0;
+	padding-left: 0;
+	text-decoration: none;
+	border: none;
+	background-color: transparent;
+}
+
+form.di-filter input.di-clearFilterButton:hover { cursor: pointer; }
+
+a.di-clearFilterLink {
+    border: none;
+	cursor: pointer;
+	text-decoration: underline;
+	margin-left: 5px;
+}
+
+.di-noResults { padding: 30px 0 50px; }
+
+@charset "UTF-8";
+/*lighter box*/
+
+html, body {
+	height: 100%;
+}
+
+#lighterbox2 {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	background-color: rgba(0, 0, 0, 0.8);
+	z-index: 2100;
+}
+
+#lighterboxclose2 {
+	width: 100%;
+	height: 100%;
+}
+
+#lighterboxwrapper2, #lighterboxcontent2 {
+	background-color: #fff;
+	z-index: inherit;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	padding: 12px;
+}
+
+#lighterboxwrapper2 {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	min-width: 200px;
+	text-align: center;
+}
+
+#lighterboxcontent2 {
+	/*/background: url(load.gif) no-repeat 50% 50%;*/
+	padding: 12px;
+}
+
+#lighterboxportimage2 {
+	border: solid 10px #fff;
+	cursor: pointer;
+}
+
+#lighterboxtitle2 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#lighterboxdescription2 {
+	font-size: 14px;
+	width: 100%;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+#lighterboxprevimage2, #lighterboxnextimage2 {
+	position: absolute;
+	top: 38%;
+	padding: 12px 8px 16px;
+}
+
+#lighterboxprevimage2 {
+	left: 0;
+}
+
+#lighterboxnextimage2 {
+	right: 0;
+}
+
+#lighterboxcloseimage2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 6px;
+}
+
+#lighterboxclosebutton2 {
+	color: #000;
+	font: bold 12px verdana, sans-serif;
+	width: 100%;
+}
+
+span#lighterboxcloseimage2 {
+	font-size: 11px;
+	font-weight: bold;
+}
+
+#lighterboxclosebutton2 span {
+	cursor: pointer;	
+}
+
+/* ---------------------------------------------------------- */
+/* Theme: Google
+/* Author: tpr
+/* ---------------------------------------------------------- */
+
+span.highlighted { color: #000; background-color: #FFFF96; }
+
+#dropitList { color: #222; font-family: Arial; }
+
+#dropitList #di-bg-header {
+	border-top: 27px solid #2D2D2D;
+	border-bottom: 1px solid #E5E5E5;
+	height: 72px;
+	background-color: #F5F5F5;
+	position: absolute;
+	width: 100%;
+}
+
+#dropitList #di-container { padding: 0 30px; }
+
+#dropitList a { color: #1122CC; text-decoration: underline; font-weight: normal; }
+
+#dropitList a#di-top { color: #222; }
+#dropitList a#di-top:hover { color: #222; }
+
+#dropitList h1 { color: #DD4B39;  line-height: 72px; position: relative; top: 27px; margin-top: 0; font-weight: normal; font-size: 20px; display: inline-block; }
+
+#di-infoline { position: absolute; left: 0; top: 7px; }
+#di-infoline li { border: none; color: #ccc; margin-right: 10px; }
+#di-infoline li strong { color: #fff; }
+
+#dropitList #di-header-wrap { margin-top: 0; }
+#dropitList #di-mainTable { border: none; margin-top: 30px; *margin-top: 0; }
+
+#dropitList th { border-bottom: 1px solid #DEDEDE; }
+#dropitList td { border-bottom: 1px solid #E5E5E5; }
+
+#dropitList tr:hover td { background-color: #eee; }
+
+#dropitList .di-sortable td.di-activeColumn { color: #000; font-weight: bold; }
+#dropitList .di-sortable th:hover, #dropitList di-sortable th.di-active { color: #093; }
+
+#dropitList .di-tableSortArrow { top: 2px; }
+
+#dropitList #di-footer-wrap { padding-top: 15px; }
+
+#dropitList form.di-filter, #dropitList form.di-filter#di-fixed { position: relative !important; top: 25px; height: 27px; line-height: 27px; display: inline-block; left: 30px; *display: block; *top: -41px; *left: 180px; }
+
+#dropitList form.di-filter input { color: #333; }
+
+#dropitList form.di-filter input.di-searchField { border: 1px solid #D9D9D9; border-top: 1px solid #C0C0C0; background-color: #fff; color: #000; width: 250px; }
+#dropitList form.di-filter input.di-searchField:hover { border: 1px solid #B9B9B9; border-top: 1px solid #A0A0A0; }
+#dropitList form.di-filter input.di-searchField:focus { border-color: #4D90FE; }
+
+#dropitList form.di-filter input.di-clearFilterButton {
+	left: 300px;
+	color: #fff;
+	font-weight: bold;
+	width: 50px;
+	height: 30px;
+	padding: 0;
+	text-align: center;
+	border: 1px solid #317AEE;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	background: #4d90fe;
+	background: -moz-linear-gradient(top, #4d90fe 0%, #4787ed 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4d90fe), color-stop(100%,#4787ed));
+	background: -webkit-linear-gradient(top, #4d90fe 0%,#4787ed 100%);
+	background: -o-linear-gradient(top, #4d90fe 0%,#4787ed 100%);
+	background: -ms-linear-gradient(top, #4d90fe 0%,#4787ed 100%);
+	background: linear-gradient(top, #4d90fe 0%,#4787ed 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d90fe', endColorstr='#4787ed',GradientType=0 );
+}
+
+#dropitList form.di-filter input.di-clearFilterButton:hover {
+	border-color: #2F5BB7;
+	background: #4286F4;
+	background: -moz-linear-gradient(top, #4d90fe 0%, #357ae8 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4d90fe), color-stop(100%,#357ae8));
+	background: -webkit-linear-gradient(top, #4d90fe 0%,#357ae8 100%);
+	background: -o-linear-gradient(top, #4d90fe 0%,#357ae8 100%);
+	background: -ms-linear-gradient(top, #4d90fe 0%,#357ae8 100%);
+	background: linear-gradient(top, #4d90fe 0%,#357ae8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d90fe', endColorstr='#357ae8',GradientType=0 );
+}
+</style>
+</head>
+
+<body>
+<div id="dropitList">
+
+<div id="di-bg-header"></div>
+
+<div id="di-container">
+
+<div id="di-main-wrap">
+
+<div id="di-header-wrap">
+
+<div id="di-header">
+	<h1>AniSize</h1>
+	<ul id="di-infoline">
+		<li><strong>Created</strong>: 22/11/2016 11:19</li>
+		<li><strong>Profile</strong>: Lister</li>
+		<li><strong>Rules</strong>: **;*</li>
+		<li class="di-last"><strong>Total</strong>: <span id="di-count">144</span></li>
+	</ul>
+</div><!-- #di-header -->
+</div><!-- #di-header-wrap -->
+
+<div id="di-table">
+<table id="di-mainTable" cellpadding="0" cellspacing="0">
+<thead>
+<tr>
+	<th>TV</th>
+	<th>Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>[Anime-Koi] Blood-C： The Last Dark [h264-720p][29E51FC5]</td>
+	<td>884 MB</td>
+</tr>
+<tr>
+	<td>[GJM] Glass no Hana to Kowasu Sekai (BD 720p) [2DA6FE20]</td>
+	<td>1.57 GB</td>
+</tr>
+<tr>
+	<td>[JacobSwaggedUp] Summer Wars (BD 1280x720)</td>
+	<td>1.7 GB</td>
+</tr>
+<tr>
+	<td>[Kmimi-psp] Harmony</td>
+	<td>1.12 GB</td>
+</tr>
+<tr>
+	<td>[Lazy Lily] Sono Hanabira ni Kuchizuke wo - Anata no Koibito Tsunagi OVA [720p][MULTI][4AB9C953]</td>
+	<td>550 MB</td>
+</tr>
+<tr>
+	<td>Ai Tenchi Muyo</td>
+	<td>1.57 GB</td>
+</tr>
+<tr>
+	<td>Akazukin Chacha</td>
+	<td>2.85 GB</td>
+</tr>
+<tr>
+	<td>Allison to Lilia</td>
+	<td>4.18 GB</td>
+</tr>
+<tr>
+	<td>Aoi Hana</td>
+	<td>2.41 GB</td>
+</tr>
+<tr>
+	<td>Aoki hagane Ars</td>
+	<td>1.39 GB</td>
+</tr>
+<tr>
+	<td>Blassreiter</td>
+	<td>7.93 GB</td>
+</tr>
+<tr>
+	<td>Blood - The Last Vampire</td>
+	<td>702 MB</td>
+</tr>
+<tr>
+	<td>Blood +</td>
+	<td>8.38 GB</td>
+</tr>
+<tr>
+	<td>Blood C</td>
+	<td>3.45 GB</td>
+</tr>
+<tr>
+	<td>Blue Drop</td>
+	<td>646 MB</td>
+</tr>
+<tr>
+	<td>Boku Dake ga Inai Machi</td>
+	<td>2.08 GB</td>
+</tr>
+<tr>
+	<td>Boogiepop</td>
+	<td>5.11 GB</td>
+</tr>
+<tr>
+	<td>C - Control</td>
+	<td>2.34 GB</td>
+</tr>
+<tr>
+	<td>Candy Boy</td>
+	<td>2.62 GB</td>
+</tr>
+<tr>
+	<td>Cardcaptor Sakura</td>
+	<td>6.05 GB</td>
+</tr>
+<tr>
+	<td>Chobits</td>
+	<td>1.53 GB</td>
+</tr>
+<tr>
+	<td>Chrome Shelled Regios</td>
+	<td>1.2 GB</td>
+</tr>
+<tr>
+	<td>Chuunibyou demo Koi ga Shitai! Ren</td>
+	<td>1.54 GB</td>
+</tr>
+<tr>
+	<td>City Hunter</td>
+	<td>4.41 GB</td>
+</tr>
+<tr>
+	<td>Concrete Revolutio</td>
+	<td>6.17 GB</td>
+</tr>
+<tr>
+	<td>Cooking Master Boy</td>
+	<td>3.58 GB</td>
+</tr>
+<tr>
+	<td>Corrector yui</td>
+	<td>3.46 GB</td>
+</tr>
+<tr>
+	<td>Cross Ange</td>
+	<td>3.94 GB</td>
+</tr>
+<tr>
+	<td>Dagashi Kashi</td>
+	<td>5.23 GB</td>
+</tr>
+<tr>
+	<td>Danna ga Nani</td>
+	<td>747 MB</td>
+</tr>
+<tr>
+	<td>Danshi Koukousei</td>
+	<td>2.63 GB</td>
+</tr>
+<tr>
+	<td>DearS</td>
+	<td>662 MB</td>
+</tr>
+<tr>
+	<td>Densetsu no Yuusha no Densetsu</td>
+	<td>5.01 GB</td>
+</tr>
+<tr>
+	<td>D-Frag</td>
+	<td>1.41 GB</td>
+</tr>
+<tr>
+	<td>Di Gi Charat</td>
+	<td>11.8 GB</td>
+</tr>
+<tr>
+	<td>Dog Days</td>
+	<td>4.31 GB</td>
+</tr>
+<tr>
+	<td>Dr. Rin</td>
+	<td>4.86 GB</td>
+</tr>
+<tr>
+	<td>Durarara x2</td>
+	<td>8.89 GB</td>
+</tr>
+<tr>
+	<td>Elfen Lied</td>
+	<td>2.38 GB</td>
+</tr>
+<tr>
+	<td>Eureka Seven</td>
+	<td>3.06 GB</td>
+</tr>
+<tr>
+	<td>Flame of recca</td>
+	<td>3.08 GB</td>
+</tr>
+<tr>
+	<td>Ga-Rei Zero</td>
+	<td>1.99 GB</td>
+</tr>
+<tr>
+	<td>GATE</td>
+	<td>2.02 GB</td>
+</tr>
+<tr>
+	<td>Gate Keepers</td>
+	<td>2.59 GB</td>
+</tr>
+<tr>
+	<td>Genshiken Nidaime</td>
+	<td>4.09 GB</td>
+</tr>
+<tr>
+	<td>Ghost in The Shell ARISE</td>
+	<td>10.2 GB</td>
+</tr>
+<tr>
+	<td>Gin no Saji</td>
+	<td>4.31 GB</td>
+</tr>
+<tr>
+	<td>Girls und Panzer</td>
+	<td>3.34 GB</td>
+</tr>
+<tr>
+	<td>Glasslip  グラスリップ</td>
+	<td>1.3 GB</td>
+</tr>
+<tr>
+	<td>Gungrave</td>
+	<td>2.27 GB</td>
+</tr>
+<tr>
+	<td>Hai to Gensou no Grimgar</td>
+	<td>2.91 GB</td>
+</tr>
+<tr>
+	<td>Hataraku</td>
+	<td>2.5 GB</td>
+</tr>
+<tr>
+	<td>Heroic Age</td>
+	<td>1.38 GB</td>
+</tr>
+<tr>
+	<td>Hourou Musuko</td>
+	<td>1.97 GB</td>
+</tr>
+<tr>
+	<td>Ima Soko ni Iru Boku</td>
+	<td>3.43 GB</td>
+</tr>
+<tr>
+	<td>Imocho</td>
+	<td>832 MB</td>
+</tr>
+<tr>
+	<td>Inuyasha</td>
+	<td>12.5 GB</td>
+</tr>
+<tr>
+	<td>Joukamachi</td>
+	<td>2.49 GB</td>
+</tr>
+<tr>
+	<td>kaichou wa maid sama</td>
+	<td>4.92 GB</td>
+</tr>
+<tr>
+	<td>Kekkaishi</td>
+	<td>3.36 GB</td>
+</tr>
+<tr>
+	<td>Kingsglaive.Final.Fantasy.XV.2016.720p.WEB-DL</td>
+	<td>751 MB</td>
+</tr>
+<tr>
+	<td>Kiznaiver</td>
+	<td>2.23 GB</td>
+</tr>
+<tr>
+	<td>Koukaku no Pandora</td>
+	<td>2.27 GB</td>
+</tr>
+<tr>
+	<td>Koutetsujou no Kabaneri</td>
+	<td>1.75 GB</td>
+</tr>
+<tr>
+	<td>Kuttsukiboshi</td>
+	<td>600 MB</td>
+</tr>
+<tr>
+	<td>Lain</td>
+	<td>1.01 GB</td>
+</tr>
+<tr>
+	<td>Legendz</td>
+	<td>8.48 GB</td>
+</tr>
+<tr>
+	<td>Magic Knight Rayearth !!!</td>
+	<td>8.26 GB</td>
+</tr>
+<tr>
+	<td>Mahou Shoujo Ikusei Keikaku</td>
+	<td>622 MB</td>
+</tr>
+<tr>
+	<td>Mahou Tsukai Tai</td>
+	<td>3.62 GB</td>
+</tr>
+<tr>
+	<td>Mahoutsukai ni Taisetsu na Koto</td>
+	<td>3.98 GB</td>
+</tr>
+<tr>
+	<td>Mahoutsukai ni Taisetsu na Koto Natsu no Sora</td>
+	<td>2.72 GB</td>
+</tr>
+<tr>
+	<td>Mainichi ga Nichiyoubi</td>
+	<td>916 MB</td>
+</tr>
+<tr>
+	<td>Mangaka-san to Assistant-san to The Animation</td>
+	<td>1016 MB</td>
+</tr>
+<tr>
+	<td>MAR</td>
+	<td>6.46 GB</td>
+</tr>
+<tr>
+	<td>Maria-sama ga Miteru</td>
+	<td>9.12 GB</td>
+</tr>
+<tr>
+	<td>Mashiroiro</td>
+	<td>2.76 GB</td>
+</tr>
+<tr>
+	<td>Miss Monochrome</td>
+	<td>2.66 GB</td>
+</tr>
+<tr>
+	<td>Moribito</td>
+	<td>10.9 GB</td>
+</tr>
+<tr>
+	<td>Murder Princess</td>
+	<td>904 MB</td>
+</tr>
+<tr>
+	<td>Nanaka 6-17</td>
+	<td>706 MB</td>
+</tr>
+<tr>
+	<td>Natsuiro</td>
+	<td>992 MB</td>
+</tr>
+<tr>
+	<td>Needless</td>
+	<td>2.92 GB</td>
+</tr>
+<tr>
+	<td>New Game!</td>
+	<td>1.9 GB</td>
+</tr>
+<tr>
+	<td>Nijiiro Days</td>
+	<td>1.92 GB</td>
+</tr>
+<tr>
+	<td>Noir</td>
+	<td>1.35 GB</td>
+</tr>
+<tr>
+	<td>Onegai Twins</td>
+	<td>2.08 GB</td>
+</tr>
+<tr>
+	<td>Phantom - Requiem</td>
+	<td>4.9 GB</td>
+</tr>
+<tr>
+	<td>Regalia</td>
+	<td>1.27 GB</td>
+</tr>
+<tr>
+	<td>ReLife</td>
+	<td>1.7 GB</td>
+</tr>
+<tr>
+	<td>Rin - Mnemosyne no Musume-tachi</td>
+	<td>1.09 GB</td>
+</tr>
+<tr>
+	<td>Rune Soldier</td>
+	<td>1.27 GB</td>
+</tr>
+<tr>
+	<td>Ryuugajou Nanana no Maizoukin</td>
+	<td>813 MB</td>
+</tr>
+<tr>
+	<td>Sabagebu!</td>
+	<td>2.44 GB</td>
+</tr>
+<tr>
+	<td>Sacred Seven</td>
+	<td>1.18 GB</td>
+</tr>
+<tr>
+	<td>Saint Seiya</td>
+	<td>7.56 GB</td>
+</tr>
+<tr>
+	<td>Sakurasou no Pet na Kanojo</td>
+	<td>1.55 GB</td>
+</tr>
+<tr>
+	<td>Samurai X [end]</td>
+	<td>8.13 GB</td>
+</tr>
+<tr>
+	<td>Sankarea</td>
+	<td>1.18 GB</td>
+</tr>
+<tr>
+	<td>Sansha Sanyou</td>
+	<td>5.88 GB</td>
+</tr>
+<tr>
+	<td>School Days</td>
+	<td>1.91 GB</td>
+</tr>
+<tr>
+	<td>School Rumble</td>
+	<td>9.48 GB</td>
+</tr>
+<tr>
+	<td>sekai de ichiban</td>
+	<td>1.05 GB</td>
+</tr>
+<tr>
+	<td>Senyuu</td>
+	<td>2.21 GB</td>
+</tr>
+<tr>
+	<td>Shangri-La</td>
+	<td>1.21 GB</td>
+</tr>
+<tr>
+	<td>Shin Seiki GPX Cyber Formula</td>
+	<td>12.3 GB</td>
+</tr>
+<tr>
+	<td>Shin Seiki GPX Cyber Formula 11</td>
+	<td>999 MB</td>
+</tr>
+<tr>
+	<td>Shin Seiki GPX Cyber Formula Saga</td>
+	<td>1.36 GB</td>
+</tr>
+<tr>
+	<td>Shin Seiki GPX Cyber Formula Sin</td>
+	<td>870 MB</td>
+</tr>
+<tr>
+	<td>Shin Seiki GPX Cyber Formula Zero</td>
+	<td>1.82 GB</td>
+</tr>
+<tr>
+	<td>Shingu</td>
+	<td>5.94 GB</td>
+</tr>
+<tr>
+	<td>Shinigami no Ballad</td>
+	<td>1.03 GB</td>
+</tr>
+<tr>
+	<td>Shirogane no Ishi Argevollen</td>
+	<td>1.99 GB</td>
+</tr>
+<tr>
+	<td>Shoujo Kakumei Utena</td>
+	<td>12.5 GB</td>
+</tr>
+<tr>
+	<td>Shoujo Sect</td>
+	<td>486 MB</td>
+</tr>
+<tr>
+	<td>Shoujo-tachi wa Kouya wo Mezasu</td>
+	<td>1.93 GB</td>
+</tr>
+<tr>
+	<td>Show by Rock</td>
+	<td>232 MB</td>
+</tr>
+<tr>
+	<td>Shuumatsu no Izetta</td>
+	<td>587 MB</td>
+</tr>
+<tr>
+	<td>Sket Dance</td>
+	<td>5.77 GB</td>
+</tr>
+<tr>
+	<td>Solty Rei</td>
+	<td>1.26 GB</td>
+</tr>
+<tr>
+	<td>Sora no Woto</td>
+	<td>2.95 GB</td>
+</tr>
+<tr>
+	<td>Soushin Shoujo Matoi</td>
+	<td>1.02 GB</td>
+</tr>
+<tr>
+	<td>Strawberry Panic</td>
+	<td>1.69 GB</td>
+</tr>
+<tr>
+	<td>Symphogear</td>
+	<td>1.78 GB</td>
+</tr>
+<tr>
+	<td>Symphogear G</td>
+	<td>1.83 GB</td>
+</tr>
+<tr>
+	<td>Symphogear GX</td>
+	<td>5.34 GB</td>
+</tr>
+<tr>
+	<td>Tears to Tiara</td>
+	<td>2.63 GB</td>
+</tr>
+<tr>
+	<td>Tenshi ni Shippo</td>
+	<td>1.18 GB</td>
+</tr>
+<tr>
+	<td>The Book of Bantorra</td>
+	<td>2.42 GB</td>
+</tr>
+<tr>
+	<td>The Law Of Ueki</td>
+	<td>2.62 GB</td>
+</tr>
+<tr>
+	<td>The Third</td>
+	<td>1.33 GB</td>
+</tr>
+<tr>
+	<td>The_Girl_Who_Leapt_Through_Time_(2006)_[720p,BluRay,x264]_-_THORA</td>
+	<td>1.75 GB</td>
+</tr>
+<tr>
+	<td>Tokyo Mew Mew</td>
+	<td>2.94 GB</td>
+</tr>
+<tr>
+	<td>Tokyo Ravens</td>
+	<td>5.08 GB</td>
+</tr>
+<tr>
+	<td>Tsubasa Chronicle</td>
+	<td>13.8 GB</td>
+</tr>
+<tr>
+	<td>Valkyrie Drive</td>
+	<td>5.18 GB</td>
+</tr>
+<tr>
+	<td>ViVid Strike!</td>
+	<td>592 MB</td>
+</tr>
+<tr>
+	<td>Wake Up, Girls!</td>
+	<td>963 MB</td>
+</tr>
+<tr>
+	<td>Webdivers</td>
+	<td>1.4 GB</td>
+</tr>
+<tr>
+	<td>Wedding Peach</td>
+	<td>6.81 GB</td>
+</tr>
+<tr>
+	<td>Witchblade</td>
+	<td>4.82 GB</td>
+</tr>
+<tr>
+	<td>Wolf's Rain</td>
+	<td>1.89 GB</td>
+</tr>
+<tr>
+	<td>Yakitate Japan</td>
+	<td>5.67 GB</td>
+</tr>
+<tr>
+	<td>ZeroCode~[GJM] Glass no Hana to Kowasu Sekai (BD 720p x265 AAC) [674B956F]</td>
+	<td>452 MB</td>
+</tr>
+
+</tbody>
+</table>
+</div><!-- #table -->
+
+</div><!-- #di-main-wrap -->
+
+<div id="di-footer-wrap">
+	<div id="di-footer">
+	<p>
+		Generated with <a id="di-homeLink" href="http://www.dropitproject.com/index.php" title="Visit DropIt website" target="_blank">DropIt</a>
+	</p>
+	<a id="di-top" href="#" title="Go to top">top</a>
+	</div><!-- #di-footer -->
+</div><!-- #di-footer-wrap -->
+
+</div><!-- #di-container -->
+
+</div><!-- #dropitList -->
+
+<script type="text/javascript" charset="utf-8">
+function addLoadEvent(func) {
+	var oldonload = window.onload;
+		if (typeof window.onload != "function") {
+			window.onload = func
+		} else {
+			window.onload = function() {
+				if (oldonload) {
+					oldonload()
+				}
+			func()
+		}
+	}
+}
+</script>
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+var mainTable, t;
+
+function prepareTable() {
+	mainTable = document.getElementById('di-mainTable');
+	mainTable.className = "di-sortable";
+
+	for(i=0; i < mainTable.getElementsByTagName("TH").length; i++) {
+		var headValue = mainTable.getElementsByTagName("TH")[i].innerHTML;
+		mainTable.getElementsByTagName("TH")[i].innerHTML = "<div>" + headValue + "</div>";
+	}
+
+	t = new SortableTable(mainTable);
+}
+
+function SortableTable(tableEl) {
+	this.tbody = tableEl.getElementsByTagName('tbody');
+	this.thead = tableEl.getElementsByTagName('thead');
+	this.tfoot = tableEl.getElementsByTagName('tfoot');
+
+	this.getInnerText = function(el) {
+		if (typeof(el.textContent) != 'undefined') return el.textContent;
+		if (typeof(el.innerText) != 'undefined') return el.innerText;
+		if (typeof(el.innerHTML) == 'string') return el.innerHTML.replace(/<[^<>]+>/g,'');
+	}
+
+	this.getParent = function(el, pTagName) {
+		if (el == null) return null;
+		else if (el.nodeType == 1 && el.tagName.toLowerCase() == pTagName.toLowerCase())
+			return el;
+		else
+			return this.getParent(el.parentNode, pTagName);
+	}
+
+	this.sort = function(cell) {
+	    var column = cell.cellIndex;
+	    var itm = this.getInnerText(this.tbody[0].rows[1].cells[column]);
+		var sortfn = this.sortCaseInsensitive;
+
+		if (itm.match(/^(\d\d?)[\/\.-](\d\d?)[\/\.-]((\d\d)?\d\d)(\s\d\d[\.:]\d\d)?$/)) sortfn = this.sortDate;
+		if (itm.match(/^([\d\.,]+)\s*(b|kb|mb|gb|tb)/i)) sortfn = this.sortSize;
+		if (itm.replace(/^\s+|\s+$/g,"").match(/^[\d\.]+$/)) sortfn = this.sortNumeric;
+
+		this.sortColumnIndex = column;
+		cells = document.getElementsByTagName('TD');
+		for (i=0;i<cells.length;i++) {
+			removeClass(cells[i], "di-activeColumn");
+		}
+		
+		var zebra = "di-odd";
+		
+		for (i=0;i<this.tbody[0].rows.length;i++) {
+			addClass(this.tbody[0].rows[i].cells[column], "di-activeColumn");
+		}
+		
+	    var newRows = new Array();
+	    for (i=0;i<this.tbody[0].rows.length;i++) {
+			newRows[i] = this.tbody[0].rows[i];
+		}
+		newRows.sort(sortfn);
+
+		if (document.getElementsByClassName == undefined) {
+			document.getElementsByClassName = function(className) {
+				var hasClassName = new RegExp("(?:^|\\s)"+className+"(?:$|\\s)");
+				var allElements = document.getElementsByTagName("*");
+				var results = [];
+				var element;
+				for (i=0;(element=allElements[i])!=null;i++) {
+					var elementClass = element.className;
+					if (elementClass && elementClass.indexOf(className) != -1 && hasClassName.test(elementClass)) results.push(element);
+				}
+				return results;
+			}
+		}
+
+		var arrows = document.getElementsByClassName('di-tableSortArrow');
+		for (i=0;i<arrows.length;i++) {
+			var arrowParent = arrows[i].parentNode;
+			arrowParent.removeChild(arrows[i]);
+		}
+		var spanEl = document.createElement('span');
+		spanEl.className = 'di-tableSortArrow';
+		if (cell.getAttribute('sortdir') == 'down') {
+			newRows.reverse();
+			spanEl.appendChild(document.createTextNode(' \u25bc'));
+			cell.setAttribute('sortdir','up');
+		} else {
+			cell.setAttribute('sortdir','down');
+			spanEl.appendChild(document.createTextNode(' \u25b2'));
+		}
+
+		cell.getElementsByTagName('DIV')[0].appendChild(spanEl);
+		for (i=0;i<newRows.length;i++) {
+			this.tbody[0].appendChild(newRows[i]);
+		}
+	}
+
+	this.sortCaseInsensitive = function(a,b) {
+		aa = thisObject.getInnerText(a.cells[thisObject.sortColumnIndex]).toLowerCase();
+		bb = thisObject.getInnerText(b.cells[thisObject.sortColumnIndex]).toLowerCase();
+		if (aa==bb) return 0;
+		if (aa<bb) return -1;
+		return 1;
+	}
+
+	this.sortDate = function(a,b) {
+		aa = thisObject.getInnerText(a.cells[thisObject.sortColumnIndex]);
+		bb = thisObject.getInnerText(b.cells[thisObject.sortColumnIndex]);
+		date1 = aa.substr(6,4)+aa.substr(3,2)+aa.substr(0,2)+aa.substr(11,2)+aa.substr(14,2);
+		date2 = bb.substr(6,4)+bb.substr(3,2)+bb.substr(0,2)+bb.substr(11,2)+bb.substr(14,2);
+		if (date1==date2) return 0;
+		if (date1<date2) return -1;
+		return 1;
+	}
+
+	this.sortSize = function(a,b) {
+		aa = thisObject.getInnerText(a.cells[thisObject.sortColumnIndex]);
+		bb = thisObject.getInnerText(b.cells[thisObject.sortColumnIndex]);
+		regex = /^([\d\.,]+)\s*(b|kb|mb|gb|tb)/i;
+		mcA = aa.match(regex);
+		mcB = bb.match(regex);
+		ssA = mcA[2].toLowerCase();
+		ssB = mcB[2].toLowerCase();
+
+		if (ssA=='b') valA = 1;
+		else if (ssA=='kb') valA = 2;
+		else if (ssA=='mb') valA = 3;
+		else if (ssA=='gb') valA = 4;
+		else if (ssA=='tb') valA = 5;
+		if (ssB=='b') valB = 1;
+		else if (ssB=='kb') valB = 2;
+		else if (ssB=='mb') valB = 3;
+		else if (ssB=='gb') valB = 4;
+		else if (ssB=='tb') valB = 5;
+
+		if (valA==valB) {
+			return mcA[1] - mcB[1];
+		} else if (valA<valB) {
+			return -1;
+		} else if (valA>valB) {
+			return 1;
+		}
+	}
+
+	this.sortNumeric = function(a,b) {
+		aa = parseFloat(thisObject.getInnerText(a.cells[thisObject.sortColumnIndex]));
+		bb = parseFloat(thisObject.getInnerText(b.cells[thisObject.sortColumnIndex]));
+		if (isNaN(aa)) aa = 0;
+		if (isNaN(bb)) bb = 0;
+		return aa-bb;
+	}
+
+	var thisObject = this;
+	var sortSection = this.thead;
+	if (!(this.tbody && this.tbody[0].rows && this.tbody[0].rows.length > 0)) return;
+	if (sortSection && sortSection[0].rows && sortSection[0].rows.length > 0) {
+		var sortRow = sortSection[0].rows[0];
+	} else {
+		return;
+	}
+	for (i=0;i<sortRow.cells.length;i++) {
+		sortRow.cells[i].sTable = this;
+		sortRow.cells[i].onclick = function () {
+			this.sTable.sort(this);
+			theads = this.parentNode.getElementsByTagName('TH');
+			for (j=0; j < theads.length; j++) {
+				removeClass(theads[j], "di-active");
+			}
+			addClass(this, "di-active");
+			zebraStripes();
+			return false;
+		}
+		
+	}
+}
+
+var zebraStripes = function () {
+	var zebra = "di-odd";
+	var counter = 0;
+	for (var r = 1; r < mainTable.rows.length; r++) {
+		if(mainTable.rows[r].style.display == '') {
+			if(counter == 0) zebra = "di-odd";
+			mainTable.rows[r].className = zebra;
+			(zebra == "di-odd") ? zebra = "di-even" : zebra = "di-odd";
+			counter++;
+		}
+	}
+}
+
+function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+}
+
+function addClass(ele,cls) {
+	if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+}
+
+function removeClass(ele,cls) {
+	if (hasClass(ele,cls)) {
+    	var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+		ele.className=ele.className.replace(reg,' ');
+	}
+}
+
+addLoadEvent(function() {
+	prepareTable();
+	zebraStripes();
+	}
+);
+//]]>
+</script>
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+var clearFilterText = "clear filter";
+var noResultsText = "No results for this term:";
+var searchFieldText = "filter...";
+
+var zebra, clearFilterText, form, table, noResultsSpan, noResults, clearFilterLink, clearFilterButton, noResultsText, searchFieldText, filterTable, input, clearSearch;
+
+function prepareEvents() {
+    'use strict';
+    input.onfocus = function () { if (this.value === searchFieldText) { this.value = ""; } };
+    input.onblur = function () { if (this.value === "") { this.value = searchFieldText;  } };
+    input.onkeyup = function () { filterTable(input, table); };
+    clearFilterButton.onclick = function () { clearSearch(true); };
+    clearFilterLink.onclick = function () { clearSearch(false); };
+    form.onsubmit = function () { return false; };
+    if (document.getElementById('di-fixed')) {
+        window.onscroll = checkPos;
+    }
+    window.onresize = filterBoxPos;
+}
+
+function prepareFilter() {
+    table = document.getElementById('di-mainTable');
+    form = document.createElement('form');
+    input = document.createElement('input');
+    noResults = document.createElement('p');
+    noResultsSpan = document.createElement('span');
+    clearFilterLink = document.createElement('a');
+    clearFilterButton = document.createElement('input');
+    zebra = "di-odd";
+    if (clearFilterText === '' || clearFilterText === undefined) { clearFilterText = "clear filter"; }
+    if (noResultsText === '' || noResultsText === undefined) { noResultsText = "No results for"; }
+    if (searchFieldText === '' || searchFieldText === undefined) { searchFieldText = "filter..."; }
+
+    form.setAttribute('class', 'di-filter');
+    form.attributes['class'].value = 'di-filter';
+
+    input.setAttribute('class', 'di-searchField');
+    input.attributes['class'].value = 'di-searchField';
+    input.value = searchFieldText;
+    form.appendChild(input);
+    document.getElementById('di-header').appendChild(form);
+
+	setTableWidth();
+
+    noResults.className = 'di-noResults';
+    noResults.style.display = 'none';
+    noResults.appendChild(noResultsSpan);
+    table.parentNode.appendChild(noResults);
+
+    clearFilterLink.className = 'di-clearFilterLink';
+    clearFilterLink.innerHTML = clearFilterText;
+    clearFilterButton.setAttribute('type', 'button');
+    clearFilterButton.className = 'di-clearFilterButton';
+    clearFilterButton.value = 'x';
+    clearFilterButton.style.display = 'none';
+    form.appendChild(clearFilterButton);
+
+	for (i = 1; i < table.getElementsByTagName('tbody')[0].getElementsByTagName('tr').length; i += 2) {
+		table.getElementsByTagName('tbody')[0].getElementsByTagName('tr')[i].className = 'di-even';
+	}
+}
+
+function setTableWidth() {
+	var i, thead = document.getElementById("di-mainTable").getElementsByTagName('th');
+    for (i = 0; i < thead.length; i++) {
+		var currWidth = Math.round(parseInt(thead[i].offsetWidth, 10));
+        thead[i].setAttribute("style", "width: " + currWidth + "px;");
+    }
+}
+
+var filterBoxPos = function  () {
+    if (table.offsetWidth > document.documentElement.offsetWidth) {
+        form.setAttribute('id', 'di-fixed');
+        form.attributes.id.value = 'di-fixed';
+    } else {
+        form.removeAttribute('id');
+    }
+}
+
+var checkPos = function () {
+        var pageY = !isNaN(window.pageYOffset) ? window.pageYOffset : document.documentElement.scrollTop;
+        form.style.display = (pageY > 50) ? 'none' : 'block';
+	};
+
+function clearSearch(focus) {
+    'use strict';
+	input.value = "";
+	filterTable(input, table);
+	input.value = searchFieldText;
+    if (focus === true) { input.focus(); }
+}
+
+function filterTable(term, table) {
+    'use strict';
+	dehighlight(table);
+	var terms = term.value.toLowerCase().split(" ");
+    var counter = 0, i, r, display, rowCount = 0;
+	for (r = 1; r < table.rows.length; r += 1) {
+		display = '';
+        
+		for (i = 0; i < terms.length; i += 1) {
+			if (table.rows[r].innerHTML.replace(/<[^>]+>/g, "").toLowerCase().indexOf(terms[i]) < 0) {
+				display = 'none';
+			} else {
+			    if (terms[i].length) highlight(terms[i], table.rows[r]);
+			}
+			table.rows[r].style.display = display;
+		}
+
+		if (display === '') {
+			if (counter === 0) { zebra = "di-odd"; }
+			table.rows[r].className = zebra;
+			zebra = (zebra === "di-odd") ? "di-even" : "di-odd";
+			counter++;
+		}
+	}
+
+	for (i = 1; i < table.rows.length; i++) {
+		if (table.rows[i].style.display === 'none') { rowCount++; }
+	}
+
+	var totalRows = table.getElementsByTagName('tbody')[0].getElementsByTagName('tr').length;
+
+	var filtered = (rowCount > 0) ? " / " + totalRows : "";
+	document.getElementById('di-count').innerHTML = totalRows - rowCount + filtered;
+
+	if (rowCount === table.rows.length - 1) {
+		noResultsSpan.innerHTML = noResultsText + "&nbsp;\"" + input.value + "\". ";
+		noResults.appendChild(clearFilterLink);
+		noResults.style.display = 'block';
+	} else {
+		noResults.style.display = 'none';
+	}
+
+	clearFilterButton.style.display = (input.value !== '' && input.value !== searchFieldText) ? 'block' : 'none';
+}
+
+function dehighlight(container) {
+    for (var i = 0; i < container.childNodes.length; i++) {
+        var node = container.childNodes[i];
+
+        if (node.attributes && node.attributes['class']
+            && node.attributes['class'].value == 'highlighted') {
+            node.parentNode.parentNode.replaceChild(document.createTextNode(node.parentNode.innerHTML.replace(/<[^>]+>/g, "")), node.parentNode);
+            return;
+        } else if (node.nodeType != 3) {
+            dehighlight(node);
+        }
+    }
+}
+
+function highlight(term, container) {
+    for (var i = 0; i < container.childNodes.length; i++) {
+        var node = container.childNodes[i];
+
+        if (node.nodeType == 3) {
+            var data = node.data;
+            var data_low = data.toLowerCase();
+            if (data_low.indexOf(term) >= 0) {
+                var new_node = document.createElement('span');
+                node.parentNode.replaceChild(new_node, node);
+                var result;
+                while ((result = data_low.indexOf(term)) != -1) {
+                    new_node.appendChild(document.createTextNode(data.substr(0, result)));
+                    new_node.appendChild(create_node(document.createTextNode(data.substr(result, term.length))));
+                    data = data.substr(result + term.length);
+                    data_low = data_low.substr(result + term.length);
+                }
+                new_node.appendChild(document.createTextNode(data));
+            }
+        } else {
+            highlight(term, node);
+        }
+    }
+}
+
+function create_node(child) {
+    var node = document.createElement('span');
+    node.setAttribute('class', 'highlighted');
+    node.attributes['class'].value = 'highlighted';
+    node.appendChild(child);
+    return node;
+}
+
+addLoadEvent(function() {
+	prepareFilter();
+	prepareEvents();
+});
+//]]>
+</script>
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+var viewText = "View";
+
+var imgLink, aLinks, theWidth, theHeight;
+var multiplier = 0.7;
+
+if (window.innerWidth) {
+		theWidth=window.innerWidth;
+	} else if (document.documentElement && document.documentElement.clientWidth) {
+		theWidth=document.documentElement.clientWidth;
+	} else if (document.body) {
+		theWidth=document.body.clientWidth;
+	} if (window.innerHeight) {
+		theHeight=window.innerHeight;
+	} else if (document.documentElement && document.documentElement.clientHeight) {
+		theHeight=document.documentElement.clientHeight;
+	} else if (document.body) {
+		theHeight=document.body.clientHeight;
+}
+
+aLinks = document.getElementById('di-mainTable').getElementsByTagName('a');
+
+for (i = 0; i < aLinks.length; i++) {
+    imgLink = aLinks[i].href.match(/\.(?:jpg|gif|png|webp)/gi);
+    if (imgLink !== null) {
+        aLinks[i].setAttribute('rel', 'lighterbox');
+        aLinks[i].setAttribute('title', aLinks[i].href.substring(aLinks[i].href.lastIndexOf("/") + 1, aLinks[i].href.length));
+		aLinks[i].innerHTML = viewText;
+    }
+}
+
+//By: Richard Lee - Transcendent Design - tdesignonline.com - RichardAndrewLee@yahoo.com
+//Optimization: Frdric MADSEN - MadsenFr@laposte.net
+var llocation
+lbox=document.createElement('div')
+lbox.id='lighterbox2'
+lbox.style.height=document.body.offsetHeight+'px'
+document.body.appendChild(lbox)
+lighterboxwrapper=document.createElement('div')
+lighterboxwrapper.id='lighterboxwrapper2'
+lbox.appendChild(lighterboxwrapper)
+lc=document.createElement('div')
+lc.id='lighterboxclose2'
+lc.title=''
+lbox.appendChild(lc)
+labox=document.createElement('div')
+labox.id='lighterboxcontent2'
+lighterboxwrapper.appendChild(labox)
+portimage=document.createElement('img')
+portimage.id='lighterboxportimage2'
+portimage.title=''
+labox.appendChild(portimage)
+title_=document.createElement('div')
+title_.id='lighterboxtitle2'
+title_.appendChild(document.createTextNode(''))
+labox.appendChild(title_)
+lboxlink=document.createElement('div')
+lboxlink.id='lighterboxclosebutton2'
+labox.appendChild(lboxlink)
+description_=document.createElement('div')
+description_.id='lighterboxdescription2'
+description_.appendChild(document.createTextNode(''))
+labox.appendChild(description_)
+pi=document.createElement('span')
+pi.id='lighterboxprevimage2'
+pi.title=''
+pi.appendChild(document.createTextNode('<'))
+lboxlink.appendChild(pi)
+ni=document.createElement('span')
+ni.id='lighterboxnextimage2'
+ni.title=''
+ni.appendChild(document.createTextNode('>'))
+lboxlink.appendChild(ni)
+ci=document.createElement('span')
+ci.id='lighterboxcloseimage2'
+ci.title=''
+ci.appendChild(document.createTextNode('X'))
+lboxlink.appendChild(ci)
+piclinks=document.getElementsByTagName('a')
+picarray=new Array()
+for(var z=0;z<piclinks.length;z++)
+	if(piclinks[z].rel=='lighterbox'){
+		picarray.push(piclinks[z])
+		piclinks[z].onclick=function(){
+			for(var i=0;i<picarray.length;i++)if(picarray[i]==this){
+				llocation=i
+				break}
+			setpic(this)
+			return false}}
+function close(){
+	portimage.src='none'
+	lbox.style.display='none'}
+ci.onclick=close
+function setpic(thispic){
+	lc.onclick=close
+	function nif(){
+		if(llocation==picarray.length-1)llocation=-1
+		setpic(picarray[llocation+=1])}
+	ni.onclick=nif
+	portimage.onclick=nif
+	pi.onclick=function(){
+		if(llocation==0)llocation=picarray.length
+		setpic(picarray[llocation-=1])}
+	function checkKeycode(e){
+		if(lbox.style.display=='block'){
+			if(e)keycode=e.which
+			else keycode=window.event.keyCode
+			if(keycode==37){
+				if(llocation==0)llocation=picarray.length
+				setpic(picarray[llocation-=1])}
+			else if(keycode==27)close()
+			else if(keycode==39||keycode==13)nif()}}
+	document.onkeydown=checkKeycode
+	portimage.style.opacity='0'
+    portimage.style.filter='alpha(opacity=0)'
+	portimage.src=thispic.href
+	description_.firstChild.nodeValue=thispic.title
+	title_.firstChild.nodeValue=(typeof(thispic.firstChild.alt)!='undefined'?thispic.firstChild.alt:'')
+	
+	portimage.onload=function(){
+	
+		var maxHeight = Math.floor(theHeight * multiplier);
+		var maxWidth = Math.floor(theWidth * multiplier);
+
+		var imgWidth = portimage.width;
+		var imgHeight = portimage.height;
+		
+		if(imgWidth > maxWidth || imgHeight > maxHeight) {
+			if (imgWidth / imgHeight < maxWidth / maxHeight ) {
+				portimage.style.maxHeight = maxHeight + "px";
+			} else {
+				portimage.style.maxWidth = maxWidth + "px";
+			}
+		}
+	
+   		lighterboxwrapper.style.width=portimage.offsetWidth+24+'px'
+		lighterboxwrapper.style.marginLeft='-'+labox.offsetWidth/2-12+'px'
+		lighterboxwrapper.style.marginTop='-'+labox.offsetHeight/2-12+'px'
+		for(var fd=0;fd<6;fd++)setTimeout('portimage.style.opacity="'+fd/5+'";portimage.style.filter="alpha(opacity='+(fd*20)+')";',fd*25)
+	}
+	
+	lbox.style.display='block'}
+window.onscroll=function(){if(lbox.style.display=='block')lbox.style.left=(document.documentElement.scrollLeft||document.body.scrollLeft)+'px'}
+//]]>
+</script>
+
+</body>
+</html>

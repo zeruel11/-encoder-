@@ -1,11 +1,24 @@
 # File Tracker
-## On Site/Off Site:
-- 
 
 ## En Route:
-- Symphogear G
-- Tokyo Mew Mew
+- Symphogear GX
 - 
+
+## On Site/Off Site:
+
+- Blassreiter
+- Blood C
+- Boogiepop
+- Dagashi Kashi
+- Ghost in The Shell ARISE[^2]
+- Mahoutsukai ni Taisetsu na Koto
+- Maria-sama ga Miteru S3
+- Moribito
+- Shin Seiki GPX Cyber Formula
+- Tokyo Ravens[^6]
+- Tsubasa Chronicle[^2]
+- Valkyrie Drive
+
 
 ## Cloud Space:
 ### MEGA NEFO
@@ -47,10 +60,10 @@
 - Symphogear G [Summer 2013](http://pasted.co/702e4451)
 - Miss Monochrome The Anim Fall 2013[^1]
 - Sabagebu! [Summer 2014](http://pasted.co/ada55731)
-- Symphogear GX Summer 2015[^2]
+- Symphogear GX Summer 2015[^1]
 - Miss Monochrome The Anim 2 Summer 2015[^1]
 - Miss Monochrome The Anim 3 Fall 2015[^1]
-- Hai to Sensou no Grimgar Winter 2016[^2]
+- Hai to Sensou no Grimgar Winter 2016[^1]
 - Kiznaiver Spring 2016
 - Koutetsujou no Kabaneri Spring 2016
 - Regalia Fall 2016[^4]
@@ -85,7 +98,8 @@
 
 
 [^1]: Refill
-[^2]: Belum diisi
+[^2]: Khususon
 [^3]: Lagi proses kayaknya
 [^4]: Belum kelar gan
 [^5]: Goleki sek
+[^6]: ?
