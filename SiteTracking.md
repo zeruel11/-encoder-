@@ -2,10 +2,10 @@
 
 ## En Route:
 - Symphogear GX
-- 
+- Maoyuu Maou Yuusha
+- Zankyou no Terror
 
 ## On Site/Off Site:
-
 - Blassreiter
 - Blood C
 - Boogiepop
@@ -42,7 +42,7 @@
 - Nanaka 6/17
 - Rune Soldier
 - Tokyo Mew Mew
-- 
+- Elfen Lied
 
 ### OpenLoad
 - Chobits [Spring 2002](http://pasted.co/94901411)
@@ -57,10 +57,10 @@
 - Sankarea [Spring 2012](http://pasted.co/474e8429)
 - Girls und Panzer [Fall 2012](http://pasted.co/474e8429)
 - Symphogear [Winter 2012](http://pasted.co/474e8429)
-- Symphogear G [Summer 2013](http://pasted.co/702e4451)
+- Symphogear G [Summer 2013](http://pasted.co/357e5af4)
 - Miss Monochrome The Anim Fall 2013[^1]
 - Sabagebu! [Summer 2014](http://pasted.co/ada55731)
-- Symphogear GX Summer 2015[^1]
+- Symphogear GX [Summer 2015](http://pasted.co/bba024d7)
 - Miss Monochrome The Anim 2 Summer 2015[^1]
 - Miss Monochrome The Anim 3 Fall 2015[^1]
 - Hai to Sensou no Grimgar Winter 2016[^1]
@@ -69,7 +69,7 @@
 - Regalia Fall 2016[^4]
 - Shuumatsu no Izetta
 - Vivid Strike
-- 
+- Maou Yuusha [Winter 2013](http://pasted.co/357e5af4)
 
 #### Flimsy Recherche
 - Elf wo Karu Mono-tachi
@@ -78,10 +78,10 @@
 - Gokudo
 - Lodoss-tou Senki: Eiyuu Kishi Den
 
-#### Memorable
+#### Memorable (Watch these closely mate)
 - Eureka 7
-- Elfen Lied[^1]
-- Cross Ange[^1]
+- Elfen Lied
+- Cross Ange
 - Blue Drop
 - Kekkaishi
 - Angel Tales

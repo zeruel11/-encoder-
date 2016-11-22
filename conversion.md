@@ -8,9 +8,14 @@
 
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
-(+) Another
 (?) Narue no Sekai
 (+) Blassreiter
+(+) Boogie Pop
+(+) Dagashi Kashi
+(+) Mahoutsukai ni Taisetsu na Koto
+(+) Maria-sama ga Miteru S3
+(+) Moribito
+(+) Valkyrie Drive
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Summer Wars
@@ -30,7 +35,8 @@
 (.) Shangri-La
 (.) Tokyo Mew Mew
 (.) Zankyou no Terror
-(/) Maou Yuusha
+(.) Maou Yuusha
+(/) Another
 - [x] Glass no Hana to Kowasu Sekai
 
 ### BY PC
@@ -44,7 +50,8 @@
 (.) Sacred Seven
 (.) Symphogear
 (.) Symphogear G [sering error](https://x265.github.io/)
-(/) Symphogear GX
+(.) Symphogear GX
+(/) Blood C
 
 > Note:
 > (+) Not yet converted/Pending
@@ -61,3 +68,4 @@
 19/11/16 : __537__
 20/11/16 : __576__
 21/11/16 : __588__
+22/11/16 : __695__
