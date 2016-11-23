@@ -13,12 +13,9 @@
 (+) Boogie Pop
 (+) Dagashi Kashi
 (+) Mahoutsukai ni Taisetsu na Koto
-(+) Moribito
-(+) Valkyrie Drive
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Summer Wars
-- [ ] Rakuen Tsuihou
 
 
 ### BY SERVER
@@ -35,8 +32,10 @@
 (.) Tokyo Mew Mew
 (.) Zankyou no Terror
 (.) Maou Yuusha
-(=) Another
+(.) Another
+(/) Moribito
 - [x] Glass no Hana to Kowasu Sekai
+- [ ] Rakuen Tsuihou
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
@@ -51,7 +50,8 @@
 (.) Symphogear G [sering error](https://x265.github.io/)
 (.) Symphogear GX
 (.) Blood C
-(/) Maria-sama ga Miteru S3
+(.) Maria-sama ga Miteru S3
+(/) Valkyrie Drive
 
 > Note:
 > (+) Not yet converted/Pending

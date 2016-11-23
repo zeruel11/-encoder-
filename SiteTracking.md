@@ -1,18 +1,18 @@
 # File Tracker
 
 ## En Route:
-- 
+- Another
+- Blood C
+- Shin Seiki GPX Cyber Formula
+- Maria-sama ga Miteru S3
 
 ## On Site/Off Site:
 - Blassreiter
-- Blood C
 - Boogiepop
 - Dagashi Kashi
 - Ghost in The Shell ARISE[^2]
 - Mahoutsukai ni Taisetsu na Koto
-- Maria-sama ga Miteru S3
 - Moribito
-- Shin Seiki GPX Cyber Formula
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
 - Valkyrie Drive
