@@ -13,7 +13,6 @@
 (+) Boogie Pop
 (+) Dagashi Kashi
 (+) Mahoutsukai ni Taisetsu na Koto
-(+) Maria-sama ga Miteru S3
 (+) Moribito
 (+) Valkyrie Drive
 - [ ] The Girl Who Leapt Through Time
@@ -36,7 +35,7 @@
 (.) Tokyo Mew Mew
 (.) Zankyou no Terror
 (.) Maou Yuusha
-(/) Another
+(=) Another
 - [x] Glass no Hana to Kowasu Sekai
 
 ### BY PC
@@ -51,7 +50,8 @@
 (.) Symphogear
 (.) Symphogear G [sering error](https://x265.github.io/)
 (.) Symphogear GX
-(/) Blood C
+(.) Blood C
+(/) Maria-sama ga Miteru S3
 
 > Note:
 > (+) Not yet converted/Pending

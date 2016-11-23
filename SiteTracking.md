@@ -1,9 +1,7 @@
 # File Tracker
 
 ## En Route:
-- Symphogear GX
-- Maoyuu Maou Yuusha
-- Zankyou no Terror
+- 
 
 ## On Site/Off Site:
 - Blassreiter
