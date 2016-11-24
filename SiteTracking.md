@@ -1,10 +1,7 @@
 # File Tracker
 
 ## En Route:
-- Another
-- Blood C
-- Shin Seiki GPX Cyber Formula
-- Maria-sama ga Miteru S3
+- Valkyrie Drive
 
 ## On Site/Off Site:
 - Blassreiter
@@ -15,7 +12,6 @@
 - Moribito
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
-- Valkyrie Drive
 
 
 ## Cloud Space:

@@ -11,7 +11,6 @@
 (?) Narue no Sekai
 (+) Blassreiter
 (+) Boogie Pop
-(+) Dagashi Kashi
 (+) Mahoutsukai ni Taisetsu na Koto
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
@@ -47,11 +46,12 @@
 (.) Nanaka
 (.) Sacred Seven
 (.) Symphogear
-(.) Symphogear G [sering error](https://x265.github.io/)
+(.) Symphogear G
 (.) Symphogear GX
 (.) Blood C
 (.) Maria-sama ga Miteru S3
-(/) Valkyrie Drive
+(.) Valkyrie Drive
+(.) Dagashi Kashi
 
 > Note:
 > (+) Not yet converted/Pending
