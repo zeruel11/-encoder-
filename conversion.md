@@ -11,7 +11,6 @@
 (?) Narue no Sekai
 (+) Blassreiter
 (+) Boogie Pop
-(+) Mahoutsukai ni Taisetsu na Koto
 - [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Summer Wars
@@ -32,7 +31,8 @@
 (.) Zankyou no Terror
 (.) Maou Yuusha
 (.) Another
-(/) Moribito
+(=) Moribito
+(/) Kodocha
 - [x] Glass no Hana to Kowasu Sekai
 - [ ] Rakuen Tsuihou
 
@@ -52,6 +52,7 @@
 (.) Maria-sama ga Miteru S3
 (.) Valkyrie Drive
 (.) Dagashi Kashi
+(.) Mahoutsukai ni Taisetsu na Koto
 
 > Note:
 > (+) Not yet converted/Pending

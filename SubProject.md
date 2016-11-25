@@ -12,7 +12,16 @@
     - [x] Batch 40
     - [x] Batch final
     - [ ] extra
-7. 
+7. Moribito
+    - [x] batch 1
+    - [x] batch 2
+    - [ ] batch final
+    - [ ] re checking and remuxing
+8. Kodomo no Omocha
+    - [x] S1
+    - [ ] S2
+    - [ ] Rework
+9. 
 
 
 [^1]: Karatime from [1234] and usual subs from [Davinci] for better translation. Might reconsider since [1234] uses better formatting of subs, possible to use [1234] as default and changes the lines to [Davinci]

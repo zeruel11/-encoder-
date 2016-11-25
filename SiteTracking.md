@@ -2,11 +2,11 @@
 
 ## En Route:
 - Valkyrie Drive
+- Dagashi Kashi
 
 ## On Site/Off Site:
 - Blassreiter
 - Boogiepop
-- Dagashi Kashi
 - Ghost in The Shell ARISE[^2]
 - Mahoutsukai ni Taisetsu na Koto
 - Moribito
