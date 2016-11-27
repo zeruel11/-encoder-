@@ -1,8 +1,7 @@
 # File Tracker
 
 ## En Route:
-- Valkyrie Drive
-- Dagashi Kashi
+- 
 
 ## On Site/Off Site:
 - Blassreiter

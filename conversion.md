@@ -31,7 +31,7 @@
 (.) Zankyou no Terror
 (.) Maou Yuusha
 (.) Another
-(=) Moribito
+(.) Moribito
 (/) Kodocha
 - [x] Glass no Hana to Kowasu Sekai
 - [ ] Rakuen Tsuihou

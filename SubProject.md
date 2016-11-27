@@ -15,8 +15,8 @@
 7. Moribito
     - [x] batch 1
     - [x] batch 2
-    - [ ] batch final
-    - [ ] re checking and remuxing
+    - [x] batch final
+    - [x] re checking and remuxing
 8. Kodomo no Omocha
     - [x] S1
     - [ ] S2
