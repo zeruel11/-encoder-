@@ -9,17 +9,14 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (?) Narue no Sekai
-(+) Blassreiter
-(+) Boogie Pop
-- [ ] The Girl Who Leapt Through Time
 - [ ] Harmony
 - [ ] Summer Wars
 
 
 ### BY SERVER
-(-) Shuumatsu no Izetta [Chihiro]
+(+) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(.) ViVid Strike! [VividTrans]
+(+) ViVid Strike! [VividTrans]
 (.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
@@ -32,15 +29,17 @@
 (.) Maou Yuusha
 (.) Another
 (.) Moribito
-(/) Kodocha
+(=) Kodocha
+(=) Blassreiter
 - [x] Glass no Hana to Kowasu Sekai
-- [ ] Rakuen Tsuihou
+- [x] Rakuen Tsuihou
+- [ ] The Girl Who Leapt Through Time
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
 (-) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
-(-) Soushin Shoujo Matoi [DameDesuYo]
+(/) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
@@ -53,6 +52,7 @@
 (.) Valkyrie Drive
 (.) Dagashi Kashi
 (.) Mahoutsukai ni Taisetsu na Koto
+(=) Boogie Pop
 
 > Note:
 > (+) Not yet converted/Pending

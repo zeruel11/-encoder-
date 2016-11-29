@@ -9,6 +9,7 @@
 - Ghost in The Shell ARISE[^2]
 - Mahoutsukai ni Taisetsu na Koto
 - Moribito
+- Soushin Shoujo Matoi
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
 
