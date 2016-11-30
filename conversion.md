@@ -14,9 +14,9 @@
 
 
 ### BY SERVER
-(+) Shuumatsu no Izetta [Chihiro]
+(=) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(+) ViVid Strike! [VividTrans]
+(=) ViVid Strike! [VividTrans]
 (.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
@@ -30,16 +30,16 @@
 (.) Another
 (.) Moribito
 (=) Kodocha
-(=) Blassreiter
+(.) Blassreiter
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
-- [ ] The Girl Who Leapt Through Time
+- [x] The Girl Who Leapt Through Time
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
 (-) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
-(/) Soushin Shoujo Matoi [DameDesuYo]
+(-) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
