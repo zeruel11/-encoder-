@@ -1,19 +1,23 @@
 # File Tracker
 
 ## En Route:
-- Kodocha
-- World of Narue
-- Youre under arrest
-- 
+- Blue Drop
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
-- Mahoutsukai ni Taisetsu na Koto
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
 
 
 ## Cloud Space:
+### KBagi
+##### Spring 2016
+
+##### Symphogear [otw](http://kbagi.com/the_zero/syg-467563)
+- Symphogear
+- Symphogear G
+- Symphogear GX 
+
 ### MEGA NEFO
 - Cross Ange
 - D-Frag

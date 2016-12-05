@@ -31,7 +31,7 @@
 (.) Kodocha
 (.) Blassreiter
 (.) Narue no Sekai
-(/) 
+(/) Ao no Kanata
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
