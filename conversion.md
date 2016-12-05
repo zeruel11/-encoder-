@@ -7,6 +7,7 @@
 <!-- tocstop -->
 
 ## TBD
+(+) 
 - [ ] Sky Crawlers
 - [ ] Ookami Kodomo
 - [ ] First Squad
@@ -30,12 +31,13 @@
 (.) Kodocha
 (.) Blassreiter
 (.) Narue no Sekai
+(/) 
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
 - [x] Patema Inverted
 - [x] Summer Wars
-- [ ] Harmony
+- [x] Harmony
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
