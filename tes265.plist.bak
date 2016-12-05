@@ -116,17 +116,17 @@
       <false />
       <key>VideoQualitySlider</key>
       <real>26</real>
-      <key>h265Level</key>
+      <key>h264Level</key>
       <string>4.0</string>
-      <key>x265OptionExtra</key>
+      <key>x264OptionExtra</key>
       <string />
-      <key>x265Preset</key>
+      <key>x264Preset</key>
       <string>veryfast</string>
-      <key>h265Profile</key>
+      <key>h264Profile</key>
       <string>main</string>
-      <key>x265Tune</key>
+      <key>x264Tune</key>
       <string>none</string>
-      <key>x265UseAdvancedOptions</key>
+      <key>x264UseAdvancedOptions</key>
       <integer>0</integer>
       <key>h265Profile</key>
       <string>none</string>
@@ -142,7 +142,7 @@
       <integer>0</integer>
       <key>VideoTwoPass</key>
       <integer>0</integer>
-      <key>x265Option</key>
+      <key>x264Option</key>
       <string />
     </dict>
   </array>

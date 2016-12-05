@@ -1,14 +1,14 @@
 # File Tracker
 
 ## En Route:
+- Kodocha
+- World of Narue
+- Youre under arrest
 - 
 
 ## On Site/Off Site:
-- Blassreiter
-- Boogiepop
 - Ghost in The Shell ARISE[^2]
 - Mahoutsukai ni Taisetsu na Koto
-- Moribito
 - Soushin Shoujo Matoi
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
@@ -21,8 +21,8 @@
 - Girls und Panzer
 - Heroic Age
 - Koutetsujou no Kabaneri
-- Mahou Shoujo Ikusei Keikaku
-- Shuumatsu no Izetta
+- Mahou Shoujo Ikusei Keikaku [this season](https://mega.nz/#F!dM52HZSC!I8gnSVwJuMsMSLx7EhzCeg)
+- Shuumatsu no Izetta [this season](https://mega.nz/#F!dBQFiR7Z!9gU9okaUnYV02JT6YyWiKg)
 
 ### MEGA OLDEFO
 - Angel Tales

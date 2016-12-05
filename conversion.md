@@ -9,14 +9,12 @@
 ## TBD
 (=) Girlish Number [1234/~~Davinci~~]
 (?) Narue no Sekai
-- [ ] Harmony
-- [ ] Summer Wars
 
 
 ### BY SERVER
-(=) Shuumatsu no Izetta [Chihiro]
+(-) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(=) ViVid Strike! [VividTrans]
+(-) ViVid Strike! [VividTrans]
 (.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
@@ -29,11 +27,14 @@
 (.) Maou Yuusha
 (.) Another
 (.) Moribito
-(=) Kodocha
+(.) Kodocha
 (.) Blassreiter
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
+- [x] Patema Inverted
+- [x] Summer Wars
+- [ ] Harmony
 
 ### BY PC
 (-) Regalia: The Three Sacred Stars [Merchant]
@@ -53,6 +54,7 @@
 (.) Dagashi Kashi
 (.) Mahoutsukai ni Taisetsu na Koto
 (=) Boogie Pop
+- [x] Nerawareta Gakuen
 
 > Note:
 > (+) Not yet converted/Pending

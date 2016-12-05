@@ -19,7 +19,7 @@
     - [x] re checking and remuxing
 8. Kodomo no Omocha
     - [x] S1
-    - [ ] S2
+    - [x] S2
     - [ ] Rework
 9. 
 

@@ -10,12 +10,12 @@ DEST_EXT=mkv
 HANDBRAKE_CLI=HandBrakeCLI
 #IFS=$(echo -en "\n\b")
 
-#frams="23.976"
-frams="24"
+frams="23.976"
+#frams="24"
 #frams="29.92"
 
-#aude="av_aac"
-aude="ac3"
+aude="av_aac"
+#aude="ac3"
 
 precode="-e x265 -q 26 -r $frams --aencoder $aude -B 128"
 #precode="tes265.plist"
@@ -27,7 +27,7 @@ audtr="-a"
 trnum="2"
 
 subs="--subtitle"
-subnum="1,2"
+subnum="2,4"
 
 #natlang="--native-language"
 #langfil="jap"
