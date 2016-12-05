@@ -7,9 +7,9 @@
 <!-- tocstop -->
 
 ## TBD
-(=) Girlish Number [1234/~~Davinci~~]
-(?) Narue no Sekai
-
+- [ ] Sky Crawlers
+- [ ] Ookami Kodomo
+- [ ] First Squad
 
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
@@ -29,6 +29,7 @@
 (.) Moribito
 (.) Kodocha
 (.) Blassreiter
+(.) Narue no Sekai
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -54,6 +55,8 @@
 (.) Dagashi Kashi
 (.) Mahoutsukai ni Taisetsu na Koto
 (=) Boogie Pop
+(-) Girlish Number [~~1234~~/Davinci]
+(/) Nyaruko-san
 - [x] Nerawareta Gakuen
 
 > Note:
