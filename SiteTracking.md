@@ -1,7 +1,8 @@
 # File Tracker
 
 ## En Route:
-- Blue Drop
+- Kiznaiver
+- Koutetsujou no Kabaneri
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
@@ -12,11 +13,17 @@
 ## Cloud Space:
 ### KBagi
 ##### Spring 2016
+- Koutetsujou no Kabaneri
+- Kiznaiver
 
-##### Symphogear [otw](http://kbagi.com/the_zero/syg-467563)
+##### Fall 2016
+- Shuumatsu no Izetta
+- Mahou Shoujo Raising Project
+
+##### [Symphogear](http://kbagi.com/the_zero/syg-467563)
 - Symphogear
 - Symphogear G
-- Symphogear GX 
+- Symphogear GX
 
 ### MEGA NEFO
 - Cross Ange

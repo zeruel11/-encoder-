@@ -20,9 +20,13 @@
 8. Kodomo no Omocha
     - [x] S1
     - [x] S2
-    - [ ] Rework
-9. 
+    - [X] Rework
+9. Webdiver [^3]
+    - [ ] Muxing (26-52)
+    - [ ] Recheck
+10. asd
 
 
 [^1]: Karatime from [1234] and usual subs from [Davinci] for better translation. Might reconsider since [1234] uses better formatting of subs, possible to use [1234] as default and changes the lines to [Davinci]
 [^2]: Resubbing from (ind) or find another fansub
+[^3]: Remuxing EN subs and recheck if subs are compatible, also remove the incomplete subs note
