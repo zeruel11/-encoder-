@@ -32,6 +32,7 @@
 (.) Blassreiter
 (.) Narue no Sekai
 (.) Ao no Kanata
+(/) Sakurako-san no Ashimoto
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time

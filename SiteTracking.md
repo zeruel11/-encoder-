@@ -24,6 +24,11 @@
 - Symphogear G
 - Symphogear GX
 
+##### [Nyaruko-san](http://kbagi.com/the_zero/nyarlko-468147)
+- Haiyore! Nyaruko-san
+- Haiyore! Nyaruko-san OVA
+- Haiyore! Nyaruko-san W
+
 ### MEGA NEFO
 - Cross Ange
 - D-Frag
