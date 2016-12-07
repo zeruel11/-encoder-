@@ -31,7 +31,7 @@
 (.) Kodocha
 (.) Blassreiter
 (.) Narue no Sekai
-(/) Ao no Kanata
+(.) Ao no Kanata
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -58,7 +58,8 @@
 (.) Mahoutsukai ni Taisetsu na Koto
 (=) Boogie Pop
 (-) Girlish Number [~~1234~~/Davinci]
-(/) Nyaruko-san
+(.) Nyaruko-san
+(/) Nyaruko-san W
 - [x] Nerawareta Gakuen
 
 > Note:

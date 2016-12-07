@@ -1,14 +1,13 @@
 # File Tracker
 
 ## En Route:
-- Kiznaiver
+- Kiznaiver (belum encode)
 - Koutetsujou no Kabaneri
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
-
 
 ## Cloud Space:
 ### KBagi

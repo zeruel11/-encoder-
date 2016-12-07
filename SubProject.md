@@ -22,7 +22,7 @@
     - [x] S2
     - [X] Rework
 9. Webdiver [^3]
-    - [ ] Muxing (26-52)
+    - [x] Muxing (26-52)
     - [ ] Recheck
 10. asd
 
