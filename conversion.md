@@ -15,7 +15,7 @@
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(-) ViVid Strike! [VividTrans]
+(/) ViVid Strike! [VividTrans]
 (.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
@@ -32,7 +32,7 @@
 (.) Blassreiter
 (.) Narue no Sekai
 (.) Ao no Kanata
-(/) Sakurako-san no Ashimoto
+(.) Sakurako-san no Ashimoto
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -41,8 +41,8 @@
 - [x] Harmony
 
 ### BY PC
-(-) Regalia: The Three Sacred Stars [Merchant]
-(-) Mahou Shoujo Rising Project [GJM]
+(+) Regalia: The Three Sacred Stars [Merchant]
+(/) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
 (-) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
@@ -60,7 +60,7 @@
 (=) Boogie Pop
 (-) Girlish Number [~~1234~~/Davinci]
 (.) Nyaruko-san
-(/) Nyaruko-san W
+(.) Nyaruko-san W
 - [x] Nerawareta Gakuen
 
 > Note:

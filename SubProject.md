@@ -23,7 +23,7 @@
     - [X] Rework
 9. Webdiver [^3]
     - [x] Muxing (26-52)
-    - [ ] Recheck
+    - [x] Recheck
     - [ ] Rebuild subs
     - [ ] Remux
 10. asd

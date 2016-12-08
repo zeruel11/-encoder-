@@ -1,8 +1,9 @@
 # File Tracker
 
 ## En Route:
-- Kiznaiver (belum encode)
-- Koutetsujou no Kabaneri
+- Ao no Kanata no Four Rhytm
+- Nyaruko
+- 
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
@@ -11,23 +12,54 @@
 
 ## Cloud Space:
 ### KBagi
-##### Spring 2016
+##### Winter 2016 [Wi16](http://kbagi.com/the_zero/winter-2016-315601)
+- Kono Subarashii Sekai ni Shukufuku wo!
+- Boku dake ga Inai Machi
+- Dagashi Kashi
+- Dimension W
+- Koukaku no Pandora
+- Bubuki Buranki[^1]
+- Divine Gate
+- Shoujo-tachi wa Kouya wo Mezasu
+- Ajin
+
+##### Spring 2016 [Sp16](http://kbagi.com/the_zero/spring-2016-464919)
 - Koutetsujou no Kabaneri
 - Kiznaiver
 
-##### Fall 2016
+##### Fall 2016 [Fa16](http://kbagi.com/the_zero/fall-2016-467872)
 - Shuumatsu no Izetta
 - Mahou Shoujo Raising Project
+- Soushin Shoujo Matoi
+- ViVid Strike!
 
-##### [Symphogear](http://kbagi.com/the_zero/syg-467563)
+##### Fall 2015
+- Shinmai Maou no Testament
+- Heavy Object
+- Hidan no Aria
+- Valkyrie Drive
+- Lance n Masque
+- Subete ga F ni Naru
+- UtawarerumonoYuru Yuri
+- Comet Lucifer
+- Sakurako-san no Ashimoto
+- Gochuumon wa Usagi desuka
+
+##### Symphogear [SyG](http://kbagi.com/the_zero/syg-467563)
 - Symphogear
 - Symphogear G
 - Symphogear GX
 
-##### [Nyaruko-san](http://kbagi.com/the_zero/nyarlko-468147)
+##### Haiyore! Nyaruko-san [Nyarlko](http://kbagi.com/the_zero/nyarlko-468147)
 - Haiyore! Nyaruko-san
 - Haiyore! Nyaruko-san OVA
 - Haiyore! Nyaruko-san W
+
+##### Blue Drop [BrDr](http://kbagi.com/the_zero/brdr-468296)
+
+##### Aiura [Aiura](http://kbagi.com/the_zero/aiura-195226)
+
+
 
 ### MEGA NEFO
 - Cross Ange
@@ -35,8 +67,7 @@
 - Girls und Panzer
 - Heroic Age
 - Koutetsujou no Kabaneri
-- Mahou Shoujo Ikusei Keikaku [this season](https://mega.nz/#F!dM52HZSC!I8gnSVwJuMsMSLx7EhzCeg)
-- Shuumatsu no Izetta [this season](https://mega.nz/#F!dBQFiR7Z!9gU9okaUnYV02JT6YyWiKg)
+- 
 
 ### MEGA OLDEFO
 - Angel Tales
@@ -51,6 +82,7 @@
 - Rune Soldier
 - Tokyo Mew Mew
 - Elfen Lied
+- Webdiver
 
 ### OpenLoad
 - Chobits [Spring 2002](http://pasted.co/94901411)
