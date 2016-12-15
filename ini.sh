@@ -1,6 +1,11 @@
 #!/bin/bash
 
-ls | while read -r FILE
+DIR=/home/ikti/share/Anim/[belum1]
+
+ls $DIR | while read -r FILE
 do
-    mv -v "$FILE" `echo $FILE | tr ' ' '_' `
+	if [[ "$FILE" == "kusus" ]] ; then
+		continue;
+	fi
+    mv -v "$DIR/$FILE" `echo $DIR"/"$FILE | tr ' ' '_' `
 done

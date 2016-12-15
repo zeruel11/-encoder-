@@ -4,7 +4,7 @@
 # You need to change SRC -- Sourse folder and DEST -- Destination folder
 # The mp4 format is 480x270
 
-SRC=/home/ikti/share/Anim/[kusus]
+SRC=/home/ikti/share/Anim/[belum1]/kusus
 DEST=/home/ikti/share/Anim/[sudah]/repure
 DEST_EXT=mkv
 HANDBRAKE_CLI=ffmpeg
@@ -32,16 +32,16 @@ comp="24"
 #comp="26"
 #comp="28"
 
-#scala="scale=-1:544"
-scala="scale=-1:720"
+scala="scale=-1:544"
+#scala="scale=-1:720"
 #scala="scale=-1:1080"
 
 vidtr="-c:v"
 audtr="-c:a"
 mapvi="0:v:0"
 mapau="0:a:0"
-mapsb="0:s:0"
-mapat="0:t:0"
+#mapsb="0:s:0"
+#mapat="0:t:0"
 choose="-map"
 
 for FILE in `ls $SRC`

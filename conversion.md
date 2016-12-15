@@ -9,14 +9,13 @@
 ## TBD
 (+) 
 - [ ] Sky Crawlers
-- [ ] Ookami Kodomo
 - [ ] First Squad
 
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(/) ViVid Strike! [VividTrans]
-(.) Tenshi ni Shippo S1
+(+) ViVid Strike! [VividTrans]
+(-) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
 (.) SankaRea
@@ -33,16 +32,19 @@
 (.) Narue no Sekai
 (.) Ao no Kanata
 (.) Sakurako-san no Ashimoto
+(-) Bubuki Buranki ~~S1~~|S2
+(/) Cyborg 009 S1|S2
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
 - [x] Patema Inverted
 - [x] Summer Wars
 - [x] Harmony
+- [ ] Ookami Kodomo
 
 ### BY PC
-(+) Regalia: The Three Sacred Stars [Merchant]
-(/) Mahou Shoujo Rising Project [GJM]
+(.) Regalia: The Three Sacred Stars [Merchant]
+(-) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
 (-) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
@@ -61,6 +63,7 @@
 (-) Girlish Number [~~1234~~/Davinci]
 (.) Nyaruko-san
 (.) Nyaruko-san W
+(.) Reikenzan
 - [x] Nerawareta Gakuen
 
 > Note:
