@@ -3,6 +3,8 @@
 Ai Tenchi Muyo
 Akazukin Chacha
 Allison to Lilia
+Another
+Ao no Kanata no Four Rythm
 Aoi Hana
 Aoki hagane Ars
 Blassreiter
@@ -11,6 +13,7 @@ Blood C
 Blue Drop
 Boku Dake ga Inai Machi
 Boogiepop
+Boogiepop Phantom
 C - Control
 Candy Boy
 Cardcaptor Sakura
@@ -30,8 +33,10 @@ Densetsu no Yuusha no Densetsu
 D-Frag
 Di Gi Charat
 Dog Days
+Dororon Enma-kun Meramera
 Dr. Rin
 Durarara x2
+Edens Bowy
 Elfen Lied
 Eureka Seven
 Flame of recca
@@ -41,10 +46,13 @@ Gate Keepers
 Genshiken Nidaime
 Ghost in The Shell ARISE
 Gin no Saji
+Girlish Number
 Girls und Panzer
 Glasslip  グラスリップ
 Gungrave
 Hai to Gensou no Grimgar
+Haiyore Nyaruko-san
+Haiyore Nyaruko-san W
 Hataraku
 Heroic Age
 Hourou Musuko
@@ -55,6 +63,7 @@ Joukamachi
 kaichou wa maid sama
 Kekkaishi
 Kiznaiver
+Kodomo no Omocha
 Koukaku no Pandora
 Koutetsujou no Kabaneri
 Kuttsukiboshi
@@ -67,10 +76,12 @@ Mahoutsukai ni Taisetsu na Koto
 Mahoutsukai ni Taisetsu na Koto Natsu no Sora
 Mainichi ga Nichiyoubi
 Mangaka-san to Assistant-san to The Animation
+Maou Yuusha
 MAR
 Maria-sama ga Miteru
 Mashiroiro
 Miss Monochrome
+Miyuki
 Moribito
 Murder Princess
 Nanaka 6-17
@@ -82,6 +93,7 @@ Noir
 Onegai Twins
 Phantom - Requiem
 Regalia
+Reikenzan
 ReLife
 Rin - Mnemosyne no Musume-tachi
 Rune Soldier
@@ -89,6 +101,7 @@ Ryuugajou Nanana no Maizoukin
 Sabagebu!
 Sacred Seven
 Saint Seiya
+Sakurako-san no Ashimoto
 Sakurasou no Pet na Kanojo
 Samurai X [end]
 Sankarea
@@ -124,6 +137,7 @@ Tenshi ni Shippo
 The Book of Bantorra
 The Law Of Ueki
 The Third
+The World of Narue
 Tokyo Mew Mew
 Tokyo Ravens
 Tsubasa Chronicle
@@ -135,3 +149,5 @@ Wedding Peach
 Witchblade
 Wolf's Rain
 Yakitate Japan
+Youre Under Arrest
+Zankyou no Terror

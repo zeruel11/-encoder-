@@ -14,8 +14,8 @@
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(+) ViVid Strike! [VividTrans]
-(-) Tenshi ni Shippo S1
+(/) ViVid Strike! [VividTrans]
+(.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
 (.) SankaRea
@@ -33,7 +33,7 @@
 (.) Ao no Kanata
 (.) Sakurako-san no Ashimoto
 (-) Bubuki Buranki ~~S1~~|S2
-(/) Cyborg 009 S1|S2
+(-) Cyborg 009 ~~S1~~|S2
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time

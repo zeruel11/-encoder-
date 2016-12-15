@@ -1,9 +1,9 @@
 # File Tracker
 
 ## En Route:
-- Ao no Kanata no Four Rhytm
-- Nyaruko
-- 
+- Mahou Shoujo Ikusei Keikaku 09
+- Rozen Maiden
+- ViVid Strike latest
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
