@@ -14,7 +14,7 @@
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(/) ViVid Strike! [VividTrans]
+(-) ViVid Strike! [VividTrans]
 (.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
@@ -34,13 +34,15 @@
 (.) Sakurako-san no Ashimoto
 (-) Bubuki Buranki ~~S1~~|S2
 (-) Cyborg 009 ~~S1~~|S2
+(/) High School Fleet
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
 - [x] Patema Inverted
 - [x] Summer Wars
 - [x] Harmony
-- [ ] Ookami Kodomo
+- [x] Ookami Kodomo
+- [x] Garden of Words
 
 ### BY PC
 (.) Regalia: The Three Sacred Stars [Merchant]
@@ -64,6 +66,8 @@
 (.) Nyaruko-san
 (.) Nyaruko-san W
 (.) Reikenzan
+(.) NG Ramune FRESH
+(.) NG Ramune EX
 - [x] Nerawareta Gakuen
 
 > Note:

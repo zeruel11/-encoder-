@@ -1,9 +1,7 @@
 # File Tracker
 
 ## En Route:
-- Mahou Shoujo Ikusei Keikaku 09
-- Rozen Maiden
-- ViVid Strike latest
+- 
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
