@@ -3,7 +3,8 @@
 ## En Route:
 - High School Fleet
 - Fight Ippatsu! Juuden-chan!!
-- Sky Crawlers
+- Hyouka
+- Euphonium S1
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]

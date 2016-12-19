@@ -7,7 +7,7 @@
 <!-- tocstop -->
 
 ## TBD
-(+) NG Knight Ramune
+(+) 
 - [ ] First Squad
 
 ### BY SERVER
@@ -33,8 +33,9 @@
 (.) Sakurako-san no Ashimoto
 (-) Bubuki Buranki ~~S1~~|S2
 (-) Cyborg 009 ~~S1~~|S2
-(/) High School Fleet [remux](kurang subs attachment & chap)
-(/) Hyouka
+(+) High School Fleet [reencode](source file ilang cuks)
+(.) Hyouka
+(/) NG Knight Ramune
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -48,9 +49,9 @@
 
 ### BY PC
 (.) Regalia: The Three Sacred Stars [Merchant]
-(-) Mahou Shoujo Rising Project [GJM]
+(+) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
-(-) Soushin Shoujo Matoi [DameDesuYo]
+(+) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
