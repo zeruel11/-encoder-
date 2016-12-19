@@ -33,7 +33,6 @@
 (.) Sakurako-san no Ashimoto
 (-) Bubuki Buranki ~~S1~~|S2
 (-) Cyborg 009 ~~S1~~|S2
-(+) High School Fleet [reencode](source file ilang cuks)
 (.) Hyouka
 (/) NG Knight Ramune
 - [x] Glass no Hana to Kowasu Sekai
@@ -49,9 +48,9 @@
 
 ### BY PC
 (.) Regalia: The Three Sacred Stars [Merchant]
-(+) Mahou Shoujo Rising Project [GJM]
+(/) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
-(+) Soushin Shoujo Matoi [DameDesuYo]
+(/) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
@@ -73,7 +72,8 @@
 (.) NG Ramune EX
 (.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
 (-) Hibike! Euphonium ~~S1~~|S2
-(/) Kannazuki no Miko
+(.) Kannazuki no Miko
+(/) High School Fleet [reencode](source file ilang cuks)
 - [x] Nerawareta Gakuen
 
 > Note:
