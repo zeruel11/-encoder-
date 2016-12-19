@@ -7,8 +7,7 @@
 <!-- tocstop -->
 
 ## TBD
-(+) 
-- [ ] Sky Crawlers
+(+) NG Knight Ramune
 - [ ] First Squad
 
 ### BY SERVER
@@ -34,7 +33,8 @@
 (.) Sakurako-san no Ashimoto
 (-) Bubuki Buranki ~~S1~~|S2
 (-) Cyborg 009 ~~S1~~|S2
-(/) High School Fleet
+(/) High School Fleet [remux](kurang subs attachment & chap)
+(/) Hyouka
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -43,6 +43,8 @@
 - [x] Harmony
 - [x] Ookami Kodomo
 - [x] Garden of Words
+- [x] Sky Crawlers
+- [ ] Hibike! Euphonium Movie
 
 ### BY PC
 (.) Regalia: The Three Sacred Stars [Merchant]
@@ -68,6 +70,9 @@
 (.) Reikenzan
 (.) NG Ramune FRESH
 (.) NG Ramune EX
+(.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
+(-) Hibike! Euphonium ~~S1~~|S2
+(/) Kannazuki no Miko
 - [x] Nerawareta Gakuen
 
 > Note:
