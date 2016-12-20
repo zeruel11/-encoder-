@@ -31,10 +31,11 @@
 (.) Narue no Sekai
 (.) Ao no Kanata
 (.) Sakurako-san no Ashimoto
-(-) Bubuki Buranki ~~S1~~|S2
+(.) Bubuki Buranki ~~S1~~|~~S2~~
 (-) Cyborg 009 ~~S1~~|S2
 (.) Hyouka
 (.) NG Knight Ramune
+(/) Shin Atashinchi
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -44,7 +45,7 @@
 - [x] Ookami Kodomo
 - [x] Garden of Words
 - [x] Sky Crawlers
-- [ ] Hibike! Euphonium Movie
+- [x] Hibike! Euphonium Movie
 
 ### BY PC
 (.) Regalia: The Three Sacred Stars [Merchant]
@@ -74,6 +75,7 @@
 (-) Hibike! Euphonium ~~S1~~|S2
 (.) Kannazuki no Miko
 (.) High School Fleet [reencode](source file ilang cuks)
+(/) Sakura Trick
 - [x] Nerawareta Gakuen
 
 > Note:

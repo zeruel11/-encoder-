@@ -1,26 +1,3 @@
-#ToAdd:
-$Ana Satsujin
-Angel Beats!
-$Angel Game
-$Boku ni Koisuru Mechanical
-$Boy Skirt
-$Doujin Work
-$Fu-fu
-$Ga-rei
-$Narutaru
-$Nguruwa Kaihou
-$Osananajimi wa Onnanoko ni Naare
-$Sekainohate de Aimashou
-$Shin Sekai yori
-$Shingetsutan Tsukihime
-$The World God Only Knows
-?Tokimeki Suikoden
-$Tokko
-$Tokyo ESP
-$Yandere Kanojo
-$Yume de Aetara
-
-================================================================================
 /Blush-DC.
 + Tic Neesan
 A Channel
@@ -33,13 +10,18 @@ Amalgam of Distortion
 Amatsuki
 Arachnid
 Arata Kangatari
+Atom - The Beginning
 Azure Dream
 Bastard (HWANG Youngchan)
 Batou Shoujo
+Battle Vixens
 Betsukiss
 Black God
 Black Kanojo
+Blood Lad
 Bloody Cross
+Boku dake ga Inai Machi
+Boku Girl
 Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken
 Bokura wa Bara no Ko
 Break Blade
@@ -86,6 +68,7 @@ I Am A Killer Maid
 I The Female Robot
 Ibitsu (OKADA Kazuto)
 Iki no Kore! Shachiku-chan
+Inarime
 Infection
 Inou Battle wa Nichijoukei no Naka de
 Inu Yashiki
@@ -95,6 +78,7 @@ Itsukasei Metsubou Syndrome
 Joshi Kausei
 Joukamachi no Dandelion
 Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen
+Kamisama no Inai Nichiyoubi
 Kangoku Jikken
 Kanojo wa Rokurokubi
 Kasane
@@ -123,12 +107,14 @@ Monku no Tsukeyou ga Nai Rabukome
 Monster Musume no Iru Nichijou
 Mujaki no Rakuen
 Mushoku Tensei - Isekai Ittara Honki Dasu
+Musuko ga Kawaikute Shikataganai Mazoku no Hahaoya
 Nana to Kaoru
 Nanashi no Asterism
 Nanbaka
 Netsuzou Trap - NTR
 New Game!
 Nibun no Ichi Boyfriend
+Nijiiro Days (MIZUNO Minami)
 No Game No Life
 Noragami
 Not Lives
@@ -153,11 +139,15 @@ Radiant
 Real Account
 Red Raven
 ReLIFE
+Renai Boukun
 Rengoku no Karutagura
 Roots Beer
 Sakurasou no Pet na Kanojo
+Sayuri-san no Imouto wa Tenshi
 SE
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
 Seishun x Kikanjuu
+Seitokai Yakuindomo
 Senyuu.
 Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - Manmaruban
 Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - Manmaru-Hen
@@ -187,19 +177,21 @@ The Love Doctor
 Toaru Ossan no VRMMO Katsudouki
 Tonari no Kyuuketsuki-san
 Tsuiteru Kanojo. (NIKU)
+unOrdinary
 Until Death Do Us Part
 UQ Holder!
 Urami Koi, Koi, Urami Koi.
 Vampire Sphere
+Waratte! Sotomura-san
 Watari-kun no xx ga Houkai Sunzen
 Watashi no Muchi na Watashi no Michi
 What Does The Fox Say?
 White Epic
 Yagate-kun ni Naru
 Youkai Ningen
+Yubisaki Milk Tea
 Yumekui Merry
 Yuusha ga Shinda!
 Yuzumori-san
 Zekkyou Gakkyuu
 Zero kara Hajimeru Mahou no Sho
-Musuko ga Kawaikute Shikataganai Mazoku no Hahaoya
