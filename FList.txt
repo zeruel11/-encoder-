@@ -1,39 +1,24 @@
 #ToAdd:
-Ana Satsujin
+$Ana Satsujin
 Angel Beats!
-Angel Game
-Atom - The Beginning
-Blood Lad
-Boku dake ga Inai Machi
-Boku Girl
-Boku ni Koisuru Mechanical
-Boy Skirt
-Doujin Work
-Fu-fu
-Ga-rei
-HayateXBlade
-Ikkitousen
-Inarime
-Kamisama no Inai Nichiyoubi
-Narutaru
-Nguruwa Kaihou
-Nijiiro Secret
-Osananajimi wa Onnanoko ni Naare
-Renai Boukun
-Sayuri-san no Imouto wa Tenshi
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
-Seitokai Yakuindomo
-Sekainohate de Aimashou
-Shin Sekai yori
-Shingetsutan Tsukihime
-The World God Only Knows
-Tokimeki Suikoden
-Tokko
-Tokyo ESP
-Waratte! Sotomura-san
-Yandere Kanojo
-Yubisaki Milk Tea
-Yume de Aetara
+$Angel Game
+$Boku ni Koisuru Mechanical
+$Boy Skirt
+$Doujin Work
+$Fu-fu
+$Ga-rei
+$Narutaru
+$Nguruwa Kaihou
+$Osananajimi wa Onnanoko ni Naare
+$Sekainohate de Aimashou
+$Shin Sekai yori
+$Shingetsutan Tsukihime
+$The World God Only Knows
+?Tokimeki Suikoden
+$Tokko
+$Tokyo ESP
+$Yandere Kanojo
+$Yume de Aetara
 
 ================================================================================
 /Blush-DC.

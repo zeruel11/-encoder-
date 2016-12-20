@@ -73,7 +73,7 @@
 (.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
 (-) Hibike! Euphonium ~~S1~~|S2
 (.) Kannazuki no Miko
-(/) High School Fleet [reencode](source file ilang cuks)
+(.) High School Fleet [reencode](source file ilang cuks)
 - [x] Nerawareta Gakuen
 
 > Note:

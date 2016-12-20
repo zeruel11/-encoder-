@@ -1,7 +1,6 @@
 # File Tracker
 
 ## En Route:
-- High School Fleet
 - 
 
 ## On Site/Off Site:
@@ -39,7 +38,8 @@
 - Valkyrie Drive
 - Lance n Masque
 - Subete ga F ni Naru
-- UtawarerumonoYuru Yuri
+- Utawarerumono [^7]
+- Yuru Yuri
 - Comet Lucifer
 - Sakurako-san no Ashimoto
 - Gochuumon wa Usagi desuka
