@@ -7,7 +7,7 @@
 <!-- tocstop -->
 
 ## TBD
-(+) 
+(+) Kekkai Sensen
 - [ ] First Squad
 
 ### BY SERVER
