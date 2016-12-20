@@ -2,9 +2,7 @@
 
 ## En Route:
 - High School Fleet
-- Fight Ippatsu! Juuden-chan!!
-- Hyouka
-- Euphonium S1
+- 
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
@@ -22,7 +20,7 @@
 - Bubuki Buranki[^1]
 - Divine Gate
 - Shoujo-tachi wa Kouya wo Mezasu
-- Ajin
+- Ajin [^7]
 
 ##### Spring 2016 [Sp16](http://kbagi.com/the_zero/spring-2016-464919)
 - Koutetsujou no Kabaneri
@@ -32,7 +30,7 @@
 - Shuumatsu no Izetta
 - Mahou Shoujo Raising Project
 - Soushin Shoujo Matoi
-- ViVid Strike!
+- ViVid Strike! [^7]
 
 ##### Fall 2015
 - Shinmai Maou no Testament
@@ -144,3 +142,4 @@
 [^4]: Belum kelar gan
 [^5]: Goleki sek
 [^6]: ?
+[^7]: Deleted due copyright

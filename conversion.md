@@ -34,7 +34,7 @@
 (-) Bubuki Buranki ~~S1~~|S2
 (-) Cyborg 009 ~~S1~~|S2
 (.) Hyouka
-(/) NG Knight Ramune
+(.) NG Knight Ramune
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -48,9 +48,9 @@
 
 ### BY PC
 (.) Regalia: The Three Sacred Stars [Merchant]
-(/) Mahou Shoujo Rising Project [GJM]
+(-) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
-(/) Soushin Shoujo Matoi [DameDesuYo]
+(-) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
@@ -64,7 +64,7 @@
 (.) Dagashi Kashi
 (.) Mahoutsukai ni Taisetsu na Koto
 (=) Boogie Pop
-(-) Girlish Number [~~1234~~/Davinci]
+(+) Girlish Number [~~1234~~/Davinci]
 (.) Nyaruko-san
 (.) Nyaruko-san W
 (.) Reikenzan
