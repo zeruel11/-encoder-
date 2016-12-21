@@ -7,7 +7,6 @@
 <!-- tocstop -->
 
 ## TBD
-(+) Kekkai Sensen
 (+)
 - [ ] First Squad
 
@@ -76,7 +75,8 @@
 (-) Hibike! Euphonium ~~S1~~|S2
 (.) Kannazuki no Miko
 (.) High School Fleet [reencode](source file ilang cuks)
-(/) Sakura Trick
+(.) Sakura Trick
+(/) Kekkai Sensen
 - [x] Nerawareta Gakuen
 
 > Note:
