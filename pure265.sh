@@ -32,16 +32,16 @@ comp="24"
 #comp="26"
 #comp="28"
 
-scala="scale=-1:544"
-#scala="scale=-1:720"
+#scala="scale=-1:544"
+scala="scale=-1:720"
 #scala="scale=-1:1080"
 
 vidtr="-c:v"
 audtr="-c:a"
 mapvi="0:v:0"
 mapau="0:a:0"
-#mapsb="0:s:0"
-#mapat="0:t:0"
+mapsb="0:s:0"
+mapat="0:t?"
 choose="-map"
 
 for FILE in `ls $SRC`

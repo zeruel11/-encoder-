@@ -1,71 +1,54 @@
-#ToAdd:
-?Angel Beats!
+#Ano Ko ga Watashi o Onna ni Suru {OneShot}
+#Anta Miteru to Muramura Sunda Kedo {OneShot}
+#Blood+
+#Blue Drop - Maiorita Tenshi
+#Blue Drop ~Tenshi no Bokura~
+#Love Flicker {OneShot}
+#Mahou Shoujo Fatal Fate
+#Majutsushi Orphen Hagure Tabi
+#Pandora Hearts
+#Senjou no Valkyria 2 - Soukou no Aliasse
 $Tokimeki Suikoden
-
-================================================================================
-Ano Ko ga Watashi o Onna ni Suru
-Ano Musume ni Kiss to Shirayuri o
-Ansatsu Kyoushitsu
-Anta Miteru to Muramura Sunda Kedo
-Aoi Hana
-Asatte no Houkou
-Birdy the Mighty
-Birdy the Mighty II
-Blood+
-Blue Drop
-Blue Drop - Maiorita Tenshi
-Blue Drop - Tenshi no Itazura
-Blue Drop ~Tenshi no Bokura~
-Boku no Futatsu no Tsubasa
-Cage of Eden
-Charlotte the 4-koma - Seshun o Kakenukero!
-Choujin Gakuen
+?$The Princess And The Slave (Mira)
+?Angel Beats!
+?Birdy the Mighty
+?Birdy the Mighty II
+?Charlotte the 4-koma - Seshun o Kakenukero!
+?Girls & Panzer
+?Girls & Panzer - Little Army
+?Girls & Panzer - Lovey-Dovey Panzer
+?Girls & Panzer - Motto Love Love Sakusen desu!
+?Love Live! - School Idol Project
+?Project ARMS 242
+?REC
+^Ansatsu Kyoushitsu {186}
+^Boku no Futatsu no Tsubasa {37}
+^Cage of Eden {187}
+^Choujin Gakuen {41}
+^Get Backers {224}
+^Ghost Sweeper Mikami {394}
+^Happy World! {72}
+^Kekkaishi {346}
+^Kono Kanojo wa Fiction desu {34}
+^Majutsushi Orphen Hagure Tabi Max {11}
+^Moriguchi Orito no Teiougaku {14}
+^My Daughter’s Girlfriend {OneShot}
+^Naruto {748}
+^Ou Dorobou Jing {41}
+^Rozen Maiden II {68}
+^Sankarea {59}
+^Shiroi Heya no Futari {OneShot}
+^Shounen yo Taishi o Dake! {25}
+^Someday's Dreamers Spellbound {8}
+^Someday's Dreamers {12}
+^Soukyuu no Lapis Lazuli {11}
+^Sumomomo Momomo {94}
+^Tandem Lover {7}
+^Tasogare Otome x Amnesia {58}
+^Tenjou Tenge {136}
+^The World Ends With You {OneShot} {2}
+^Today In Class 5-2 {23}
+^Uwagaki {22}
+^Velvet Kiss {32}
 Doraemon
 Doraemon Long Stories
-El Cazador de la Bruja
-Elemental Gelade
-Fairy Tail
-Get Backers
-Ghost Sweeper Mikami
-Girls & Panzer
-Girls & Panzer - Little Army
-Girls & Panzer - Lovey-Dovey Panzer
-Girls & Panzer - Motto Love Love Sakusen desu!
-Happy World!
-Kekkaishi
-Kono Kanojo wa Fiction desu
-Lily Love
-Love Flicker
-Love Live! - School Idol Project
-Mahou Shoujo Fatal Fate
-Majutsushi Orphen Hagure Tabi
-Majutsushi Orphen Hagure Tabi Max
-Moriguchi Orito no Teiougaku
-My Daughter’s Girlfriend
-Naruto
-Ou Dorobou Jing
-Pandora Hearts
-Project ARMS
-REC
-Rengoku Deadroll
-Rozen Maiden
-Rozen Maiden II
-Sankarea
-Senjou no Valkyria 2 - Soukou no Aliasse
-Shibito no Koe o Kiku ga Yoi
-Shiroi Heya no Futari
-Shounen yo Taishi o Dake!
-Someday's Dreamers
-Someday's Dreamers Spellbound
-Soukyuu no Lapis Lazuli
-Sumomomo Momomo
-Tandem Lover
-Tasogare Otome x Amnesia
-Tenjou Tenge
-The Good Witch of the West
-The Princess And The Slave (Mira)
-The World Ends With You
-Today In Class 5-2
-Uwagaki
-Velvet Kiss
-Watch me! Maria-sama!
