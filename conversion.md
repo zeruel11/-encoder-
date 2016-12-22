@@ -35,7 +35,8 @@
 (-) Cyborg 009 ~~S1~~|S2
 (.) Hyouka
 (.) NG Knight Ramune
-(/) Shin Atashinchi
+(.) Shin Atashinchi
+(/) Shirobako
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -76,7 +77,8 @@
 (.) Kannazuki no Miko
 (.) High School Fleet [reencode](source file ilang cuks)
 (.) Sakura Trick
-(/) Kekkai Sensen
+(.) Kekkai Sensen
+(/) Aoi Hana
 - [x] Nerawareta Gakuen
 
 > Note:
