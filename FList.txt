@@ -19,11 +19,11 @@ Betsukiss
 Black God
 Black Kanojo
 Blood Lad
-Bloody Cross
+#Bloody Cross
 Boku dake ga Inai Machi
 Boku Girl
 Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken
-Bokura wa Bara no Ko
+#Bokura wa Bara no Ko
 Break Blade
 Busou Shoujo Machiavellianism
 Butterfly 69
@@ -49,7 +49,7 @@ Fuuka
 Gakkou Gurashi!
 Gakkou Kaidan
 Gal and otaku can't understand each other
-Godly Bells
+#Godly Bells
 Good Night World
 Groundless - Sekigan no Sogekihei
 Hai to Gensou no Grimgal
@@ -117,11 +117,11 @@ Nibun no Ichi Boyfriend
 Nijiiro Days (MIZUNO Minami)
 No Game No Life
 Noragami
-Not Lives
+#Not Lives
 Nukoduke!
 Ojojojo
 Okusama ga Seito Kaichou!
-Oniichan no Koto Nanka Zenzen Suki ja Nai n da kara ne
+#Oniichan no Koto Nanka Zenzen Suki ja Nai n da kara ne
 Online - The Comic
 Only Sense Online
 Ookami Shounen wa Kyou mo Uso o Kasaneru
@@ -140,11 +140,11 @@ Real Account
 Red Raven
 ReLIFE
 Renai Boukun
-Rengoku no Karutagura
+#Rengoku no Karutagura
 Roots Beer
 Sakurasou no Pet na Kanojo
 Sayuri-san no Imouto wa Tenshi
-SE
+#SE
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
 Seishun x Kikanjuu
 Seitokai Yakuindomo
@@ -156,7 +156,7 @@ Shinozaki-san Ki o Ota Shika ni!
 Shiro Ari
 Shuukan Shounen Girl
 Sidekicks
-Slow Starter
+#Slow Starter
 Space-Time Prisoner
 Sugarless (HOSOKAWA Masami)
 Takane no Hana Nara Ochitekoi!!
@@ -169,7 +169,7 @@ Tate no Yuusha no Nariagari
 Terra Formars
 The Fiary Captivity
 The Gamer
-The Girl Awakens With a Kiss From the Princess
+#The Girl Awakens With a Kiss From the Princess
 The God Of High School
 The Language of God
 The Legendary Moonlight Sculptor
