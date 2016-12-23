@@ -36,7 +36,8 @@
 (.) Hyouka
 (.) NG Knight Ramune
 (.) Shin Atashinchi
-(=) Shirobako
+(.) Shirobako
+(/) When They Cry Higurashi
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -79,7 +80,8 @@
 (.) Sakura Trick
 (.) Kekkai Sensen
 (.) Aoi Hana
-(/) Shingetsutan Tsukihime
+(.) Shingetsutan Tsukihime
+(/) Seikoku no Dragonar
 - [x] Nerawareta Gakuen
 
 > Note:
