@@ -38,7 +38,8 @@
 (.) Shin Atashinchi
 (.) Shirobako
 (.) When They Cry Higurashi
-(/) Ao no Exorcist
+(=) Mikagura Gakuen [still waiting for source](http://zeruel.vhoz.us/downloads)
+(/) Kimi ni Todoke
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -54,7 +55,7 @@
 (.) Regalia: The Three Sacred Stars [Merchant]
 (-) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
-(-) Soushin Shoujo Matoi [DameDesuYo]
+(+) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
@@ -68,7 +69,7 @@
 (.) Dagashi Kashi
 (.) Mahoutsukai ni Taisetsu na Koto
 (=) Boogie Pop
-(+) Girlish Number [~~1234~~/Davinci]
+(-) Girlish Number [~~1234~~/Davinci]
 (.) Nyaruko-san
 (.) Nyaruko-san W
 (.) Reikenzan
@@ -84,6 +85,7 @@
 (.) Shingetsutan Tsukihime
 (.) Seikoku no Dragonar
 (/) K Project
+(+) Ao no Exorcist [retry](server fail to convert correctly)
 - [x] Nerawareta Gakuen
 
 > Note:
