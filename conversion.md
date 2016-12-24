@@ -37,7 +37,8 @@
 (.) NG Knight Ramune
 (.) Shin Atashinchi
 (.) Shirobako
-(/) When They Cry Higurashi
+(.) When They Cry Higurashi
+(/) Ao no Exorcist
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -81,7 +82,8 @@
 (.) Kekkai Sensen
 (.) Aoi Hana
 (.) Shingetsutan Tsukihime
-(/) Seikoku no Dragonar
+(.) Seikoku no Dragonar
+(/) K Project
 - [x] Nerawareta Gakuen
 
 > Note:
