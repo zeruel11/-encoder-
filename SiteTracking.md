@@ -58,7 +58,16 @@
 
 ##### Aiura [Aiura](http://kbagi.com/the_zero/aiura-195226)
 
+##### School Days [SD](http://kbagi.com/the_zero/sd-477509)
 
+##### Borderline H [borderLINE](http://kbagi.com/the_zero/borderline-477001)
+- Shoujo Sect
+- Kuttsukiboshi
+
+##### Shoujo Ai [yuri.ism](http://kbagi.com/the_zero/yuri-ism-477000)
+- Aoi Hana
+- Sakura Trick
+- Strawberry Panic
 
 ### MEGA NEFO
 - Cross Ange
@@ -66,7 +75,6 @@
 - Girls und Panzer
 - Heroic Age
 - Koutetsujou no Kabaneri
-- 
 
 ### MEGA OLDEFO
 - Angel Tales

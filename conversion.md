@@ -13,7 +13,7 @@
 ### BY SERVER
 (-) Shuumatsu no Izetta [Chihiro]
 (-) Show by Rock [orz]
-(-) ViVid Strike! [VividTrans]
+(/) ViVid Strike! [VividTrans]
 (.) Tenshi ni Shippo S1
 (.) Eureka Seven [Nanashi]
 (.) Chrome Shelled Regios
@@ -38,8 +38,8 @@
 (.) Shin Atashinchi
 (.) Shirobako
 (.) When They Cry Higurashi
-(=) Mikagura Gakuen [still waiting for source](http://zeruel.vhoz.us/downloads)
-(/) Kimi ni Todoke
+(.) Mikagura Gakuen [still waiting for source](http://zeruel.vhoz.us/downloads)
+(.) Kimi ni Todoke
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -50,12 +50,13 @@
 - [x] Garden of Words
 - [x] Sky Crawlers
 - [x] Hibike! Euphonium Movie
+- [ ] Tailenders
 
 ### BY PC
 (.) Regalia: The Three Sacred Stars [Merchant]
 (-) Mahou Shoujo Rising Project [GJM]
 (-) Occultic Nine [Chihiro]
-(+) Soushin Shoujo Matoi [DameDesuYo]
+(-) Soushin Shoujo Matoi [DameDesuYo]
 (.) Tenshi ni Shippo S2
 (.) Serial Experiments Lain
 (.) Nanaka
@@ -84,8 +85,9 @@
 (.) Aoi Hana
 (.) Shingetsutan Tsukihime
 (.) Seikoku no Dragonar
-(/) K Project
-(+) Ao no Exorcist [retry](server fail to convert correctly)
+(.) K Project
+(/) Ao no Exorcist [redownload](file error)
+(.) Kokoro Connect
 - [x] Nerawareta Gakuen
 
 > Note:
