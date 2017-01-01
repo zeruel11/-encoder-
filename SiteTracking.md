@@ -7,6 +7,7 @@
 - Ghost in The Shell ARISE[^2]
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
+- Kannazuki no Miko [^1]
 
 ## Cloud Space:
 ### KBagi
@@ -63,11 +64,13 @@
 ##### Borderline H [borderLINE](http://kbagi.com/the_zero/borderline-477001)
 - Shoujo Sect
 - Kuttsukiboshi
+- Valkyrie Drive
 
 ##### Shoujo Ai [yuri.ism](http://kbagi.com/the_zero/yuri-ism-477000)
 - Aoi Hana
 - Sakura Trick
 - Strawberry Panic
+- Candy Boy
 
 ### MEGA NEFO
 - Cross Ange

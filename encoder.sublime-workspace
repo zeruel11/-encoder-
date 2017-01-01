@@ -11,7 +11,7 @@
 			"file": "SiteTracking.md",
 			"settings":
 			{
-				"buffer_size": 3235,
+				"buffer_size": 3548,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "On Cloud:"
@@ -21,7 +21,27 @@
 			"file": "conversion.md",
 			"settings":
 			{
-				"buffer_size": 1644,
+				"buffer_size": 2271,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "[general]\nNumberOfTasks=18\n\n[task0]\nWebsite=MangaHere\nLink=http://www.mangahere.co/manga/elemental_gelade/\nTitle=Elemental Gelade\nSaveTo=D:\\manga\\MangaHere@Elemental Gelade\\\nStatus=[2/2] Failed, try resuming this task!\nProgress=\nEnabled=1\nDateTime=42725.5486574653\nCustomFileName=%FILENAME%\nChapterLinks=/manga/elemental_gelade/v11/c092/!%~/manga/elemental_gelade/v11/c094/!%~\nChapterName=Elemental Gelade 92 Vol 11 Edel Garden ~ Wind that Tears You Open!%~Elemental Gelade 94 Vol 11 Edel Garden ~ What We Have and Want to Protect!%~\nTaskStatus=STATUS_FAILED\nChapterPtr=0\nNumberOfPages=1\nCurrentPage=0\n\n[task1]\nWebsite=MangaHere\nLink=http://www.mangahere.co/manga/fairy_tail/\nTitle=Fairy Tail\nSaveTo=D:\\manga\\MangaHere@Fairy Tail\\\nStatus=[8/15] Stopped\nProgress=1/25\nEnabled=1\nDateTime=42725.5755267824\nCustomFileName=%FILENAME%\nChapterLinks=/manga/fairy_tail/v02/c007/!%~/manga/fairy_tail/v06/c040/!%~/manga/fairy_tail/v08/c058/!%~/manga/fairy_tail/v15/c124/!%~/manga/fairy_tail/v20/c161.5/!%~/manga/fairy_tail/v23/c196/!%~/manga/fairy_tail/v23/c217/!%~/manga/fairy_tail/v23/c220/!%~/manga/fairy_tail/v25/c235/!%~/manga/fairy_tail/v25/c259/!%~/manga/fairy_tail/v26/c285/!%~/manga/fairy_tail/v26/c311/!%~/manga/fairy_tail/v35/c341/!%~/manga/fairy_tail/v38/c363/!%~/manga/fairy_tail/v38/c396/!%~\nChapterName=Fairy Tail 7 Vol 02 The Weak Point of a Mage!%~Fairy Tail 40 Vol 06 Final Battle on Garuna Island!%~Fairy Tail 58 Vol 08 There's Always Someone Better!%~Fairy Tail 124 Vol 15 Triple Dragon!%~Fairy Tail 161.5 Vol 20 Special Story Welcome to Fairy Hills!%~Fairy Tail 196 Vol 23 Great Demon Lord Dragneel!%~Fairy Tail 217 Vol 23 Lost Magic!%~Fairy Tail 220 Vol 23 Fairy Sisters!%~Fairy Tail 235 Vol 25 Tenrou Tree!%~Fairy Tail 259 Vol 25 Lucy And Natsu!%~Fairy Tail 285 Vol 26 MPF!%~Fairy Tail 311 Vol 26 The Country Until Tomorrow!%~Fairy Tail 341 Vol 35 The Morning Of A New Adventure!%~Fairy Tail 363 Vol 38 The Stories Demons Read!%~Fairy Tail 396 Vol 38 Air(fixed)!%~\nFailedChapterLinks=/manga/fairy_tail/v02/c007/!%~/manga/fairy_tail/v06/c040/!%~/manga/fairy_tail/v08/c058/!%~/manga/fairy_tail/v15/c124/!%~/manga/fairy_tail/v20/c161.5/!%~/manga/fairy_tail/v23/c196/!%~/manga/fairy_tail/v23/c217/!%~\nFailedChapterName=Fairy Tail 7 Vol 02 The Weak Point of a Mage!%~Fairy Tail 40 Vol 06 Final Battle on Garuna Island!%~Fairy Tail 58 Vol 08 There's Always Someone Better!%~Fairy Tail 124 Vol 15 Triple Dragon!%~Fairy Tail 161.5 Vol 20 Special Story Welcome to Fairy Hills!%~Fairy Tail 196 Vol 23 Great Demon Lord Dragneel!%~Fairy Tail 217 Vol 23 Lost Magic!%~\nTaskStatus=STATUS_STOP\nChapterPtr=7\nNumberOfPages=0\nCurrentPage=0\n\n[task2]\nWebsite=MangaHere\nLink=/manga/white_epic/\nTitle=White Epic\nSaveTo=D:\\manga\\MangaHere@White Epic\\\nStatus=[0/1] Failed to create directory!\nProgress=\nEnabled=1\nDateTime=42729.1271976852\nCustomFileName=%FILENAME%\nChapterLinks=/manga/white_epic/c065/!%~\nChapterName=White Epic 065!%~\nTaskStatus=STATUS_FAILED\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task3]\nWebsite=MangaHere\nLink=/manga/chio_chan_no_tsuugakuro/\nTitle=Chio-chan no Tsuugakuro\nSaveTo=D:\\manga\\MangaHere@Chio-chan no Tsuugakuro\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.874282037\nCustomFileName=%FILENAME%\nChapterLinks=/manga/chio_chan_no_tsuugakuro/c015.5/!%~\nChapterName=Chio-chan no Tsuugakuro 015.5 Omake Momo-chan's Story!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task4]\nWebsite=MangaHere\nLink=/manga/fuuka/\nTitle=Fuuka\nSaveTo=D:\\manga\\MangaHere@Fuuka\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742824074\nCustomFileName=%FILENAME%\nChapterLinks=/manga/fuuka/c137/!%~\nChapterName=Fuuka 137 New Song!!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task5]\nWebsite=MangaHere\nLink=/manga/ibitsu_okada_kazuto/\nTitle=Ibitsu (OKADA Kazuto)\nSaveTo=D:\\manga\\MangaHere@Ibitsu (OKADA Kazuto)\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742824306\nCustomFileName=%FILENAME%\nChapterLinks=/manga/ibitsu_okada_kazuto/c049/!%~\nChapterName=Ibitsu (OKADA Kazuto) 049 Lock Delight!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task6]\nWebsite=MangaHere\nLink=/manga/inu_yashiki/\nTitle=Inu Yashiki\nSaveTo=D:\\manga\\MangaHere@Inu Yashiki\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742824537\nCustomFileName=%FILENAME%\nChapterLinks=/manga/inu_yashiki/c071/!%~\nChapterName=Inu Yashiki 071 Father's Confession!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task7]\nWebsite=MangaHere\nLink=/manga/kaguya_sama_wa_kokurasetai_tensai_tachi_no_renai_zunousen/\nTitle=Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen\nSaveTo=D:\\manga\\MangaHere@Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742824768\nCustomFileName=%FILENAME%\nChapterLinks=/manga/kaguya_sama_wa_kokurasetai_tensai_tachi_no_renai_zunousen/c047/!%~\nChapterName=Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen 047 Kaguya Wants to Choose!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task8]\nWebsite=MangaHere\nLink=/manga/kin_no_kanojo_gin_no_kanojo/\nTitle=Kin no Kanojo Gin no Kanojo\nSaveTo=D:\\manga\\MangaHere@Kin no Kanojo Gin no Kanojo\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742824884\nCustomFileName=%FILENAME%\nChapterLinks=/manga/kin_no_kanojo_gin_no_kanojo/c014/!%~\nChapterName=Kin no Kanojo Gin no Kanojo 014 Attack 14!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task9]\nWebsite=MangaHere\nLink=/manga/kiss_x_death/\nTitle=Kiss x Death\nSaveTo=D:\\manga\\MangaHere@Kiss x Death\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742825\nCustomFileName=%FILENAME%\nChapterLinks=/manga/kiss_x_death/c047/!%~\nChapterName=Kiss x Death 047 Preparations of Every Sort!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task10]\nWebsite=MangaHere\nLink=/manga/netsuzou_trap_ntr/\nTitle=Netsuzou Trap - NTR\nSaveTo=D:\\manga\\MangaHere@Netsuzou Trap - NTR\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742825231\nCustomFileName=%FILENAME%\nChapterLinks=/manga/netsuzou_trap_ntr/c014/!%~\nChapterName=Netsuzou Trap - NTR 014!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task11]\nWebsite=MangaHere\nLink=/manga/online_the_comic/\nTitle=Online - The Comic\nSaveTo=D:\\manga\\MangaHere@Online - The Comic\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742825463\nCustomFileName=%FILENAME%\nChapterLinks=/manga/online_the_comic/c073/!%~\nChapterName=Online - The Comic 073!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task12]\nWebsite=MangaHere\nLink=/manga/quan_zhi_gao_shou/\nTitle=Quan Zhi Gao Shou\nSaveTo=D:\\manga\\MangaHere@Quan Zhi Gao Shou\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742825579\nCustomFileName=%FILENAME%\nChapterLinks=/manga/quan_zhi_gao_shou/c018.3/!%~\nChapterName=Quan Zhi Gao Shou 018.3 11-Rounds Winning Streak (33)!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task13]\nWebsite=MangaHere\nLink=/manga/se/\nTitle=SE\nSaveTo=D:\\manga\\MangaHere@SE\\\nStatus=[0/2] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742825694\nCustomFileName=%FILENAME%\nChapterLinks=/manga/se/c036/!%~/manga/se/c037/!%~\nChapterName=SE 036!%~SE 037!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task14]\nWebsite=MangaHere\nLink=http://www.mangahere.co/manga/seitokai_yakuindomo/\nTitle=Seitokai Yakuindomo\nSaveTo=D:\\manga\\MangaHere@Seitokai Yakuindomo\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742825694\nCustomFileName=%FILENAME%\nChapterLinks=/manga/seitokai_yakuindomo/v13/c407/!%~\nChapterName=Seitokai Yakuindomo 407 Vol 13!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task15]\nWebsite=MangaHere\nLink=/manga/tales_of_demons_and_gods/\nTitle=Tales of Demons and Gods\nSaveTo=D:\\manga\\MangaHere@Tales of Demons and Gods\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.874282662\nCustomFileName=%FILENAME%\nChapterLinks=/manga/tales_of_demons_and_gods/c110/!%~\nChapterName=Tales of Demons and Gods 110 Won't Stop Till I Die!!!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task16]\nWebsite=MangaHere\nLink=/manga/tales_of_the_unusual/\nTitle=Tales of the unusual\nSaveTo=D:\\manga\\MangaHere@Tales of the unusual\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742826852\nCustomFileName=%FILENAME%\nChapterLinks=/manga/tales_of_the_unusual/c159/!%~\nChapterName=Tales of the unusual 159 The Teleporter - Part2!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n\n[task17]\nWebsite=MangaHere\nLink=/manga/urami_koi_koi_urami_koi/\nTitle=Urami Koi, Koi, Urami Koi.\nSaveTo=D:\\manga\\MangaHere@Urami Koi, Koi, Urami Koi\\\nStatus=[0/1] Stopped\nProgress=\nEnabled=1\nDateTime=42733.8742827083\nCustomFileName=%FILENAME%\nChapterLinks=/manga/urami_koi_koi_urami_koi/c025/!%~\nChapterName=Urami Koi, Koi, Urami Koi. 025 The Biggest Slasher is Always the One that Gets Away!%~\nTaskStatus=STATUS_STOP\nChapterPtr=0\nNumberOfPages=0\nCurrentPage=0\n",
+			"file": "/D/AdportoDefaltam/FMD/works/works.ini",
+			"file_size": 9396,
+			"file_write_time": 131274935780000000,
+			"settings":
+			{
+				"buffer_size": 9086,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MangaTracker.txt",
+			"settings":
+			{
+				"buffer_size": 45,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -30,17 +50,8 @@
 			"file": "SubProject.md",
 			"settings":
 			{
-				"buffer_size": 1039,
+				"buffer_size": 1126,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "[AniList]Anime-ZERUEL-PCX(SP).txt",
-			"settings":
-			{
-				"buffer_size": 205,
-				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
 		}
@@ -52,29 +63,57 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 219.0,
-		"last_filter": "pull",
+		"height": 265.0,
+		"last_filter": "collap",
 		"selected_items":
 		[
 			[
+				"collap",
+				"Trimmer: Collapse spaces."
+			],
+			[
 				"pull",
 				"Git: Pull"
-			],
-			[
-				"push",
-				"Git: Push"
-			],
-			[
-				"comm",
-				"Git: Quick Commit (repo)"
 			],
 			[
 				"trim",
 				"Trimmer: Collapse spaces."
 			],
 			[
+				"push",
+				"Git: Push"
+			],
+			[
 				"commit",
 				"Git: Quick Commit (repo)"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"comm",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"stas",
+				"Git: Stash Drop"
+			],
+			[
+				"stash",
+				"Git: Stash Changes"
 			],
 			[
 				"pre",
@@ -82,10 +121,6 @@
 			],
 			[
 				"stat",
-				"Git: Status"
-			],
-			[
-				"status",
 				"Git: Status"
 			],
 			[
@@ -115,10 +150,6 @@
 			[
 				"ssma",
 				"Set Syntax: Markdown GFM"
-			],
-			[
-				"stas",
-				"Git: Stash Changes"
 			],
 			[
 				"link",
@@ -255,6 +286,15 @@
 	"file_history":
 	[
 		"/D/Ænima/[luaran]/checksums.txt",
+		"/D/Datum/-encoder-/FList.txt",
+		"/D/AdportoDefaltam/FMD/works/works.ini",
+		"/D/Ænima/!pending/Telephaty Shoujo Ran/[m.3.3.w]_Telepathy_Shoujo_Ran_-_08v2_(H.264-720p+DD2.0)_[88BA3CC7] (1).mkv",
+		"/D/Datum/-encoder-/Rename.txt",
+		"/D/Datum/-encoder-/favorites.ini",
+		"//10.126.12.48/Anim/minimize1.sh",
+		"/D/Datum/-encoder-/MList.txt",
+		"/C/Users/EBIS-114/Downloads/zeruel.vhoz.us_20th_Dec_2016 (1).txt",
+		"/D/Datum/-encoder-/[AniList]Anime-ZERUEL-PCX(SP).txt",
 		"/H/manga/~Manga Downloader/works/works.ini",
 		"/H/manga/~Manga Downloader/works/favorites.ini",
 		"/H/manga/~Manga Downloader/config/mangalist.ini",
@@ -266,7 +306,6 @@
 		"/H/manga/~Manga Downloader/config/advanced.ini.run",
 		"//10.126.12.48/Anim/pure265.sh",
 		"//10.126.12.48/Anim/ini.sh",
-		"//10.126.12.48/Anim/minimize1.sh",
 		"//10.126.12.48/Anim/minimize.sh",
 		"/D/Datum/-encoder-/conversion.md",
 		"/F/luaran/checksums.txt",
@@ -341,6 +380,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"H:\\",
+			"h:\\",
+			"#",
+			"^[^\\^]",
+			"^[^\\^].",
+			"^[^\\^].*",
+			"[^\\^]\\w.*",
+			"[^\\^]\\w*",
+			"\\w[^\\^]*",
+			"utawareru",
 			"G:\\",
 			"spring 2016",
 			"copy",
@@ -355,6 +404,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"D:\\",
+			"",
 			"H:\\",
 			"precode",
 			"preset"
@@ -368,7 +419,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -377,15 +428,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3235,
+						"buffer_size": 3548,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								928,
-								928
+								14,
+								14
 							]
 						],
 						"settings":
@@ -396,7 +447,7 @@
 							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 109.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -408,15 +459,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1644,
+						"buffer_size": 2271,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								613,
-								613
+								1879,
+								1879
 							]
 						],
 						"settings":
@@ -426,7 +477,7 @@
 							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 449.0,
+						"translation.y": 1121.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -434,19 +485,75 @@
 				},
 				{
 					"buffer": 2,
-					"file": "SubProject.md",
+					"file": "/D/AdportoDefaltam/FMD/works/works.ini",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1039,
+						"buffer_size": 9086,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								641,
-								641
+								2851,
+								2851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 433.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "MangaTracker.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "SubProject.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
 							]
 						],
 						"settings":
@@ -462,35 +569,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "[AniList]Anime-ZERUEL-PCX(SP).txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 205,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								205,
-								205
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
