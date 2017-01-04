@@ -1,0 +1,14 @@
+# MasterList Plugin Edit
+
+1. Hunterborn[^1]
+2. Bathing in Skyrim[^2]
+3. All Geared Up[^3]
+
+
+[^1]: Removed perk _DS_Perk_Botany for compatibility with Ordinator's Experimenter perk
+[^2]: Added no absorb/reflect SPIT flags on 13 ability spells for Weapons and Armor Attributes compatibility
+[^3]: Added CACO MGEF to potions FLIST for compatibility with CACO
+
+## manualPatch[^814044bb]
+
+[^814044bb]: Merge names and MGEF from COT. Also fix leveled list from ordinator and CACO to bashed patch.
