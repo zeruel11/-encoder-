@@ -40,7 +40,8 @@
 (.) When They Cry Higurashi
 (.) Mikagura Gakuen
 (.) Kimi ni Todoke
-(/) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert)
+(+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
+(/) Sasami-san Ganbaranai
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -91,7 +92,8 @@
 (.) Ao no Exorcist
 (.) Kokoro Connect
 (.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
-(/) Yozakura Quartet
+(.) Yozakura Quartet
+(/) SNAFU
 - [x] Nerawareta Gakuen
 
 > Note:
