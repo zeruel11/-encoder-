@@ -4,3 +4,4 @@
 - [ ] Immersive armors rebuild meshes. Check records and bash patch as needed
 - [X] Reorganize mod organizer
 - [ ] Rebuild bashedPatch with home settings
+- [ ] Update modlist and lockedorder
