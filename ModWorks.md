@@ -5,3 +5,4 @@
 - [X] Reorganize mod organizer
 - [X] Rebuild bashedPatch with home settings
 - [X] Update modlist and lockedorder
+- [X] Check why wrye bash can't import sound (problem on USLEEP)

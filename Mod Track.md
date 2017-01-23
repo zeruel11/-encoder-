@@ -39,7 +39,7 @@ ImmersiveMerchandising-CACO-Bijin[^736fd0ab]
 ## bashedPatch (tags)
 ImmersiveJewelry
 ```
-names stats delev relev sound
+names stats delev relev
 ```
 IJWintermyst
 ```

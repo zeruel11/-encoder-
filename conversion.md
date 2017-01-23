@@ -7,7 +7,7 @@
 <!-- tocstop -->
 
 ## TBD
-(+)
+(+) 
 - [ ] First Squad
 
 ### BY SERVER
@@ -42,7 +42,8 @@
 (.) Kimi ni Todoke
 (+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (.) Sasami-san Ganbaranai
-(/) Tokimeki Memorial
+(.) Tokimeki Memorial
+(/) Shikabane Hime
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -95,7 +96,7 @@
 (.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
 (.) Yozakura Quartet
 (.) SNAFU
-(/) Sasameki Koto
+(.) Sasameki Koto
 - [x] Nerawareta Gakuen
 
 > Note:
