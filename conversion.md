@@ -41,7 +41,8 @@
 (.) Mikagura Gakuen
 (.) Kimi ni Todoke
 (+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
-(/) Sasami-san Ganbaranai
+(.) Sasami-san Ganbaranai
+(/) Tokimeki Memorial
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -93,7 +94,8 @@
 (.) Kokoro Connect
 (.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
 (.) Yozakura Quartet
-(/) SNAFU
+(.) SNAFU
+(/) Sasameki Koto
 - [x] Nerawareta Gakuen
 
 > Note:
