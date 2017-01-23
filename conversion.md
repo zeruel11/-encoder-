@@ -11,38 +11,38 @@
 - [ ] First Squad
 
 ### BY SERVER
-(+) Shuumatsu no Izetta [Chihiro]
-(-) Show by Rock [orz]
-(.) ViVid Strike! [VividTrans]
-(.) Tenshi ni Shippo S1
-(.) Eureka Seven [Nanashi]
-(.) Chrome Shelled Regios
-(.) SankaRea
-(.) Noir
-(.) The Third
-(.) Shangri-La
-(.) Tokyo Mew Mew
-(.) Zankyou no Terror
-(.) Maou Yuusha
-(.) Another
-(.) Moribito
-(.) Kodocha
-(.) Blassreiter
-(.) Narue no Sekai
-(.) Ao no Kanata
-(.) Sakurako-san no Ashimoto
-(.) Bubuki Buranki ~~S1~~|~~S2~~
+(+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
+(+) Shuumatsu no Izetta [~~Chihiro~~/Chuu]
 (-) Cyborg 009 ~~S1~~|S2
+(-) Show by Rock [orz?] 03
+(.) Another
+(.) Ao no Kanata
+(.) Blassreiter
+(.) Bubuki Buranki ~~S1~~|~~S2~~
+(.) Chrome Shelled Regios
+(.) Eureka Seven [Nanashi]
 (.) Hyouka
+(.) Kimi ni Todoke
+(.) Kodocha
+(.) Maou Yuusha
+(.) Mikagura Gakuen
+(.) Moribito
+(.) Narue no Sekai
 (.) NG Knight Ramune
+(.) Noir
+(.) Sakurako-san no Ashimoto
+(.) SankaRea
+(.) Sasami-san Ganbaranai
+(.) Shangri-La
 (.) Shin Atashinchi
 (.) Shirobako
-(.) When They Cry Higurashi
-(.) Mikagura Gakuen
-(.) Kimi ni Todoke
-(+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
-(.) Sasami-san Ganbaranai
+(.) Tenshi ni Shippo S1
+(.) The Third
 (.) Tokimeki Memorial
+(.) Tokyo Mew Mew
+(.) ViVid Strike! [VividTrans]
+(.) When They Cry Higurashi
+(.) Zankyou no Terror
 (/) Shikabane Hime
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
@@ -58,45 +58,45 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
-(.) Regalia: The Three Sacred Stars [Merchant]
+(-) Occultic Nine [Chihiro?] 01
+(.) Ao no Exorcist
+(.) Aoi Hana
+(.) Blood C
+(.) Dagashi Kashi
+(.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
+(.) Girlish Number [~~1234~~/Davinci]
+(.) High School Fleet
+(.) K Project
+(.) Kannazuki no Miko [upload](KBagi)
+(.) Kekkai Sensen
+(.) Kokoro Connect
+(.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
 (.) Mahou Shoujo Rising Project [GJM]
-(-) Occultic Nine [Chihiro]
-(-) Soushin Shoujo Matoi [DameDesuYo]
-(.) Tenshi ni Shippo S2
-(.) Serial Experiments Lain
+(.) Mahoutsukai ni Taisetsu na Koto
+(.) Maria-sama ga Miteru S3
 (.) Nanaka
+(.) NG Ramune EX
+(.) NG Ramune FRESH
+(.) Nyaruko-san
+(.) Nyaruko-san W
+(.) Regalia: The Three Sacred Stars [Merchant]
+(.) Reikenzan
 (.) Sacred Seven
+(.) Sakura Trick
+(.) Sasameki Koto
+(.) Seikoku no Dragonar
+(.) Serial Experiments Lain
+(.) Shingetsutan Tsukihime
+(.) SNAFU
 (.) Symphogear
 (.) Symphogear G
 (.) Symphogear GX
-(.) Blood C
-(.) Maria-sama ga Miteru S3
+(.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
-(.) Dagashi Kashi
-(.) Mahoutsukai ni Taisetsu na Koto
-(=) Boogie Pop
-(-) Girlish Number [~~1234~~/Davinci]
-(.) Nyaruko-san
-(.) Nyaruko-san W
-(.) Reikenzan
-(.) NG Ramune FRESH
-(.) NG Ramune EX
-(.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
-(-) Hibike! Euphonium ~~S1~~|S2
-(.) Kannazuki no Miko [upload](KBagi)
-(.) High School Fleet
-(.) Sakura Trick
-(.) Kekkai Sensen
-(.) Aoi Hana
-(.) Shingetsutan Tsukihime
-(.) Seikoku no Dragonar
-(.) K Project
-(.) Ao no Exorcist
-(.) Kokoro Connect
-(.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
 (.) Yozakura Quartet
-(.) SNAFU
-(.) Sasameki Koto
+(/) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
+(/) Soushin Shoujo Matoi [DameDesuYo] 10
+(=) Boogie Pop
 - [x] Nerawareta Gakuen
 
 > Note:
