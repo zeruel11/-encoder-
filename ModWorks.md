@@ -1,5 +1,6 @@
 # TO DO List
 
-1. Rebuild database and cache
-2. Immersive armors rebuild meshes. Check records and bash patch as needed
-3. Reorganize mod organizer
+- [X] Rebuild database and cache
+- [ ] Immersive armors rebuild meshes. Check records and bash patch as needed
+- [X] Reorganize mod organizer
+- [ ] Rebuild bashedPatch with home settings
