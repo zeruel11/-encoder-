@@ -28,3 +28,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 ##SyncToy config files
 SyncToy*.dat
+[MO LO]/SyncToy*.dat
