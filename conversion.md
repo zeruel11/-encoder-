@@ -12,7 +12,6 @@
 
 ### BY SERVER
 (+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
-(+) Shuumatsu no Izetta [~~Chihiro~~/Chuu]
 (-) Cyborg 009 ~~S1~~|S2
 (-) Show by Rock [orz?] 03
 (.) Another
@@ -43,7 +42,7 @@
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
-(/) Shikabane Hime
+(=) Shikabane Hime
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -58,7 +57,9 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
+(-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Occultic Nine [Chihiro?] 01
+(-) Soushin Shoujo Matoi [DameDesuYo] 10
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
@@ -94,8 +95,7 @@
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
-(/) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
-(/) Soushin Shoujo Matoi [DameDesuYo] 10
+(.) Shuumatsu no Izetta [~~Chihiro~~/Chuu]
 (=) Boogie Pop
 - [x] Nerawareta Gakuen
 

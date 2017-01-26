@@ -8,19 +8,35 @@
 	"buffers":
 	[
 		{
-			"file": "[AniList]Anime-ZERUEL-PCX(TV).txt",
+			"file": "ModWorks.md",
 			"settings":
 			{
-				"buffer_size": 2412,
-				"encoding": "UTF-8 with BOM",
+				"buffer_size": 302,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "FList.txt",
+			"file": "ModTrack.md",
 			"settings":
 			{
-				"buffer_size": 4207,
+				"buffer_size": 2990,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SiteTracking.md",
+			"settings":
+			{
+				"buffer_size": 3548,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "conversion.md",
+			"settings":
+			{
+				"buffer_size": 2508,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -33,10 +49,30 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 219.0,
-		"last_filter": "",
+		"height": 392.0,
+		"last_filter": "gp",
 		"selected_items":
 		[
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
 			[
 				"pull",
 				"Git: Pull"
@@ -46,16 +82,16 @@
 				"Git: Push"
 			],
 			[
+				"commit",
+				"Git: Quick Commit (repo)"
+			],
+			[
 				"collap",
 				"Trimmer: Collapse spaces."
 			],
 			[
 				"com",
 				"Git: Quick Commit (current file)"
-			],
-			[
-				"status",
-				"Git: Status"
 			],
 			[
 				"commi",
@@ -68,18 +104,6 @@
 			[
 				"trim",
 				"Trimmer: Collapse spaces."
-			],
-			[
-				"commit",
-				"Git: Quick Commit (repo)"
-			],
-			[
-				"comm",
-				"Git: Quick Commit (repo)"
-			],
-			[
-				"sort",
-				"Sort Lines"
 			],
 			[
 				"diff",
@@ -96,10 +120,6 @@
 			[
 				"pre",
 				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"stat",
-				"Git: Status"
 			],
 			[
 				"git add",
@@ -238,7 +258,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 432.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -263,18 +283,20 @@
 	],
 	"file_history":
 	[
+		"/H/encodedCopy.ffs_batch",
+		"/D/Datum/-encoder-/SiteTracking.md",
+		"/D/Datum/-encoder-/[AniList]Anime-ZERUEL-PCX(TV).txt",
+		"/D/Datum/-encoder-/FList.txt",
 		"/D/Datum/-encoder-/encoder.sublime-project",
 		"/D/Datum/-encoder-/ModWorks.md",
 		"/D/Datum/-encoder-/SubProject.md",
 		"/D/Datum/-encoder-/conversion.md",
-		"/D/Datum/-encoder-/SiteTracking.md",
 		"/D/Datum/-encoder-/Mod Track.md",
 		"/D/AdportoDefaltam/[MODD]/Mopy/Bash Patches/Skyrim/taglist.yaml",
 		"/D/Datum/-encoder-/MangaTracker.txt",
 		"/D/Datum/-encoder-/Mod Track.txt",
 		"/D/AdportoDefaltam/FMD/works/works.ini",
 		"/D/Ænima/[luaran]/checksums.txt",
-		"/D/Datum/-encoder-/FList.txt",
 		"/D/Ænima/!pending/Telephaty Shoujo Ran/[m.3.3.w]_Telepathy_Shoujo_Ran_-_08v2_(H.264-720p+DD2.0)_[88BA3CC7] (1).mkv",
 		"/D/Datum/-encoder-/Rename.txt",
 		"/D/Datum/-encoder-/favorites.ini",
@@ -352,7 +374,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -405,60 +427,119 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "[AniList]Anime-ZERUEL-PCX(TV).txt",
+					"file": "ModWorks.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2412,
+						"buffer_size": 302,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18,
-								18
+								302,
+								302
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_complete": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ModTrack.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SiteTracking.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "FList.txt",
+					"buffer": 3,
+					"file": "conversion.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4207,
+						"buffer_size": 2508,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								169,
-								169
+								1616,
+								1616
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_complete": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1373.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -534,7 +615,7 @@
 		[
 			[
 				"",
-				"D:\\Data\\CLI x265.sublime-workspace"
+				"D:\\Datum\\siplah\\siplah.sublime-project"
 			]
 		],
 		"width": 380.0

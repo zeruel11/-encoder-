@@ -2,6 +2,10 @@
 	"folders":
 	[
 		{
+			"file_exclude_patterns":
+			[
+				"[MO LO]/SyncToy_a2711fec-53e9-433e-87cb-dc289a9da1d3.dat"
+			],
 			"path": "."
 		}
 	]
