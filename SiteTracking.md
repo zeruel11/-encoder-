@@ -10,6 +10,7 @@
 - Kannazuki no Miko [^1]
 
 ## Cloud Space:
+
 ### KBagi
 ##### Winter 2016 [Wi16](http://kbagi.com/the_zero/winter-2016-315601)
 - Kono Subarashii Sekai ni Shukufuku wo!

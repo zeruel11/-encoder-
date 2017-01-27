@@ -20,10 +20,12 @@ IJ-CoinsofTamriel[^76726f0a]
 BijinAIO-BYS[^46fd5011]
 MortalEnemies-BYS[^b253d6d4]
 ImmersiveMerchandising-CACO-Bijin[^736fd0ab]
+CCOR-SMIM[^0e4a332d]
 
 #### SoS-Cell_Compatibility_Patch.esp[^aa638db9]
 
 
+[^0e4a332d]: edited container to fit SMIM `MODL` and CCOR `CONT`
 [^736fd0ab]: Forwarded CACO changes to IM ingestibles. Also modifies NPC appearance (by Bijin) and factions (by IM) for Camilla, Ysolda, Temba, Gerdur, Ria, Ingun, Senna, Valerica, Carcette.
 [^b253d6d4]: Combined MortalEnemies enemy stats and BYS `RACE` changes for dlc enemy
 [^46fd5011]: Forward BYS `COCT` and `PRKR` to BijinAIO NPC styles
