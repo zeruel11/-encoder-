@@ -1,13 +1,21 @@
 # File Tracker
 
 ## En Route:
-- 
+- Nurse Angel Ririka
+- Record of Lodoss War + OVA
+- Saiyuki Reload Gunlock
+- Super Doll Licca-chan
+- Mamoru-kun ni Megami no Shukufuku wo
+- Uchuu Kaizoku Mito no Daibouken
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
 - Kannazuki no Miko [^1]
+
+## Check:
+- Corpse Princess
 
 ## Cloud Space:
 
@@ -95,7 +103,7 @@
 - Elfen Lied
 - Webdiver
 
-### OpenLoad
+### OpenLoad --- Abandoned Due to Being Banned by IPo
 - Chobits [Spring 2002](http://pasted.co/94901411)
 - Narue no Sekai [Spring 2003](http://pasted.co/e9357352)
 - DearS [Summer 2004](http://pasted.co/8a0ed77d)

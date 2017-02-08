@@ -23,12 +23,14 @@
 (.) Hyouka
 (.) Kimi ni Todoke
 (.) Kodocha
+(.) Lodoss-tou Senki: Eiyuu Kishi Den
 (.) Maou Yuusha
 (.) Mikagura Gakuen
 (.) Moribito
 (.) Narue no Sekai
 (.) NG Knight Ramune
 (.) Noir
+(.) Saiyuki Reload Gunlock
 (.) Sakurako-san no Ashimoto
 (.) SankaRea
 (.) Sasami-san Ganbaranai
@@ -88,6 +90,7 @@
 (.) Seikoku no Dragonar
 (.) Serial Experiments Lain
 (.) Shingetsutan Tsukihime
+(.) Shuumatsu no Izetta [~~Chihiro~~/Chuu]
 (.) SNAFU
 (.) Symphogear
 (.) Symphogear G
@@ -95,7 +98,6 @@
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
-(.) Shuumatsu no Izetta [~~Chihiro~~/Chuu]
 (=) Boogie Pop
 - [x] Nerawareta Gakuen
 
