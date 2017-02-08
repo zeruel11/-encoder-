@@ -1,11 +1,6 @@
 # File Tracker
 
 ## En Route:
-- Nurse Angel Ririka
-- Record of Lodoss War + OVA
-- Saiyuki Reload Gunlock
-- Super Doll Licca-chan
-- Mamoru-kun ni Megami no Shukufuku wo
 - Uchuu Kaizoku Mito no Daibouken
 
 ## On Site/Off Site:
@@ -15,7 +10,7 @@
 - Kannazuki no Miko [^1]
 
 ## Check:
-- Corpse Princess
+- Corpse Princess 02 - My Enemy
 
 ## Cloud Space:
 
