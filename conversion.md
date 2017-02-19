@@ -11,7 +11,7 @@
 - [ ] First Squad
 
 ### BY SERVER
-(+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
+(-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Cyborg 009 ~~S1~~|S2
 (-) Show by Rock [orz?] 03
 (.) Another
@@ -44,7 +44,7 @@
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
-(=) Shikabane Hime
+(=) Shikabane Hime > 02-The Game Continues [reencode](error on download)
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time

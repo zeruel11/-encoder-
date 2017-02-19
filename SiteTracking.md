@@ -1,12 +1,7 @@
 # File Tracker
 
 ## En Route:
-- Nurse Angel Ririka
-- Record of Lodoss War + OVA
-- Saiyuki Reload Gunlock
-- Super Doll Licca-chan
-- Mamoru-kun ni Megami no Shukufuku wo
-- Uchuu Kaizoku Mito no Daibouken
+- 
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
@@ -15,7 +10,7 @@
 - Kannazuki no Miko [^1]
 
 ## Check:
-- Corpse Princess
+- Corpse Princess - 02 - My Enemy
 
 ## Cloud Space:
 
@@ -159,7 +154,7 @@
 [^1]: Refill
 [^2]: Khususon
 [^3]: Lagi proses kayaknya
-[^4]: Belum kelar gan
+[^4]: Belum kelar gan (mid season)
 [^5]: Goleki sek
 [^6]: ?
 [^7]: Deleted due copyright
