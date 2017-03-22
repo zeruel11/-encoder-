@@ -76,6 +76,21 @@
 - Strawberry Panic
 - Candy Boy
 
+#### Hibike! Euphonium [Euphonium (awaiting fansub)](http://kbagi.com/the_zero/euphonium-awaiting-fansub-525098)
+- S1
+- ~~S2~~
+
+#### Märchen Awakens Romance [MAR Heaven](http://kbagi.com/the_zero/mar-heaven-525102)
+
+#### MOVIE [Movies](http://kbagi.com/the_zero/movies-212383)
+1. Ookami Kodomo no Ame to Yuki [Commie]
+2. Harmony [Kmimi-psp]
+3. Patema Inverted [Underwater]
+4. The Girl Who Leapt Through Time
+5. Rakuen Tsuihou [GJM-Underwater]
+6. Summer Wars [JacobSwaggedUp]
+7. 
+
 ### MEGA NEFO
 - Cross Ange
 - D-Frag

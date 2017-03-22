@@ -61,7 +61,7 @@
 ### BY PC
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Occultic Nine [Chihiro?] 01
-(-) Soushin Shoujo Matoi [DameDesuYo] 10
+(-) Soushin Shoujo Matoi [DameDesuYo] 11
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
