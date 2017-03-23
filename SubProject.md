@@ -24,7 +24,7 @@
 9. Webdiver [^3]
     - [x] Muxing (26-52)
     - [x] Recheck
-    - [ ] Rebuild subs
+    - [x] Rebuild subs
     - [ ] Remux
 10. Telepathy Shoujo Ran [^4]
 11. asd

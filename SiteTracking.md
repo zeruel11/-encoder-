@@ -1,7 +1,8 @@
 # File Tracker
 
 ## En Route:
-- Uchuu Kaizoku Mito no Daibouken
+- GPX Cyber Formula
+- 
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
@@ -24,7 +25,7 @@
 - Bubuki Buranki[^1]
 - Divine Gate
 - Shoujo-tachi wa Kouya wo Mezasu
-- Ajin [^7]
+- ~~Ajin~~ [^7]
 
 ##### Spring 2016 [Sp16](http://kbagi.com/the_zero/spring-2016-464919)
 - Koutetsujou no Kabaneri
@@ -34,7 +35,7 @@
 - Shuumatsu no Izetta
 - Mahou Shoujo Raising Project
 - Soushin Shoujo Matoi
-- ViVid Strike! [^7]
+- ~~ViVid Strike!~~ [^7]
 
 ##### Fall 2015
 - Shinmai Maou no Testament
@@ -43,7 +44,7 @@
 - Valkyrie Drive
 - Lance n Masque
 - Subete ga F ni Naru
-- Utawarerumono [^7]
+- ~~Utawarerumono~~ [^7]
 - Yuru Yuri
 - Comet Lucifer
 - Sakurako-san no Ashimoto
@@ -75,6 +76,25 @@
 - Sakura Trick
 - Strawberry Panic
 - Candy Boy
+
+##### Hibike! Euphonium [Euphonium (S2 awaiting fansub)](http://kbagi.com/the_zero/euphonium-s2-awaiting-fansub-525098) !Uploading!
+- S1
+- ~~S2~~
+
+##### Märchen Awakens Romance [MAR Heaven](http://kbagi.com/the_zero/mar-heaven-525102) !Uploading!
+
+##### RAR'ed [in RAR we trust](http://kbagi.com/the_zero/in-rar-we-trust-525489)
+
+##### MOVIE [Movies](http://kbagi.com/the_zero/movies-212383)
+1. Ookami Kodomo no Ame to Yuki [Commie] !Source!
+2. Harmony [Kmimi-psp]
+3. Patema Inverted [Underwater]
+4. The Girl Who Leapt Through Time
+5. Rakuen Tsuihou [GJM-Underwater]
+6. Summer Wars [JacobSwaggedUp]
+7. Sky Crawlers [gg-THORA]
+8. Rakuen Tsuihou [GJM-Underwater]
+9. Tailenders [Afro]
 
 ### MEGA NEFO
 - Cross Ange
@@ -154,7 +174,7 @@
 [^1]: Refill
 [^2]: Khususon
 [^3]: Lagi proses kayaknya
-[^4]: Belum kelar gan
+[^4]: Belum kelar gan (mid season)
 [^5]: Goleki sek
 [^6]: ?
-[^7]: Deleted due copyright
+[^7]: Deleted due copyright (re-up as rar)

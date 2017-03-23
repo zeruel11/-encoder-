@@ -11,8 +11,8 @@
 - [ ] First Squad
 
 ### BY SERVER
-(+) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Cyborg 009 ~~S1~~|S2
+(-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Show by Rock [orz?] 03
 (.) Another
 (.) Ao no Kanata
@@ -44,7 +44,8 @@
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
-(=) Shikabane Hime
+(+) Densetsu no Yuusha no Densetsu
+(=) Shikabane Hime > 02-The Game Continues [reencode](error on download)
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -61,7 +62,7 @@
 ### BY PC
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Occultic Nine [Chihiro?] 01
-(-) Soushin Shoujo Matoi [DameDesuYo] 10
+(-) Soushin Shoujo Matoi [DameDesuYo] 11
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
