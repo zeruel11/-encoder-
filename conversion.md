@@ -35,6 +35,7 @@
 (.) SankaRea
 (.) Sasami-san Ganbaranai
 (.) Shangri-La
+(.) Shikabane Hime
 (.) Shin Atashinchi
 (.) Shirobako
 (.) Tenshi ni Shippo S1
@@ -44,8 +45,7 @@
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
-(+) Densetsu no Yuusha no Densetsu
-(=) Shikabane Hime > 02-The Game Continues [reencode](error on download)
+(/) Densetsu no Yuusha no Densetsu
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -99,6 +99,7 @@
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
+(/) Macross Delta|
 (=) Boogie Pop
 - [x] Nerawareta Gakuen
 

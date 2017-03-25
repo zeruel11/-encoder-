@@ -1,8 +1,10 @@
 # File Tracker
 
 ## En Route:
-- GPX Cyber Formula
 - 
+
+## Refind:
+- Rizelmine
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
@@ -11,7 +13,7 @@
 - Kannazuki no Miko [^1]
 
 ## Check:
-- Corpse Princess 02 - My Enemy
+- 
 
 ## Cloud Space:
 
@@ -32,7 +34,7 @@
 - Kiznaiver
 
 ##### Fall 2016 [Fa16](http://kbagi.com/the_zero/fall-2016-467872)
-- Shuumatsu no Izetta
+- Shuumatsu no Izetta !AwaitingCompletion!
 - Mahou Shoujo Raising Project
 - Soushin Shoujo Matoi
 - ~~ViVid Strike!~~ [^7]
@@ -77,13 +79,26 @@
 - Strawberry Panic
 - Candy Boy
 
-##### Hibike! Euphonium [Euphonium (S2 awaiting fansub)](http://kbagi.com/the_zero/euphonium-s2-awaiting-fansub-525098) !Uploading!
+##### Hibike! Euphonium [Euphonium (S2 awaiting fansub)](http://kbagi.com/the_zero/euphonium-s2-awaiting-fansub-525098) !AwaitingCompletion!
 - S1
 - ~~S2~~
 
-##### Märchen Awakens Romance [MAR Heaven](http://kbagi.com/the_zero/mar-heaven-525102) !Uploading!
+##### Märchen Awakens Romance [MAR Heaven](http://kbagi.com/the_zero/mar-heaven-525102)
+
+##### Chrome Shelled Regios [CSR](http://kbagi.com/the_zero/csr-525816)
+
+##### Corpse Princess [Shikabane Hime - Aka&Kuro](http://kbagi.com/the_zero/shikabane-hime-akakuro-525815)
+
+##### Blue Gender [BluG](http://kbagi.com/the_zero/blug-526351) !Uploading!
+
+##### Kage Kara Mamoru [GuardianNinja](http://kbagi.com/the_zero/guardianninja-526681)
 
 ##### RAR'ed [in RAR we trust](http://kbagi.com/the_zero/in-rar-we-trust-525489)
+- Akiba Dennou-gumi.3part.rar (Akihabara Dennou-gumi)
+- BloodVerse.3part.rar (Blood-C; Blood+; OVAs)
+- CyberFormula.12part.rar (Shin GPX Cyber Formula)
+- Akazukin Chacha.5part.rar (Akazukin Chacha) !Uploading!
+- Himawari.4part.rar (Himawari) !Uploading!
 
 ##### MOVIE [Movies](http://kbagi.com/the_zero/movies-212383)
 1. Ookami Kodomo no Ame to Yuki [Commie] !Source!
@@ -118,6 +133,25 @@
 - Elfen Lied
 - Webdiver
 
+### Bagi Rx
+- asd
+- asd
+- 
+
+
+[^1]: Refill
+[^2]: Khususon
+[^3]: Lagi proses kayaknya
+[^4]: Belum kelar gan (mid season)
+[^5]: Goleki sek
+[^6]: ?
+[^7]: Deleted due copyright (re-up as rar)
+
+
+
+
+
+==========================================================
 ### OpenLoad --- Abandoned Due to Being Banned by IPo
 - Chobits [Spring 2002](http://pasted.co/94901411)
 - Narue no Sekai [Spring 2003](http://pasted.co/e9357352)
@@ -164,17 +198,3 @@
 - Noir
 - Occultic;Nine
 - Tsubasa Reservoir Chronicle[^1]
-
-### Bagi Rx
-- asd
-- asd
-- 
-
-
-[^1]: Refill
-[^2]: Khususon
-[^3]: Lagi proses kayaknya
-[^4]: Belum kelar gan (mid season)
-[^5]: Goleki sek
-[^6]: ?
-[^7]: Deleted due copyright (re-up as rar)
