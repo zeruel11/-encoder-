@@ -1,7 +1,8 @@
 # File Tracker
 
 ## En Route:
-- 
+- CardcaptorSakura
+- ElfenLied
 
 ## Refind:
 - Rizelmine
@@ -10,10 +11,10 @@
 - Ghost in The Shell ARISE[^2]
 - Tokyo Ravens[^6]
 - Tsubasa Chronicle[^2]
-- Kannazuki no Miko [^1]
+- Rizelmine
 
 ## Check:
-- 
+- Macross Delta
 
 ## Cloud Space:
 
@@ -89,16 +90,22 @@
 
 ##### Corpse Princess [Shikabane Hime - Aka&Kuro](http://kbagi.com/the_zero/shikabane-hime-akakuro-525815)
 
-##### Blue Gender [BluG](http://kbagi.com/the_zero/blug-526351) !Uploading!
+##### Blue Gender [BluG](http://kbagi.com/the_zero/blug-526351)
 
 ##### Kage Kara Mamoru [GuardianNinja](http://kbagi.com/the_zero/guardianninja-526681)
 
+##### Densetsu no Yuusha no Densetsu [DenYuuDen](http://kbagi.com/the_zero/denyuuden-527010)
+
+##### Mokke [Mokke](http://kbagi.com/the_zero/mokke-527486) !Uploading! !Rename(CRC 11&12)!
+
 ##### RAR'ed [in RAR we trust](http://kbagi.com/the_zero/in-rar-we-trust-525489)
-- Akiba Dennou-gumi.3part.rar (Akihabara Dennou-gumi)
+- Akiba Dennou-gumi.3part.rar
 - BloodVerse.3part.rar (Blood-C; Blood+; OVAs)
-- CyberFormula.12part.rar (Shin GPX Cyber Formula)
-- Akazukin Chacha.5part.rar (Akazukin Chacha) !Uploading!
-- Himawari.4part.rar (Himawari) !Uploading!
+- CyberFormula.12part.rar (Shin Seiki GPX Cyber Formula; Shin Seiki GPX Cyber Formula 11; Shin Seiki GPX Cyber Formula Saga; Shin Seiki GPX Cyber Formula Sin; Shin Seiki GPX Cyber Formula Zero)
+- Akazukin Chacha.5part.rar
+- Himawari.4part.rar
+- CardcaptorSakura.10part.rar !Uploading!
+- ElfenLied.4part.rar !Uploading!
 
 ##### MOVIE [Movies](http://kbagi.com/the_zero/movies-212383)
 1. Ookami Kodomo no Ame to Yuki [Commie] !Source!
@@ -151,7 +158,7 @@
 
 
 
-==========================================================
+-----------------------------------------------------------
 ### OpenLoad --- Abandoned Due to Being Banned by IPo
 - Chobits [Spring 2002](http://pasted.co/94901411)
 - Narue no Sekai [Spring 2003](http://pasted.co/e9357352)

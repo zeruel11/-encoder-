@@ -19,6 +19,7 @@
 (.) Blassreiter
 (.) Bubuki Buranki ~~S1~~|~~S2~~
 (.) Chrome Shelled Regios
+(.) Densetsu no Yuusha no Densetsu
 (.) Eureka Seven [Nanashi]
 (.) Hyouka
 (.) Kimi ni Todoke
@@ -45,7 +46,6 @@
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
-(/) Densetsu no Yuusha no Densetsu
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -99,8 +99,8 @@
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
-(/) Macross Delta|
 (=) Boogie Pop
+(=) Macross Delta.recheckE02&E25|
 - [x] Nerawareta Gakuen
 
 > Note:
