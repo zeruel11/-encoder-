@@ -1,11 +1,10 @@
 # File Tracker
 
 ## En Route:
-- CardcaptorSakura
-- ElfenLied
+- Macross SuperDimension, Zero, Plus
 
 ## Refind:
-- Rizelmine
+- 
 
 ## On Site/Off Site:
 - Ghost in The Shell ARISE[^2]
@@ -14,7 +13,7 @@
 - Rizelmine
 
 ## Check:
-- Macross Delta
+- Glee
 
 ## Cloud Space:
 
@@ -37,7 +36,7 @@
 ##### Fall 2016 [Fa16](http://kbagi.com/the_zero/fall-2016-467872)
 - Shuumatsu no Izetta !AwaitingCompletion!
 - Mahou Shoujo Raising Project
-- Soushin Shoujo Matoi
+- ~~Soushin Shoujo Matoi~~ [^7] !RAR!
 - ~~ViVid Strike!~~ [^7]
 
 ##### Fall 2015
@@ -88,7 +87,7 @@
 
 ##### Chrome Shelled Regios [CSR](http://kbagi.com/the_zero/csr-525816)
 
-##### Corpse Princess [Shikabane Hime - Aka&Kuro](http://kbagi.com/the_zero/shikabane-hime-akakuro-525815)
+##### Corpse Princess [Shikabane Hime - Aka&Kuro](http://kbagi.com/the_zero/shikabane-hime-akakuro-525815)[^1]
 
 ##### Blue Gender [BluG](http://kbagi.com/the_zero/blug-526351)
 
@@ -96,7 +95,20 @@
 
 ##### Densetsu no Yuusha no Densetsu [DenYuuDen](http://kbagi.com/the_zero/denyuuden-527010)
 
-##### Mokke [Mokke](http://kbagi.com/the_zero/mokke-527486) !Uploading! !Rename(CRC 11&12)!
+##### Mokke [Mokke](http://kbagi.com/the_zero/mokke-527486)
+
+##### Mamoru-kun ni Megami no Shukufu wo! [Venus_to_Mamoru](http://kbagi.com/the_zero/venustomamoru-527570)
+
+##### Macross Franchise [Macross](http://kbagi.com/the_zero/macross-527568)
+- Macross Zero
+- Choujikuu Yousai Macross
+- Macross Plus !Uploading!
+- Macross 7
+- Macross Dynamite 7 !Encoding!
+- Macross Frontier !Uploading!.EP7error
+- Macross Delta
+- Macross Do You Remember Love (MOV)
+- 
 
 ##### RAR'ed [in RAR we trust](http://kbagi.com/the_zero/in-rar-we-trust-525489)
 - Akiba Dennou-gumi.3part.rar
@@ -104,8 +116,8 @@
 - CyberFormula.12part.rar (Shin Seiki GPX Cyber Formula; Shin Seiki GPX Cyber Formula 11; Shin Seiki GPX Cyber Formula Saga; Shin Seiki GPX Cyber Formula Sin; Shin Seiki GPX Cyber Formula Zero)
 - Akazukin Chacha.5part.rar
 - Himawari.4part.rar
-- CardcaptorSakura.10part.rar !Uploading!
-- ElfenLied.4part.rar !Uploading!
+- CardcaptorSakura.10part.rar
+- ElfenLied.4part.rar
 
 ##### MOVIE [Movies](http://kbagi.com/the_zero/movies-212383)
 1. Ookami Kodomo no Ame to Yuki [Commie] !Source!

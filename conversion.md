@@ -12,6 +12,7 @@
 
 ### BY SERVER
 (-) Cyborg 009 ~~S1~~|S2
+(-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
 (-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Show by Rock [orz?] 03
 (.) Another
@@ -100,7 +101,7 @@
 (.) Valkyrie Drive
 (.) Yozakura Quartet
 (=) Boogie Pop
-(=) Macross Delta.recheckE02&E25|
+(/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|Plus.!encoding!
 - [x] Nerawareta Gakuen
 
 > Note:
