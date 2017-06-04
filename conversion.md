@@ -63,7 +63,7 @@
 ### BY PC
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Occultic Nine [Chihiro?] 01
-(-) Soushin Shoujo Matoi [DameDesuYo] 11
+(/) Soushin Shoujo Matoi [DameDesuYo]
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
@@ -101,7 +101,7 @@
 (.) Valkyrie Drive
 (.) Yozakura Quartet
 (=) Boogie Pop
-(/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|Plus.!encoding!
+(/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|~~7Encore~~|~~7Dynamite~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|~~Plus~~
 - [x] Nerawareta Gakuen
 
 > Note:

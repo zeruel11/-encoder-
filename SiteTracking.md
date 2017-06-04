@@ -36,6 +36,8 @@
 ##### Fall 2016 [Fa16](http://kbagi.com/the_zero/fall-2016-467872)
 - Shuumatsu no Izetta !AwaitingCompletion!
 - Mahou Shoujo Raising Project
+- Girlish Number
+- Regalia: The Three Sacred Stars)
 - ~~Soushin Shoujo Matoi~~ [^7] !RAR!
 - ~~ViVid Strike!~~ [^7]
 
@@ -78,6 +80,7 @@
 - Sakura Trick
 - Strawberry Panic
 - Candy Boy
+- Kannazuki no Miko
 
 ##### Hibike! Euphonium [Euphonium (S2 awaiting fansub)](http://kbagi.com/the_zero/euphonium-s2-awaiting-fansub-525098) !AwaitingCompletion!
 - S1
@@ -87,7 +90,7 @@
 
 ##### Chrome Shelled Regios [CSR](http://kbagi.com/the_zero/csr-525816)
 
-##### Corpse Princess [Shikabane Hime - Aka&Kuro](http://kbagi.com/the_zero/shikabane-hime-akakuro-525815)[^1]
+##### Corpse Princess [Shikabane Hime - Aka&Kuro](http://kbagi.com/the_zero/shikabane-hime-akakuro-525815)
 
 ##### Blue Gender [BluG](http://kbagi.com/the_zero/blug-526351)
 
@@ -99,12 +102,19 @@
 
 ##### Mamoru-kun ni Megami no Shukufu wo! [Venus_to_Mamoru](http://kbagi.com/the_zero/venustomamoru-527570)
 
+##### Ao no Exorcist (Blue Exorcist) [BluE](http://kbagi.com/the_zero/blue-555613)
+
+##### Noir [Noire](http://kbagi.com/the_zero/noire-555644)
+
+##### Shangri-La [Heaven](http://kbagi.com/the_zero/heaven-555651)
+
 ##### Macross Franchise [Macross](http://kbagi.com/the_zero/macross-527568)
 - Macross Zero
 - Choujikuu Yousai Macross
 - Macross Plus !Uploading!
 - Macross 7
-- Macross Dynamite 7 !Encoding!
+- Macross Dynamite 7
+- Macross Encore
 - Macross Frontier !Uploading!.EP7error
 - Macross Delta
 - Macross Do You Remember Love (MOV)
@@ -118,6 +128,7 @@
 - Himawari.4part.rar
 - CardcaptorSakura.10part.rar
 - ElfenLied.4part.rar
+- Soushin Shoujo Matoi.3part.rar !Uploading!
 
 ##### MOVIE [Movies](http://kbagi.com/the_zero/movies-212383)
 1. Ookami Kodomo no Ame to Yuki [Commie] !Source!

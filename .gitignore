@@ -28,4 +28,5 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 ##SyncToy config files
 SyncToy*.dat
-[MO LO]/SyncToy*.dat
+[MO_LO]/SyncToy*.dat
+(Vivaldi_Sessions)/SyncToy*.dat
