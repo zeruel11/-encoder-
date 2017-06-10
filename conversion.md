@@ -47,6 +47,7 @@
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
+(!) Martian Successor Nadesico
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -111,6 +112,7 @@
 > (.) Done
 > (=) Project/Need manual tampering
 > (?) Yet to be decided to convert
+> (!) Check
 
 <!-- untoc -->
 #### OpenLoad
