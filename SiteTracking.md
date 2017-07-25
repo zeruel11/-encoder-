@@ -2,6 +2,7 @@
 
 ## En Route:
 - Macross SuperDimension, Zero, Plus
+- Soushin Shoujo Matoi
 
 ## Refind:
 - 
@@ -36,9 +37,9 @@
 ##### Fall 2016 [Fa16](http://kbagi.com/the_zero/fall-2016-467872)
 - Shuumatsu no Izetta !AwaitingCompletion!
 - Mahou Shoujo Raising Project
-- Girlish Number
-- Regalia: The Three Sacred Stars)
-- ~~Soushin Shoujo Matoi~~ [^7] !RAR!
+- Girlish Number [^7] !RAR!
+- Regalia: The Three Sacred Stars
+- ~~Soushin Shoujo Matoi~~ [^7] !RAR&Rename!
 - ~~ViVid Strike!~~ [^7]
 
 ##### Fall 2015
@@ -128,7 +129,7 @@
 - Himawari.4part.rar
 - CardcaptorSakura.10part.rar
 - ElfenLied.4part.rar
-- Soushin Shoujo Matoi.3part.rar !Uploading!
+- Soushin Shoujo Matoi.3part.rar !Renaming!
 
 ##### MOVIE [Movies](http://kbagi.com/the_zero/movies-212383)
 1. Ookami Kodomo no Ame to Yuki [Commie] !Source!

@@ -7,12 +7,15 @@
 <!-- tocstop -->
 
 ## TBD
-(+) 
+(?) Princess Principal [HorribleSubs]
 - [ ] First Squad
 
 ### BY SERVER
+(.) Shingeki no Kyojin S2 [DameDesuYo]
+(!) Martian Successor Nadesico
 (-) Cyborg 009 ~~S1~~|S2
 (-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
+(+) Sakura Quest [Erai-raws]
 (-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Show by Rock [orz?] 03
 (.) Another
@@ -47,7 +50,6 @@
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
-(!) Martian Successor Nadesico
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -62,14 +64,18 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
+(-) Fate/Apocrypha [UTW] 03
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
+(-) Made in Abyss [Erai-raws] 02
+(-) New Game!! [Doki] 02
 (-) Occultic Nine [Chihiro?] 01
-(/) Soushin Shoujo Matoi [DameDesuYo]
+(-) Symphogear AXZ [Commie] 02
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
 (.) Dagashi Kashi
 (.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
+(.) Frame Arms Girl
 (.) Girlish Number [~~1234~~/Davinci]
 (.) High School Fleet
 (.) K Project
@@ -101,8 +107,9 @@
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
-(=) Boogie Pop
+(/) Soushin Shoujo Matoi [DameDesuYo]
 (/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|~~7Encore~~|~~7Dynamite~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|~~Plus~~
+(=) Boogie Pop
 - [x] Nerawareta Gakuen
 
 > Note:
@@ -111,7 +118,7 @@
 > (/) Converting
 > (.) Done
 > (=) Project/Need manual tampering
-> (?) Yet to be decided to convert
+> (?) Yet to be decided to convert/TBC
 > (!) Check
 
 <!-- untoc -->
