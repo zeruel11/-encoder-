@@ -15,6 +15,7 @@
 
 ## Check:
 - Glee
+- SnK S2
 
 ## Cloud Space:
 
@@ -42,7 +43,7 @@
 - ~~Soushin Shoujo Matoi~~ [^7] !RAR&Rename!
 - ~~ViVid Strike!~~ [^7]
 
-##### Fall 2015
+##### Fall 2015 [Fa15](http://119.81.2.142/the_zero/fall-2015-204670)
 - Shinmai Maou no Testament
 - Heavy Object
 - Hidan no Aria
@@ -55,10 +56,17 @@
 - Sakurako-san no Ashimoto
 - Gochuumon wa Usagi desuka
 
+##### Summer 2017 [Sm17](http://119.81.2.142/the_zero/summer-2017-572991)
+- New Game!!
+- Made in Abyss.reup02v2
+- Sakura Quest
+- Clione no Akari
+
 ##### Symphogear [SyG](http://kbagi.com/the_zero/syg-467563)
 - Symphogear
 - Symphogear G
 - Symphogear GX
+- Symphogear AXZ
 
 ##### Haiyore! Nyaruko-san [Nyarlko](http://kbagi.com/the_zero/nyarlko-468147)
 - Haiyore! Nyaruko-san

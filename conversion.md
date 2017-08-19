@@ -11,11 +11,12 @@
 - [ ] First Squad
 
 ### BY SERVER
-(.) Shingeki no Kyojin S2 [DameDesuYo]
 (!) Martian Successor Nadesico
+(-) Clione no Akari [HorribleSubs]
 (-) Cyborg 009 ~~S1~~|S2
 (-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
-(+) Sakura Quest [Erai-raws]
+(-) Sakura Quest [Erai-raws] 18
+(.) Netoge no Yome wa Onna no ko ja Nai to Omotta
 (-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Show by Rock [orz?] 03
 (.) Another
@@ -42,6 +43,7 @@
 (.) Shangri-La
 (.) Shikabane Hime
 (.) Shin Atashinchi
+(.) Shingeki no Kyojin S2 [DameDesuYo]
 (.) Shirobako
 (.) Tenshi ni Shippo S1
 (.) The Third
@@ -64,12 +66,12 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
-(-) Fate/Apocrypha [UTW] 03
+(-) Fate/Apocrypha [UTW] 05
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
-(-) Made in Abyss [Erai-raws] 02
-(-) New Game!! [Doki] 02
+(-) Made in Abyss [Erai-raws] 05
+(-) New Game!! [Doki] 04
 (-) Occultic Nine [Chihiro?] 01
-(-) Symphogear AXZ [Commie] 02
+(-) Symphogear AXZ [Commie] 05
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
