@@ -41,7 +41,7 @@
 - Girlish Number [^7] !RAR!
 - Regalia: The Three Sacred Stars
 - ~~Soushin Shoujo Matoi~~ [^7] !RAR&Rename!
-- ~~ViVid Strike!~~ [^7]
+- ~~ViVid Strike!~~ [^7] !WTF! ?goMEGA?
 
 ##### Fall 2015 [Fa15](http://119.81.2.142/the_zero/fall-2015-204670)
 - Shinmai Maou no Testament
@@ -58,7 +58,7 @@
 
 ##### Summer 2017 [Sm17](http://119.81.2.142/the_zero/summer-2017-572991)
 - New Game!!
-- Made in Abyss.reup02v2
+- Made in Abyss.reup02v2.reup05v2
 - Sakura Quest
 - Clione no Akari
 

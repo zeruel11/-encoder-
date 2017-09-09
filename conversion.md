@@ -12,8 +12,8 @@
 
 ### BY SERVER
 (!) Martian Successor Nadesico
-(/) Utawarerumono{S02} [DameDesuYo]
-(-) Clione no Akari [HorribleSubs]
+(.) Utawarerumono{S02} [DameDesuYo]
+(/) Clione no Akari [HorribleSubs] 08
 (-) Cyborg 009 ~~S1~~|S2
 (-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
 (-) Sakura Quest [Erai-raws] 18
@@ -67,12 +67,12 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
-(/) Fate/Apocrypha [UTW] 07
+(-) Fate/Apocrypha [UTW] 10
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
-(-) Made in Abyss [Erai-raws] 05
-(/) New Game!! [Doki] 06
+(-) Made in Abyss [Erai-raws] 08
+(-) New Game!! [Doki] 08
 (-) Occultic Nine [Chihiro?] 01
-(/) Symphogear AXZ [Commie] 06
+(-) Symphogear AXZ [Commie] 07
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
