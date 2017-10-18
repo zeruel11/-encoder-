@@ -125,7 +125,7 @@
 - Macross Dynamite 7
 - Macross Encore
 - Macross Frontier !Uploading!.EP7error
-- Macross Delta
+- Macross Delta !RAR!
 - Macross Do You Remember Love (MOV)
 - 
 

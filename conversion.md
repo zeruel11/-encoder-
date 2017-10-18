@@ -67,6 +67,7 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
+(/) Net-juu no Susume 02 [Erai-raws]
 (-) Fate/Apocrypha [UTW] 10
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Made in Abyss [Erai-raws] 08
