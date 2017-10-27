@@ -67,7 +67,7 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
-(/) Net-juu no Susume 02 [Erai-raws]
+(-) Net-juu no Susume [Erai-raws] 03
 (-) Fate/Apocrypha [UTW] 10
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Made in Abyss [Erai-raws] 08
@@ -133,3 +133,5 @@
 20/11/16 : __576__
 21/11/16 : __588__
 22/11/16 : __695__
+
+aria2c --enable-rpc --rpc-listen-all > aria2c.log 2>&1 &
