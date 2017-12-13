@@ -12,6 +12,7 @@
 
 ### BY SERVER
 (!) Martian Successor Nadesico
+(-) BlendS [Erai-Raws] 08
 (.) Utawarerumono{S02} [DameDesuYo]
 (/) Clione no Akari [HorribleSubs] 08
 (-) Cyborg 009 ~~S1~~|S2
@@ -67,7 +68,7 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
-(-) Net-juu no Susume [Erai-raws] 04
+(.) Net-juu no Susume [Erai-raws]
 (-) Fate/Apocrypha [UTW] 10
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Made in Abyss [Erai-raws] 08
