@@ -12,25 +12,21 @@
 
 ### BY SERVER
 (!) Martian Successor Nadesico
-(.) Kekkai Sensen S2
-(/) Yuuki Yuuna wa Yuusha de aru - Washio Sumi no Shou | Yuusha no Shou
-(.) BlendS [Erai-Raws]
-(.) Utawarerumono{S02} [DameDesuYo]
-(/) Clione no Akari [HorribleSubs] 08
 (-) Cyborg 009 ~~S1~~|S2
 (-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
-(-) Sakura Quest [Erai-raws] 18
-(.) Netoge no Yome wa Onna no ko ja Nai to Omotta
+(/) Sakura Quest [Erai-raws] 18
 (-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Show by Rock [orz?] 03
 (.) Another
 (.) Ao no Kanata
 (.) Blassreiter
+(.) BlendS [Erai-Raws]
 (.) Bubuki Buranki ~~S1~~|~~S2~~
 (.) Chrome Shelled Regios
 (.) Densetsu no Yuusha no Densetsu
 (.) Eureka Seven [Nanashi]
 (.) Hyouka
+(.) Kekkai Sensen S2
 (.) Kimi ni Todoke
 (.) Kodocha
 (.) Lodoss-tou Senki: Eiyuu Kishi Den
@@ -38,6 +34,7 @@
 (.) Mikagura Gakuen
 (.) Moribito
 (.) Narue no Sekai
+(.) Netoge no Yome wa Onna no ko ja Nai to Omotta
 (.) NG Knight Ramune
 (.) Noir
 (.) Saiyuki Reload Gunlock
@@ -53,9 +50,12 @@
 (.) The Third
 (.) Tokimeki Memorial
 (.) Tokyo Mew Mew
+(.) Utawarerumono{S02} [DameDesuYo]
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
 (.) Zankyou no Terror
+(/) Clione no Akari [HorribleSubs] 08
+(/) Yuuki Yuuna wa Yuusha de aru | ~~Washio Sumi no Shou~~ | ~~Yuusha no Shou~~
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -70,13 +70,12 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
-(.) Net-juu no Susume [Erai-raws]
 (-) Fate/Apocrypha [UTW] 10
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Made in Abyss [Erai-raws] 08
 (-) New Game!! [Doki] 08
 (-) Occultic Nine [Chihiro?] 01
-(-) Symphogear AXZ [Commie] 07
+(.) Symphogear AXZ [Commie]
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
@@ -94,6 +93,7 @@
 (.) Mahoutsukai ni Taisetsu na Koto
 (.) Maria-sama ga Miteru S3
 (.) Nanaka
+(.) Net-juu no Susume [Erai-raws]
 (.) NG Ramune EX
 (.) NG Ramune FRESH
 (.) Nyaruko-san
@@ -114,7 +114,7 @@
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
-(/) Soushin Shoujo Matoi [DameDesuYo]
+(.) Soushin Shoujo Matoi [DameDesuYo]
 (/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|~~7Encore~~|~~7Dynamite~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|~~Plus~~
 (=) Boogie Pop
 - [x] Nerawareta Gakuen
