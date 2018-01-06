@@ -12,7 +12,9 @@
 
 ### BY SERVER
 (!) Martian Successor Nadesico
-(-) BlendS [Erai-Raws] 08
+(.) Kekkai Sensen S2
+(/) Yuuki Yuuna wa Yuusha de aru - Washio Sumi no Shou | Yuusha no Shou
+(.) BlendS [Erai-Raws]
 (.) Utawarerumono{S02} [DameDesuYo]
 (/) Clione no Akari [HorribleSubs] 08
 (-) Cyborg 009 ~~S1~~|S2
@@ -85,7 +87,7 @@
 (.) High School Fleet
 (.) K Project
 (.) Kannazuki no Miko [upload](KBagi)
-(.) Kekkai Sensen
+(.) Kekkai Sensen S1
 (.) Kokoro Connect
 (.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
 (.) Mahou Shoujo Rising Project [GJM]
