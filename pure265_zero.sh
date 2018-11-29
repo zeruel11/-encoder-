@@ -22,25 +22,28 @@ venc="libx265"
 #rat="4:3"
 #rat="16:9"
 
-vpar="-x265-params"
-
-#aenc="aac -strict experimental -b:a 128k"
-#aenc="libmp3lame -b:a 128k"
+#aenc="ac3"
+#aenc="aac"
+#aenc="libmp3lame"
 aenc="copy"
+
+audpar="-b:a"
+audbit="160k"
 
 comp="24"
 #comp="26"
 #comp="28"
 
-#scala="scale=-1:544"
+#scala="scale=-1:540"
+#scala="scale=-1:480"
 scala="scale=-1:720"
 #scala="scale=-1:1080"
 
-vidtr="-c:v"
-audtr="-c:a"
+vidtr="-codec:v"
+audtr="-codec:a"
 mapvi="0:v:0"
-mapau="0:a:0"
-mapsb="0:s:0"
+mapau="0:a:1"
+mapsb="0:s:0?"
 mapat="0:t?"
 choose="-map"
 
@@ -50,5 +53,5 @@ filename=$(basename $FILE)
 extension=${filename##*.}
 filename=${filename%.*}
 
-$HANDBRAKE_CLI -i $SRC/$FILE $vidtr $venc -preset $precode $vpar crf=$comp -vf $scala $audtr $aenc $choose $mapvi $choose $mapau $choose $mapsb $choose $mapat $DEST/$filename.$DEST_EXT
+$HANDBRAKE_CLI -i $SRC/$FILE $vidtr $venc -preset $precode -x265-params crf=$comp -vf $scala $audtr $aenc $choose $mapvi $choose $mapau $choose $mapsb $choose $mapat $DEST/$filename.$DEST_EXT
 done
