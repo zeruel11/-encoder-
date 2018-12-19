@@ -1,36 +1,35 @@
 <!-- toc orderedList:0 depthFrom:1 depthTo:3 -->
 
-- [TBD](#tbd)
-	- [BY SERVER](#by-server)
+- [TBD](#tbd) 
+	- [BY SERVER](#by-server) 
 	- [BY PC](#by-pc)
 
 <!-- tocstop -->
 
 ## TBD
+
 (?) Princess Principal [HorribleSubs]
+
 - [ ] First Squad
 
 ### BY SERVER
-(!) Martian Successor Nadesico
-(.) Kekkai Sensen S2
-(/) Yuuki Yuuna wa Yuusha de aru - Washio Sumi no Shou | Yuusha no Shou
-(.) BlendS [Erai-Raws]
-(.) Utawarerumono{S02} [DameDesuYo]
-(/) Clione no Akari [HorribleSubs] 08
+
 (-) Cyborg 009 ~~S1~~|S2
 (-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
 (-) Sakura Quest [Erai-raws] 18
-(.) Netoge no Yome wa Onna no ko ja Nai to Omotta
 (-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Show by Rock [orz?] 03
+(!) Martian Successor Nadesico
 (.) Another
 (.) Ao no Kanata
 (.) Blassreiter
+(.) BlendS [Erai-Raws]
 (.) Bubuki Buranki ~~S1~~|~~S2~~
 (.) Chrome Shelled Regios
 (.) Densetsu no Yuusha no Densetsu
 (.) Eureka Seven [Nanashi]
 (.) Hyouka
+(.) Kekkai Sensen S2
 (.) Kimi ni Todoke
 (.) Kodocha
 (.) Lodoss-tou Senki: Eiyuu Kishi Den
@@ -38,6 +37,7 @@
 (.) Mikagura Gakuen
 (.) Moribito
 (.) Narue no Sekai
+(.) Netoge no Yome wa Onna no ko ja Nai to Omotta
 (.) NG Knight Ramune
 (.) Noir
 (.) Saiyuki Reload Gunlock
@@ -53,9 +53,13 @@
 (.) The Third
 (.) Tokimeki Memorial
 (.) Tokyo Mew Mew
+(.) Utawarerumono{S02} [DameDesuYo]
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
+(.) Yuuki Yuuna wa Yuusha de aru - Washio Sumi no Shou | Yuusha no Shou
 (.) Zankyou no Terror
+(/) Clione no Akari [HorribleSubs] 08
+
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
@@ -70,8 +74,7 @@
 - [x] Blue Gender: The Warrior
 
 ### BY PC
-(.) Net-juu no Susume [Erai-raws]
-(-) Fate/Apocrypha [UTW] 10
+
 (-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
 (-) Made in Abyss [Erai-raws] 08
 (-) New Game!! [Doki] 08
@@ -83,58 +86,51 @@
 (.) Dagashi Kashi
 (.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
 (.) Frame Arms Girl
-(.) Girlish Number [~~1234~~/Davinci]
-(.) High School Fleet
+(.) Girlish Number [~~1234~~/Davinci](.) High School Fleet
 (.) K Project
 (.) Kannazuki no Miko [upload](KBagi)
 (.) Kekkai Sensen S1
 (.) Kokoro Connect
 (.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
-(.) Mahou Shoujo Rising Project [GJM]
-(.) Mahoutsukai ni Taisetsu na Koto
+(.) Mahou Shoujo Rising Project [GJM](.) Mahoutsukai ni Taisetsu na Koto
 (.) Maria-sama ga Miteru S3
 (.) Nanaka
+(.) Net-juu no Susume [Erai-raws](-) Fate/Apocrypha [UTW] 10
 (.) NG Ramune EX
 (.) NG Ramune FRESH
 (.) Nyaruko-san
 (.) Nyaruko-san W
-(.) Regalia: The Three Sacred Stars [Merchant]
-(.) Reikenzan
+(.) Regalia: The Three Sacred Stars [Merchant](.) Reikenzan
 (.) Sacred Seven
 (.) Sakura Trick
 (.) Sasameki Koto
 (.) Seikoku no Dragonar
 (.) Serial Experiments Lain
 (.) Shingetsutan Tsukihime
-(.) Shuumatsu no Izetta [~~Chihiro~~/Chuu]
-(.) SNAFU
+(.) Shuumatsu no Izetta [~~Chihiro~~/Chuu](.) SNAFU
 (.) Symphogear
 (.) Symphogear G
 (.) Symphogear GX
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
-(/) Soushin Shoujo Matoi [DameDesuYo]
-(/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|~~7Encore~~|~~7Dynamite~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|~~Plus~~
+(/) Soushin Shoujo Matoi [DameDesuYo](/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|~~7Encore~~|~~7Dynamite~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|~~Plus~~
 (=) Boogie Pop
+
 - [x] Nerawareta Gakuen
 
 > Note:
+>
 > (+) Not yet converted/Pending
+>
 > (-) Waiting for source
+>
 > (/) Converting
+>
 > (.) Done
+>
 > (=) Project/Need manual tampering
+>
 > (?) Yet to be decided to convert/TBC
+>
 > (!) Check
-
-<!-- untoc -->
-#### OpenLoad
-16/11/16 : __482__
-17/11/16 : __495__
-19/11/16 : __537__
-20/11/16 : __576__
-21/11/16 : __588__
-22/11/16 : __695__
-
-aria2c --enable-rpc --rpc-listen-all > aria2c.log 2>&1 &
