@@ -26,7 +26,10 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-workspace
 *.sublime-project
 
-##SyncToy config files
+## SyncToy config files
 SyncToy*.dat
 [MO_LO]/SyncToy*.dat
 (Vivaldi_Sessions)/SyncToy*.dat
+
+## Output files
+*.html

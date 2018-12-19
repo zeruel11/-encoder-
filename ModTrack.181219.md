@@ -1,29 +1,41 @@
+---
+title: Mod Tracking
+date: December 19, 2018
+---
+
+<!--toc-->
+
+- [MasterList Plugin Edit](#masterlist-plugin-edit)
+  - [manualPatch](#manualpatch)
+      - [SoS-Cell_Compatibility_Patch.esp[^aa638db9]](#sos-cellcompatibilitypatchespaa638db9)
+  - [bashedPatch (tags)](#bashedpatch-tags)
+    <!--tocstop-->
+
 # MasterList Plugin Edit
 
 1. Hunterborn[^1]
 2. Bathing in Skyrim[^2]
 3. All Geared Up[^3]
 
-
 [^1]: Removed perk `_DS_Perk_Botany` for compatibility with Ordinator's Experimenter perk
 [^2]: Added no absorb/reflect `SPIT` flags on 13 ability spells for Weapons and Armor Attributes compatibility
 [^3]: Added CACO `MGEF` to potions `FLST` for compatibility with CACO
 
 ## manualPatch
-CACO-Ordinator[^814044bb]
-ISC-CACO-IJ[^fb29b626]
-CACO-FriendlierTaverns-CACORUPP[^795c4e4c]
-IJ CACO-ISC Patch[^589eb7cf]
-BookofUUNP-CCOR[^8cbbbb32]
-BoundArmoryExtravaganza[^ae31ceb6]
-IJ-CoinsofTamriel[^76726f0a]
-BijinAIO-BYS[^46fd5011]
-MortalEnemies-BYS[^b253d6d4]
-ImmersiveMerchandising-CACO-Bijin[^736fd0ab]
-CCOR-SMIM[^0e4a332d]
+
+- CACO-Ordinator[^814044bb]
+- ISC-CACO-IJ[^fb29b626]
+- CACO-FriendlierTaverns-CACORUPP[^795c4e4c]
+- IJ CACO-ISC Patch[^589eb7cf]
+- BookofUUNP-CCOR[^8cbbbb32]
+- BoundArmoryExtravaganza[^ae31ceb6]
+- IJ-CoinsofTamriel[^76726f0a]
+- BijinAIO-BYS[^46fd5011]
+- MortalEnemies-BYS[^b253d6d4]
+- ImmersiveMerchandising-CACO-Bijin[^736fd0ab]
+- CCOR-SMIM[^0e4a332d]
 
 #### SoS-Cell_Compatibility_Patch.esp[^aa638db9]
-
 
 [^0e4a332d]: edited container to fit SMIM `MODL` and CCOR `CONT`
 [^736fd0ab]: Forwarded CACO changes to IM ingestibles. Also modifies NPC appearance (by Bijin) and factions (by IM) for Camilla, Ysolda, Temba, Gerdur, Ria, Ingun, Senna, Valerica, Carcette.
@@ -39,51 +51,51 @@ CCOR-SMIM[^0e4a332d]
 [^589eb7cf]: Resolving leftover conflicts from bashed patch merging
 
 ## bashedPatch (tags)
+
 ImmersiveJewelry
-```
-names stats delev relev sound
-```
+
+> names stats delev relev sound
+
 IJWintermyst
-```
-names
-```
+
+> names
+
 Coins of Tamriel V2 Legendary
-```
-delev relev
-```
+
+> delev relev
+
 Book of UUNP
-```
-delev relev
-```
+
+> delev relev
+
 ImmersiveHorses + HearthFire patch
-```
-names
-```
+
+> names
+
 SpellResearch
-```
-delev relev
-```
+
+> delev relev
+
 BringYourSilver
-```
-delev relev stats
-```
+
+> delev relev stats
+
 DwarvenAutomatonWeapons
-```
-delev relev stats
-```
+
+> delev relev stats
+
 ImprovedArtifactsCollection
-```
-names stats
-```
+
+> names stats
+
 ImmersiveSoundCompendium
-```
-sound
-```
+
+> sound
+
 BookCoverSkyrim
-```
-names
-```
+
+> names
+
 IA
-```
-relev delev
-```
+
+> relev delev
