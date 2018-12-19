@@ -30,11 +30,11 @@ vidp="-Y 720"
 #vidp="-Y 480"
 
 audtr="-a"
-trnum="3"
+trnum="1"
 
 subs="--subtitle"
 #subdef="--subtitle-default"
-subnum="4"
+subnum="1"
 #subdefn="1"
 
 #natlang="--native-language"
@@ -52,6 +52,6 @@ filename=$(basename $FILE)
 extension=${filename##*.}
 filename=${filename%.*}
 
-$HANDBRAKE_CLI -i $SRC/$FILE -o $DEST/$filename.$DEST_EXT $precode $audtr $trnum $audf $audfc $vidp $subs $subnum;
+$HANDBRAKE_CLI -i $SRC/$FILE -o $DEST/$filename.$DEST_EXT $precode $audtr $trnum $audf $audfc $vidp $subs $subnum 2> ~/handbrake.out/$filename.job;
 mv -v "$DEST/$filename.$DEST_EXT" "$(echo $DEST/$filename.$DEST_EXT | sed 's/_/ /g')" ;
 done
