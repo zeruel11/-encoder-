@@ -1,7 +1,7 @@
 <!-- toc orderedList:0 depthFrom:1 depthTo:3 -->
 
-- [TBD](#tbd) 
-	- [BY SERVER](#by-server) 
+- [TBD](#tbd)
+	- [BY SERVER](#by-server)
 	- [BY PC](#by-pc)
 
 <!-- tocstop -->
@@ -75,46 +75,52 @@
 
 ### BY PC
 
-(-) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
-(-) Made in Abyss [Erai-raws] 08
-(-) New Game!! [Doki] 08
-(-) Occultic Nine [Chihiro?] 01
-(-) Symphogear AXZ [Commie] 07
+(+) Hibike! Euphonium ~~S1~~|S2 [FFF] 07
+(+) Made in Abyss [Erai-raws]
+(+) New Game!! [Doki] 08
+(+) Occultic Nine []
+(+) Symphogear AXZ [Commie] 07
 (.) Ao no Exorcist
 (.) Aoi Hana
 (.) Blood C
 (.) Dagashi Kashi
 (.) Fight Ippatsu! Juuden-chan!! ~~TV~~|~~Special~~
 (.) Frame Arms Girl
-(.) Girlish Number [~~1234~~/Davinci](.) High School Fleet
+(.) Girlish Number [~~1234~~/Davinci]
+(.) High School Fleet
 (.) K Project
 (.) Kannazuki no Miko [upload](KBagi)
 (.) Kekkai Sensen S1
 (.) Kokoro Connect
 (.) Kuttsukiboshi..Candy Boy [optional](original on cloud)
-(.) Mahou Shoujo Rising Project [GJM](.) Mahoutsukai ni Taisetsu na Koto
+(.) Mahou Shoujo Rising Project [GJM]
+(.) Mahoutsukai ni Taisetsu na Koto
 (.) Maria-sama ga Miteru S3
 (.) Nanaka
-(.) Net-juu no Susume [Erai-raws](-) Fate/Apocrypha [UTW] 10
+(.) Net-juu no Susume [Erai-raws]
+(-) Fate/Apocrypha [UTW] 10
 (.) NG Ramune EX
 (.) NG Ramune FRESH
 (.) Nyaruko-san
 (.) Nyaruko-san W
-(.) Regalia: The Three Sacred Stars [Merchant](.) Reikenzan
+(.) Regalia: The Three Sacred Stars [Merchant]
+(.) Reikenzan
 (.) Sacred Seven
 (.) Sakura Trick
 (.) Sasameki Koto
 (.) Seikoku no Dragonar
 (.) Serial Experiments Lain
 (.) Shingetsutan Tsukihime
-(.) Shuumatsu no Izetta [~~Chihiro~~/Chuu](.) SNAFU
+(.) Shuumatsu no Izetta [~~Chihiro~~/Chuu]
+(.) SNAFU
 (.) Symphogear
 (.) Symphogear G
 (.) Symphogear GX
 (.) Tenshi ni Shippo S2
 (.) Valkyrie Drive
 (.) Yozakura Quartet
-(/) Soushin Shoujo Matoi [DameDesuYo](/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|~~7Encore~~|~~7Dynamite~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|~~Plus~~
+(/) Soushin Shoujo Matoi [DameDesuYo]
+(/) ~~SuperDimension Fortress~~ Macross|~~Seven~~|~~7Encore~~|~~7Dynamite~~|Frontier.reencodeFLAC.EP07error|Delta.recheckE02&E25|~~Zero~~|~~Plus~~
 (=) Boogie Pop
 
 - [x] Nerawareta Gakuen

@@ -43,7 +43,7 @@ subnum="1"
 for FILE in `ls $SRC`
 do
 	if [[ "$FILE" == "kusus" ]] ; then
-              continue;
+        continue;
 	fi
 	if [[ "$FILE" == "simpan" ]] ; then
 		continue;
