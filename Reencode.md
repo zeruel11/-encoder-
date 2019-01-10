@@ -2,6 +2,8 @@
 
 - [TBD](#tbd)
 	- [BY SERVER](#by-server)
+			- [Anime](#anime)
+			- [TVs](#tvs)
 	- [BY PC](#by-pc)
 
 <!-- tocstop -->
@@ -13,6 +15,8 @@
 - [ ] First Squad
 
 ### BY SERVER
+
+##### Anime
 
 (-) Cyborg 009 ~~S1~~|S2
 (-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
@@ -72,6 +76,15 @@
 - [x] Hibike! Euphonium Movie
 - [x] Tailenders
 - [x] Blue Gender: The Warrior
+
+##### TVs
+
+(+) Lost in Space
+(+) Chilling Adventures of Sabrina
+(+) Altered Carbon
+(/) Shannara S1|S2
+(-) The Gifted
+(-) The Flash
 
 ### BY PC
 
