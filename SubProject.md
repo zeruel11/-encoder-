@@ -27,10 +27,11 @@
     - [x] Rebuild subs
     - [ ] Remux
 10. Telepathy Shoujo Ran [^4]
-11. asd
+11. Zombieland Saga [^5]
 
 
 [^1]: Karatime from [1234] and usual subs from [Davinci] for better translation. Might reconsider since [1234] uses better formatting of subs, possible to use [1234] as default and changes the lines to [Davinci]
 [^2]: Resubbing from (ind) or find another fansub
 [^3]: Remuxing EN subs and recheck if subs are compatible, also remove the incomplete subs note
 [^4]: Remuxing attachments and remove unused movie track
+[^5]: Adding chapters
