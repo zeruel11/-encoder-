@@ -12,9 +12,9 @@
 
 ### BY SERVER
 (!) Martian Successor Nadesico
+(!) Sakura Quest [Erai-raws] 17-18
 (-) Cyborg 009 ~~S1~~|S2
 (-) Glee ~~S1~~|~~S2~~|~~S3~~|S4|S5|S6
-(/) Sakura Quest [Erai-raws] 18
 (-) Seitokai Yakuindomo ~~S1~~|S2 [redownload](file error on convert, still investigating)
 (-) Show by Rock [orz?] 03
 (.) Another
@@ -53,9 +53,9 @@
 (.) Utawarerumono{S02} [DameDesuYo]
 (.) ViVid Strike! [VividTrans]
 (.) When They Cry Higurashi
+(.) Yuuki Yuuna wa Yuusha de aru | ~~Washio Sumi no Shou~~ | ~~Yuusha no Shou~~
 (.) Zankyou no Terror
 (/) Clione no Akari [HorribleSubs] 08
-(/) Yuuki Yuuna wa Yuusha de aru | ~~Washio Sumi no Shou~~ | ~~Yuusha no Shou~~
 - [x] Glass no Hana to Kowasu Sekai
 - [x] Rakuen Tsuihou
 - [x] The Girl Who Leapt Through Time
