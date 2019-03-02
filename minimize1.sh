@@ -11,16 +11,21 @@ HANDBRAKE_CLI=HandBrakeCLI
 #IFS=$(echo -en "\n\b")
 
 frams="23.976"
+#frams="23.810"
 #frams="24"
 #frams="29.92"
 
 #aude="av_aac"
 #aude="ac3"
-aude="copy"
+aude="copy:ac3"
 
-precode="-e x265 -q 26 -r $frams --aencoder $aude -B 128"
+precode="-e x265 -q 26 -r $frams --aencoder $aude"
 #precode="tes265.plist"
 
+audf="--audio-fallback"
+audfc="ac3"
+
+#vidp="-Y 1080"
 vidp="-Y 720"
 #vidp="-Y 480"
 
@@ -28,9 +33,9 @@ audtr="-a"
 trnum="1"
 
 subs="--subtitle"
-subdef="--subtitle-default"
-subnum="scan,1"
-subdefn="1"
+#subdef="--subtitle-default"
+subnum="1"
+#subdefn="1"
 
 #natlang="--native-language"
 #langfil="jap"
@@ -38,12 +43,15 @@ subdefn="1"
 for FILE in `ls $SRC`
 do
 	if [[ "$FILE" == "kusus" ]] ; then
-              continue;
+        continue;
+	fi
+	if [[ "$FILE" == "simpan" ]] ; then
+		continue;
 	fi
 filename=$(basename $FILE)
 extension=${filename##*.}
 filename=${filename%.*}
 
-$HANDBRAKE_CLI -i $SRC/$FILE -o $DEST/$filename.$DEST_EXT $precode $audtr "$trnum" $vidp $subs "$subnum" $subdef "$subdefn" $natlang "$langfil";
+$HANDBRAKE_CLI -i $SRC/$FILE -o $DEST/$filename.$DEST_EXT $precode $audtr $trnum $audf $audfc $vidp $subs $subnum 2> ~/handbrake.out/$filename.job;
 mv -v "$DEST/$filename.$DEST_EXT" "$(echo $DEST/$filename.$DEST_EXT | sed 's/_/ /g')" ;
 done
